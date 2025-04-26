@@ -1,0 +1,5457 @@
+{
+    "@@locale": "it",
+
+    "my_team": "Il mio team",
+    "@my_team": {},
+
+    "search_team": "Cerca il tuo team...",
+    "@search_team": {},
+
+    "you": "Tu",
+    "@you": {},
+
+    "trainer_details": "Dettagli del trainer",
+    "@trainer_details": {},
+
+    "trainer": "Trainer",
+    "@trainer": {},
+
+    "contact_information": "Informazioni di contatto",
+    "@contact_information": {},
+
+    "professional_information": "Informazioni professionali",
+    "@professional_information": {},
+
+
+
+
+
+
+
+    "code": "Codice",
+    "@code": {},
+
+    "invitation_code": "Codice di invito",
+    "@invitation_code": {},
+    
+    "enter_invitation_code": "Inserisci il codice di invito",
+    "@enter_invitation_code": {},
+
+    "connection_created": "Connessione creata",
+    "@connection_created": {},
+
+    "successfully_connected_with_trainer": "Connesso con successo con il trainer",
+    "@successfully_connected_with_trainer": {},
+
+    "invalid_invitation_code": "Codice di invito invalido",
+    "@invalid_invitation_code": {},
+
+    "invitation_code_already_used": "Questo codice di invito è già stato utilizzato",
+    "@invitation_code_already_used": {},
+
+    "cannot_connect_with_yourself": "Non puoi connetterti con te stesso",
+    "@cannot_connect_with_yourself": {},
+
+    "already_have_connection_with_professional": "Hai già una connessione con questo professionista",
+    "@already_have_connection_with_professional": {},
+
+    "enter_invitation_code_shared_by_your_trainer": "Inserisci il codice di invito condiviso dal tuo trainer:",
+    "@enter_invitation_code_shared_by_your_trainer": {},
+
+    "coachtrack_invitation": "Invito CoachTrack",
+    "@coachtrack_invitation": {},
+
+    "join_me_on_coachtrack": "Unisciti a me su CoachTrack!",
+    "@join_me_on_coachtrack": {},
+
+    "click_here_to_join": "Clicca qui per unirti:",
+    "@click_here_to_join": {},
+
+    "or_enter_this_invitation_code": "O inserisci questo codice di invito:",
+    "@or_enter_this_invitation_code": {},
+
+    "dont_have_the_app_yet": "Non hai l'app ancora?",
+    "@dont_have_the_app_yet": {},
+
+  "android_store_link": "Android: {androidStoreLink}",
+  "@android_store_link": {
+    "placeholders": {
+      "androidStoreLink": {
+        "type": "String",
+        "example": "https://play.google.com/store/apps/details?id=com.coachtrack.app"
+      }
+    }
+  },
+
+  "ios_store_link": "iOS: {iosStoreLink}",
+  "@ios_store_link": {
+    "placeholders": {
+      "iosStoreLink": {
+        "type": "String",
+        "example": "https://apps.apple.com/app/id1234567890"
+      }
+    }
+  },
+
+
+
+  "cannot_connect_to_yourself": "Non puoi connetterti con te stesso",
+  "@cannot_connect_to_yourself": {},
+
+  "trainers_cannot_connect_to_other_trainers": "I coach non possono connettersi a altri coach",
+  "@trainers_cannot_connect_to_other_trainers": {},
+
+
+
+
+
+
+
+    "email": "Email",
+    "@email": {},
+
+    "phone": "Telefono",
+    "@phone": {},
+
+    "location": "Posizione",
+    "@location": {},
+
+    "specialization": "Specializzazione",
+    "@specialization": {},
+
+    "experience": "Esperienza",
+    "@experience": {},
+
+    "certifications": "Certificazioni",
+    "@certifications": {},
+
+    "front_view": "Vista frontale",
+    "@front_view": {},
+
+    "back_view": "Vista posteriore",
+    "@back_view": {},
+
+    "left_side": "Lato sinistro",
+    "@left_side": {},
+
+    "right_side": "Lato destro",
+    "@right_side": {},
+
+    "available_slots": "Slot disponibili",
+    "@available_slots": {},
+
+    "next_session_in": "Prossima sessione disponibile tra",
+    "@next_session_in": {},
+
+    "learn_more": "Scopri di più",
+    "@learn_more": {},
+
+    "no_upcoming_sessions": "Nessuna sessione in programma",
+    "@no_upcoming_sessions": {},
+
+    "available": "Disponibile",
+    "@available": {},
+
+    "meal_plans_web": "Piani alimentari",
+    "@meal_plans_web": {},
+
+    "workout_plans_web": "Piani di allenamento",
+    "@workout_plans_web": {},
+
+    "book_session_web_button": "Prenota sessione",
+    "@book_session_web_button": {},
+
+    "log_progress_web_button": "Registra progressi",
+    "@log_progress_web_button": {},
+
+    "search_notifications": "Cerca notifiche...",
+    "@search_notifications": {},
+
+    "search_messages": "Cerca messaggi...",
+    "@search_messages": {},
+
+    "available_capital": "DISPONIBILE",
+    "@available_capital": {},
+
+    "group_session": "Sessione di gruppo",
+    "@group_session": {},
+
+    "training_session": "Sessione di allenamento",
+    "@training_session": {},
+
+    "group": "Gruppo",
+    "@group": {},
+
+    "withdrawn": "RITIRATO",
+    "@withdrawn": {},
+
+    "declined": "RIFIUTATO",
+    "@declined": {},
+
+    "pending": "IN ATTESA",
+    "@pending": {},
+
+    "at_time": "alle {time}",
+    "@at_time": {
+        "placeholders": {
+            "time": {
+                "type": "String",
+                "example": "2:00 PM"
+            }
+        }
+    },
+
+    "available_slot": "Slot disponibile",
+    "@available_slot": {},
+
+    "requested": "RICHIESTO",
+    "@requested": {},
+
+    "no_slots_available": "Nessuno slot disponibile per questa data",
+    "@no_slots_available": {},
+
+    "progress_photos": "Foto dei progressi",
+    "@progress_photos": {},
+
+    "to_compare": "da confrontare",
+    "@to_compare": {},
+
+    "compare": "Confronta",
+    "@compare": {},
+
+    "selected_count": "({count}/2)",
+    "@selected_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+
+    "vs": "vs",
+    "@vs": {},
+
+    "front": "Fronte",
+    "@front": {},
+
+    "left": "Sinistra",
+    "@left": {},
+
+    "right": "Destra",
+    "@right": {},
+
+    "workout_plan_details": "Dettagli piano di allenamento",
+    "@workout_plan_details": {},
+
+    "day": "Giorno",
+    "@day": {},
+
+    "no_notes_available": "Nessuna nota disponibile",
+    "@no_notes_available": {},
+
+    "delete_plan": "Elimina piano",
+    "@delete_plan": {},
+
+    "delete_plan_title": "Elimina piano di allenamento",
+    "@delete_plan_title": {},
+
+    "delete_plan_message": "Sei sicuro di voler eliminare questo piano di allenamento? Questa azione non può essere annullata.",
+    "@delete_plan_message": {},
+
+    "delete": "Elimina",
+    "@delete": {},
+
+    "plan_deleted": "Piano di allenamento eliminato con successo",
+    "@plan_deleted": {},
+
+    "plan_completed": "Piano di allenamento completato con successo",
+    "@plan_completed": {},
+
+    "goal": "Obiettivo",
+    "@goal": {},
+
+    "error_deleting_plan": "Errore durante l'eliminazione del piano: {error}",
+    "@error_deleting_plan": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Network error"
+            }
+        }
+    },
+
+    "error_completing_plan": "Errore durante il completamento del piano: {error}",
+    "@error_completing_plan": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Network error"
+            }
+        }
+    },
+
+    "weekly_schedule": "Programma settimanale",
+    "@weekly_schedule": {},
+
+    "no_sessions": "Nessuna sessione",
+    "@no_sessions": {},
+
+    "virtual": "Virtuale",
+    "@virtual": {},
+
+    "in_person": "Di persona",
+    "@in_person": {},
+
+    "initial_session": "Sessione iniziale",
+    "@initial_session": {},
+
+    "follow_up_session": "Sessione di follow-up",
+    "@follow_up_session": {},
+
+    "recurring_session": "Sessione ricorrente",
+    "@recurring_session": {},
+
+    "booked": "Prenotato",
+    "@booked": {},
+
+    "cancelled": "Annullato",
+    "@cancelled": {},
+
+    "past": "Passato",
+    "@past": {},
+
+    "monday": "Lunedì",
+    "@monday": {},
+
+    "tuesday": "Martedì",
+    "@tuesday": {},
+
+    "wednesday": "Mercoledì",
+    "@wednesday": {},
+
+    "thursday": "Giovedì",
+    "@thursday": {},
+
+    "friday": "Venerdì",
+    "@friday": {},
+
+    "saturday": "Sabato",
+    "@saturday": {},
+
+    "sunday": "Domenica",
+    "@sunday": {},
+
+    "home": "Home",
+    "@home": {},
+
+    "meal": "Pasto",
+    "@meal": {},
+
+    "workout": "Allenamento",
+    "@workout": {},
+
+    "book_session": "Prenota\nSessione",
+    "@book_session": {},
+
+    "log_progress": "Registra\nProgressi",
+    "@log_progress": {},
+
+    "error_loading_details": "Errore durante il caricamento dei dettagli del piano",
+    "@error_loading_details": {},
+
+    "client": "Cliente",
+    "@client": {},
+
+    "account": "Account",
+    "@account": {},
+
+    "profile": "Profilo",
+    "@profile": {},
+
+    "available_hours": "Ore disponibili",
+    "@available_hours": {},
+
+    "available_hours_subtitle": "Durata predefinita, tempi di pausa",
+    "@available_hours_subtitle": {},
+
+    "payment_settings": "Impostazioni pagamento",
+    "@payment_settings": {},
+
+    "security": "Sicurezza",
+    "@security": {},
+
+    "sensitive_data": "Dati sensibili",
+    "@sensitive_data": {},
+
+    "password": "Password",
+    "@password": {},
+
+    "notifications": "Notifiche",
+    "@notifications": {},
+
+    "push_notifications": "Notifiche push",
+    "@push_notifications": {},
+
+    "email_notifications": "Notifiche email",
+    "@email_notifications": {},
+
+    "app_settings": "Impostazioni app",
+    "@app_settings": {},
+
+    "language": "Lingua",
+    "@language": {},
+
+    "unit_preferences": "Preferenze unità",
+    "@unit_preferences": {},
+
+    "dark_mode": "Modalità scura",
+    "@dark_mode": {},
+
+    "support": "Supporto",
+    "@support": {},
+
+    "help_center": "Centro assistenza",
+    "@help_center": {},
+
+    "privacy_policy": "Privacy policy",
+    "@privacy_policy": {},
+
+    "terms_of_service": "Termini di servizio",
+    "@terms_of_service": {},
+
+    "about_us": "Chi siamo",
+    "@about_us": {},
+
+    "feedback": "Feedback",
+    "@feedback": {},
+
+    "rate_us": "Valutaci",
+    "@rate_us": {},
+
+    "faqs": "FAQ",
+    "@faqs": {},
+
+    "contact_us": "Contattaci",
+    "@contact_us": {},
+
+    "sign_out": "Esci",
+    "@sign_out": {},
+
+    "danger_zone": "Zona pericolosa",
+    "@danger_zone": {},
+
+    "delete_account": "Elimina account",
+    "@delete_account": {},
+
+    "session_details": "Dettagli sessione",
+    "@session_details": {},
+
+    "cancel_session": "Annulla sessione",
+    "@cancel_session": {},
+
+    "cancel_session_message": "Sei sicuro di voler annullare questa sessione?",
+    "@cancel_session_message": {},
+
+    "confirm": "Conferma",
+    "@confirm": {},
+
+    "participate": "PARTECIPA",
+    "@participate": {},
+
+    "book_now": "PRENOTA ORA",
+    "@book_now": {},
+
+    "delete_session": "Elimina sessione",
+    "@delete_session": {},
+
+    "delete_session_confirm": "Sei sicuro di voler eliminare questa sessione?",
+    "@delete_session_confirm": {},
+
+    "yes": "Sì",
+    "@yes": {},
+
+    "no": "No",
+    "@no": {},
+
+    "past_session_note": "La sessione è passata. Puoi ancora aggiungere note alla sessione.",
+    "@past_session_note": {},
+
+    "session_request_success": "Richiesta sessione inviata con successo",
+    "@session_request_success": {},
+
+    "session_request_failed": "Prenotazione sessione fallita. Riprova.",
+    "@session_request_failed": {},
+
+    "request_withdrawn_success": "Richiesta ritirata con successo",
+    "@request_withdrawn_success": {},
+
+    "error_loading_session": "Errore: {error}",
+    "@error_loading_session": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+
+    "book_a_session": "Prenota una sessione",
+    "@book_a_session": {},
+
+    "search_trainers": "Cerca trainer...",
+    "@search_trainers": {},
+
+    "view_slots": "Visualizza slot",
+    "@view_slots": {},
+
+    "achievements": "Obiettivi raggiunti",
+    "@achievements": {},
+
+    "progress": "Progressi",
+    "@progress": {},
+
+    "strength_milestone": "Traguardo di forza",
+    "@strength_milestone": {},
+
+    "consistency": "Costanza",
+    "@consistency": {},
+
+    "workouts_completed": "{count} allenamenti completati",
+    "@workouts_completed": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+
+    "your_next_available_session_in": "La tua prossima sessione disponibile tra",
+    "@your_next_available_session_in": {},
+
+    "meal_plan_details": "Dettagli piano alimentare",
+    "@meal_plan_details": {},
+
+    "delete_meal_plan": "Elimina piano alimentare",
+    "@delete_meal_plan": {},
+
+    "delete_meal_plan_message": "Sei sicuro di voler eliminare questo piano alimentare?",
+    "@delete_meal_plan_message": {},
+
+    "meal_plan_deleted": "Piano alimentare eliminato con successo",
+    "@meal_plan_deleted": {},
+
+    "error_deleting_meal_plan": "Errore durante l'eliminazione del piano alimentare: {error}",
+    "@error_deleting_meal_plan": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+
+    "welcome_back": "Bentornato",
+    "@welcome_back": {},
+
+    "upcoming_sessions": "Sessioni in programma",
+    "@upcoming_sessions": {},
+
+    "no_upcoming_sessions_message": "Nessuna sessione in programma",
+    "@no_upcoming_sessions_message": {},
+
+    "book_your_first": "Prenota la tua prima sessione",
+    "@book_your_first": {},
+
+    "today": "Oggi",
+    "@today": {},
+
+    "tomorrow": "Domani",
+    "@tomorrow": {},
+
+    "in_days": "tra {days} giorni",
+    "@in_days": {
+        "placeholders": {
+            "days": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+
+    "log_progress_title": "Registra progressi",
+    "@log_progress_title": {},
+
+    "basic_measurements": "Misure base",
+    "@basic_measurements": {},
+
+    "body_measurements": "Misure corporee",
+    "@body_measurements": {},
+
+    "body_fat": "Grasso corporeo",
+    "@body_fat": {},
+
+    "no_notifications": "Nessuna notifica",
+    "@no_notifications": {},
+
+    "mark_all_read": "Segna tutto come letto",
+    "@mark_all_read": {},
+
+    "just_now": "Proprio ora",
+    "@just_now": {},
+
+    "minutes_ago": "{minutes}m fa",
+    "@minutes_ago": {
+        "placeholders": {
+            "minutes": {
+                "type": "int"
+            }
+        }
+    },
+
+    "hours_ago": "{hours}h fa",
+    "@hours_ago": {
+        "placeholders": {
+            "hours": {
+                "type": "int"
+            }
+        }
+    },
+
+    "days_ago": "{days}g fa",
+    "@days_ago": {
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
+
+    "onboarding": "Onboarding",
+    "@onboarding": {},
+
+    "gender": "Genere",
+    "@gender": {},
+
+    "male": "Maschio",
+    "@male": {},
+
+    "female": "Femmina",
+    "@female": {},
+
+    "other": "Altro",
+    "@other": {},
+
+    "fitness_goals": "Obiettivi fitness",
+    "@fitness_goals": {},
+
+    "medical_conditions": "Condizioni mediche",
+    "@medical_conditions": {},
+
+    "dietary_restrictions": "Restrizioni alimentari",
+    "@dietary_restrictions": {},
+
+    "trainer_preferences": "Preferenze trainer",
+    "@trainer_preferences": {},
+
+    "previous": "Precedente",
+    "@previous": {},
+
+    "finish": "Fine",
+    "@finish": {},
+
+    "social_media": "Social media",
+    "@social_media": {},
+
+    "edit_profile": "Modifica profilo",
+    "@edit_profile": {},
+
+    "edit_background": "Modifica immagine di sfondo",
+    "@edit_background": {},
+
+    "remove_background": "Rimuovi immagine di sfondo",
+    "@remove_background": {},
+
+    "loading_profile": "Caricamento profilo...",
+    "@loading_profile": {},
+
+    "progress_details": "Dettagli progressi",
+    "@progress_details": {},
+
+    "measurements_access_denied": "Accesso alle misure negato",
+    "@measurements_access_denied": {},
+
+    "measurements_access_message": "Il cliente non ha concesso l'accesso per visualizzare i suoi dati di misurazione.",
+    "@measurements_access_message": {},
+
+    "photos_access_denied": "Accesso alle foto dei progressi negato",
+    "@photos_access_denied": {},
+
+    "photos_access_message": "Il cliente non ha concesso l'accesso per visualizzare le sue foto dei progressi.",
+    "@photos_access_message": {},
+
+    "progress_history": "Storico progressi",
+    "@progress_history": {},
+
+    "logged_by": "Registrato da {name}",
+    "@logged_by": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+
+    "photo_comparison": "Confronto foto",
+    "@photo_comparison": {},
+
+    "select_photos": "Seleziona foto",
+    "@select_photos": {},
+
+    "compare_photos": "Confronta foto",
+    "@compare_photos": {},
+
+    "no_photos_selected": "Nessuna foto selezionata",
+    "@no_photos_selected": {},
+
+    "select_two_photos": "Seleziona due foto da confrontare",
+    "@select_two_photos": {},
+
+    "front_view_comparison": "Confronto vista frontale",
+    "@front_view_comparison": {},
+
+    "back_view_comparison": "Confronto vista posteriore",
+    "@back_view_comparison": {},
+
+    "side_view_comparison": "Confronto vista laterale",
+    "@side_view_comparison": {},
+
+    "before": "Prima",
+    "@before": {},
+
+    "after": "Dopo",
+    "@after": {},
+
+    "date_format": "dd MMMM yyyy",
+    "@date_format": {},
+
+    "error_loading_photos": "Errore durante il caricamento delle foto: {error}",
+    "@error_loading_photos": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+
+    "enter_about": "Parlaci di te",
+    "@enter_about": {},
+
+    "enter_experience": "Inserisci la tua esperienza",
+    "@enter_experience": {},
+
+    "enter_specialization": "Inserisci la tua specializzazione",
+    "@enter_specialization": {},
+
+    "enter_certifications": "Inserisci le tue certificazioni",
+    "@enter_certifications": {},
+
+    "enter_education": "Inserisci la tua formazione",
+    "@enter_education": {},
+
+    "enter_injuries": "Seleziona o digita eventuali condizioni...",
+    "@enter_injuries": {},
+
+    "enter_dietary": "Seleziona o digita eventuali restrizioni alimentari...",
+    "@enter_dietary": {},
+
+    "enter_goals": "Seleziona il tuo obiettivo fitness principale",
+    "@enter_goals": {},
+
+    "enter_trainer_prefs": "Seleziona o descrivi le qualità preferite del trainer...",
+    "@enter_trainer_prefs": {},
+
+    "profile_photo_title": "Foto profilo",
+    "@profile_photo_title": {},
+
+    "profile_photo_desc": "Aggiungi una foto chiara di te stesso",
+    "@profile_photo_desc": {},
+
+    "birthday_title": "DATA DI NASCITA",
+    "@birthday_title": {},
+
+    "gender_title": "GENERE",
+    "@gender_title": {},
+
+    "social_media_title": "SOCIAL MEDIA",
+    "@social_media_title": {},
+
+    "available_hours_title": "ORE DISPONIBILI",
+    "@available_hours_title": {},
+
+    "payment_methods_title": "METODI DI PAGAMENTO",
+    "@payment_methods_title": {},
+
+    "consent_settings_title": "IMPOSTAZIONI CONSENSO",
+    "@consent_settings_title": {},
+
+    "fitness_level_title": "LIVELLO FITNESS",
+    "@fitness_level_title": {},
+
+    "fitness_level_desc": "Valuta il tuo livello di fitness attuale",
+    "@fitness_level_desc": {},
+
+    "consent_measurements_title": "Misurazioni",
+    "@consent_measurements_title": {},
+
+    "consent_measurements_desc": "Permetti ai trainer di vedere le tue misurazioni",
+    "@consent_measurements_desc": {},
+
+    "consent_photos_title": "Foto dei progressi",
+    "@consent_photos_title": {},
+
+    "consent_photos_desc": "Permetti ai trainer di vedere le tue foto dei progressi",
+    "@consent_photos_desc": {},
+
+    "consent_location_title": "Posizione",
+    "@consent_location_title": {},
+
+    "consent_location_desc": "Permetti ai trainer di vedere la tua posizione",
+    "@consent_location_desc": {},
+
+    "consent_social_title": "Social media",
+    "@consent_social_title": {},
+
+    "consent_social_desc": "Permetti ai trainer di vedere i tuoi social media",
+    "@consent_social_desc": {},
+
+    "account_settings": "Impostazioni account",
+    "@account_settings": {},
+
+    "update_failed": "Aggiornamento fallito",
+    "@update_failed": {},
+
+    "full_name": "Nome completo",
+    "@full_name": {},
+
+    "email_address": "Indirizzo email",
+    "@email_address": {},
+
+    "location_label": "Posizione",
+    "@location_label": {},
+
+    "location_hint": "Città, Stato, Paese",
+    "@location_hint": {},
+
+    "save": "Salva",
+    "@save": {},
+
+    "ok": "OK",
+    "@ok": {},
+
+    "my_dashboard": "La mia dashboard",
+    "@my_dashboard": {},
+
+    "my_progress": "I miei progressi",
+    "@my_progress": {},
+
+    "my_workouts": "I miei allenamenti",
+    "@my_workouts": {},
+
+    "my_meals": "I miei pasti",
+    "@my_meals": {},
+
+    "my_sessions": "Le mie sessioni",
+    "@my_sessions": {},
+
+    "start_session": "Inizia sessione",
+    "@start_session": {},
+
+    "view_details": "Vedi dettagli",
+    "@view_details": {},
+
+    "active_plan": "Piano attivo",
+    "@active_plan": {},
+
+    "no_active_plan": "Nessun piano attivo",
+    "@no_active_plan": {},
+
+    "get_started": "Inizia",
+    "@get_started": {},
+
+    "contact_info": "Informazioni di contatto",
+    "@contact_info": {},
+
+    "contact_info_subtitle": "Come possono contattarti i clienti?",
+    "@contact_info_subtitle": {},
+
+    "about_you": "Su di te",
+    "@about_you": {},
+
+    "about_you_subtitle": "Racconta ai potenziali clienti di te",
+    "@about_you_subtitle": {},
+
+    "city_state_country": "Città, Stato, Paese",
+    "@city_state_country": {},
+
+    "health_fitness": "Fondamenti di salute e fitness",
+    "@health_fitness": {},
+
+    "current_fitness": "Livello fitness attuale",
+    "@current_fitness": {},
+
+    "goals_preferences": "Obiettivi e preferenze",
+    "@goals_preferences": {},
+
+    "secondary_goal_hint": "Seleziona il tuo obiettivo fitness secondario",
+    "@secondary_goal_hint": {},
+
+    "data_sharing": "Consenso condivisione dati",
+    "@data_sharing": {},
+
+    "data_sharing_subtitle": "Permetti al tuo trainer di accedere ai seguenti dati per aiutarti a personalizzare il tuo piano fitness",
+    "@data_sharing_subtitle": {},
+
+    "consent_birthday_title": "Data di nascita",
+    "@consent_birthday_title": {},
+
+    "consent_birthday_desc": "Condividi la tua data di nascita per aiutare i trainer a personalizzare il tuo piano fitness",
+    "@consent_birthday_desc": {},
+
+    "consent_email_title": "Indirizzo email",
+    "@consent_email_title": {},
+
+    "consent_email_desc": "Permetti ai trainer di contattarti via email",
+    "@consent_email_desc": {},
+
+    "consent_phone_title": "Numero di telefono",
+    "@consent_phone_title": {},
+
+    "consent_phone_desc": "Abilita la comunicazione diretta con i trainer",
+    "@consent_phone_desc": {},
+
+    "consent_social_media_title": "Social media",
+    "@consent_social_media_title": {},
+
+    "consent_social_media_desc": "Connettiti con i trainer sulle piattaforme social",
+    "@consent_social_media_desc": {},
+
+    "skip_all": "Salta tutto",
+    "@skip_all": {},
+
+    "step_count": "Passo {current} di {total}",
+    "@step_count": {
+        "placeholders": {
+            "current": {
+                "type": "int",
+                "example": "1"
+            },
+            "total": {
+                "type": "int",
+                "example": "8"
+            }
+        }
+    },
+
+    "almost_done": "Quasi fatto!",
+    "@almost_done": {},
+
+    "review_profile": "Rivedi e conferma le tue informazioni del profilo. Puoi sempre aggiornare questi dettagli in seguito.",
+    "@review_profile": {},
+
+    "progress_photo": "Foto dei progressi",
+    "@progress_photo": {},
+
+    "business_profile_subtitle": "Configura le tue informazioni aziendali",
+    "@business_profile_subtitle": {},
+
+    "hourly_rate_hint": "La tua tariffa oraria standard",
+    "@hourly_rate_hint": {},
+
+    "package_rates_hint": "Descrivi le tue opzioni di pacchetti e tariffe",
+    "@package_rates_hint": {},
+
+    "body_measurements_title": "Misure corporee",
+    "@body_measurements_title": {},
+
+    "height_title": "Altezza",
+    "@height_title": {},
+
+    "weight_title": "Peso",
+    "@weight_title": {},
+
+    "goals_preferences_title": "Obiettivi e preferenze",
+    "@goals_preferences_title": {},
+
+    "specializations": "Specializzazioni",
+    "@specializations": {},
+
+    "search_specializations": "Cerca specializzazioni...",
+    "@search_specializations": {},
+
+    "selected": "Selezionato:",
+    "@selected": {},
+
+    "step_progress": "Passo {current} di {total}",
+    "@step_progress": {
+        "placeholders": {
+            "current": {
+                "type": "int"
+            },
+            "total": {
+                "type": "int"
+            }
+        }
+    },
+
+    "weekly_availability_title": "Disponibilità settimanale",
+    "@weekly_availability_title": {},
+
+    "specializations_title": "Specializzazioni",
+    "@specializations_title": {},
+
+    "selected_specializations": "Specializzazioni selezionate",
+    "@selected_specializations": {},
+
+    "education_category": "Categoria istruzione",
+    "@education_category": {},
+
+    "education_item": "Elemento istruzione",
+    "@education_item": {},
+
+    "custom_education": "Istruzione personalizzata",
+    "@custom_education": {},
+
+    "subject": "Materia",
+    "@subject": {},
+
+    "select_category": "Seleziona categoria",
+    "@select_category": {},
+
+    "select_item": "Seleziona elemento",
+    "@select_item": {},
+
+    "enter_custom_education": "Inserisci i dettagli dell'istruzione personalizzata",
+    "@enter_custom_education": {},
+
+    "enter_custom_specialization": "Inserisci una specializzazione personalizzata...",
+    "@enter_custom_specialization": {},
+
+    "error_completing_setup": "Errore durante il completamento della configurazione: {error}",
+    "@error_completing_setup": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+
+    "progress_saved": "Progressi salvati con successo!",
+    "@progress_saved": {},
+
+    "error_saving_progress": "Errore durante il salvataggio dei progressi: {error}",
+    "@error_saving_progress": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+
+    "start_workout_plan": "Inizia piano di allenamento",
+    "@start_workout_plan": {},
+
+    "exercise_video": "Video esercizio",
+    "@exercise_video": {},
+
+    "exercise_notes": "Note esercizio",
+    "@exercise_notes": {},
+
+    "exercise_instructions": "Istruzioni",
+    "@exercise_instructions": {},
+
+    "exercise_weight": "Peso",
+    "@exercise_weight": {},
+
+    "exercise_rest": "Riposo",
+    "@exercise_rest": {},
+
+    "exercise_equipment": "Attrezzatura: {equipment}",
+    "@exercise_equipment": {
+        "placeholders": {
+            "equipment": {
+                "type": "String",
+                "example": "Dumbbells"
+            }
+        }
+    },
+
+    "check_all": "Seleziona tutto",
+    "@check_all": {},
+
+    "uncheck_all": "Deseleziona tutto",
+    "@uncheck_all": {},
+
+    "transformation_challenge": "Sfida trasformazione 21 giorni • Progressione • Intensità mista • Focus corpo intero",
+    "@transformation_challenge": {},
+
+    "no_exercises_found": "Nessun esercizio trovato per questo giorno",
+    "@no_exercises_found": {},
+
+    "day_number": "Giorno {number}",
+    "@day_number": {
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+
+    "active_workout_plan": "Piano di allenamento attivo",
+    "@active_workout_plan": {},
+
+    "weekly_workout": "Allenamento settimanale",
+    "@weekly_workout": {},
+
+    "transformation_workout": "Allenamento di trasformazione",
+    "@transformation_workout": {},
+
+    "no_current_workout_plan": "Nessun piano di allenamento attivo",
+    "@no_current_workout_plan": {},
+
+    "check_workout_plans": "Controlla i tuoi piani di allenamento per\nimpostare un piano come attivo",
+    "@check_workout_plans": {},
+
+    "view_workout_plans": "Vedi piani di allenamento",
+    "@view_workout_plans": {},
+
+    "active_plan_content": "Contenuto del piano attivo",
+    "@active_plan_content": {},
+
+    "transformation_plan_content": "Contenuto del piano di trasformazione",
+    "@transformation_plan_content": {},
+
+    "current_workout_plan": "Piano di allenamento attuale",
+    "@current_workout_plan": {},
+
+    "workout_plan": "Piano di allenamento",
+    "@workout_plan": {},
+
+    "created_by": "Creato da {trainerName}",
+    "@created_by": {
+        "placeholders": {
+            "trainerName": {
+                "type": "String",
+                "example": "John Doe"
+            }
+        }
+    },
+
+    "your_trainer": "Il tuo trainer",
+    "@your_trainer": {},
+
+    "no_current_plan_title": "Nessun piano di allenamento attivo",
+    "@no_current_plan_title": {},
+
+    "no_current_plan_message": "Controlla i tuoi piani di allenamento per\nimpostare un piano come attivo",
+    "@no_current_plan_message": {},
+
+    "phase": "fase",
+    "@phase": {},
+
+    "phases": "fasi",
+    "@phases": {},
+
+    "start_workout": "Inizia allenamento",
+    "@start_workout": {},
+
+    "pause_workout": "Pausa",
+    "@pause_workout": {},
+
+    "warm_up_phase": "Fase di riscaldamento",
+    "@warm_up_phase": {},
+
+    "main_workout_phase": "Fase di allenamento principale",
+    "@main_workout_phase": {},
+
+    "cool_down_phase": "Fase di defaticamento",
+    "@cool_down_phase": {},
+
+    "search_plans": "Cerca...",
+    "@search_plans": {},
+
+    "all_plans": "Tutti i piani",
+    "@all_plans": {},
+
+    "active_plans": "Attivi",
+    "@active_plans": {},
+
+    "pending_plans": "In attesa",
+    "@pending_plans": {},
+
+    "completed_plans": "Completati",
+    "@completed_plans": {},
+
+    "no_workout_plans": "Nessun piano di allenamento trovato",
+    "@no_workout_plans": {},
+
+    "adjust_filters": "Prova a modificare i tuoi filtri",
+    "@adjust_filters": {},
+
+    "pending_count": "In attesa ({count})",
+    "@pending_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+
+    "active_count": "Attivi ({count})",
+    "@active_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+
+    "completed_count": "Completati ({count})",
+    "@completed_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "10"
+            }
+        }
+    },
+
+    "trainer_label": "Trainer",
+    "@trainer_label": {},
+
+    "select_workout": "Seleziona allenamento",
+    "@select_workout": {},
+
+    "search_workouts": "Cerca allenamenti...",
+    "@search_workouts": {},
+
+    "no_workouts_found": "Nessun allenamento trovato",
+    "@no_workouts_found": {},
+
+    "focus_area": "Area di focus",
+    "@focus_area": {},
+
+    "focus_area_hint": "es., Parte superiore, Gambe, Core, ecc.",
+    "@focus_area_hint": {},
+
+    "no_focus_area": "Nessuna area di focus",
+    "@no_focus_area": {},
+
+    "start_selected_workout": "Inizia allenamento selezionato",
+    "@start_selected_workout": {},
+
+    "select_workout_day": "Seleziona un giorno di allenamento",
+    "@select_workout_day": {},
+
+    "workout_in_progress": "Allenamento in corso",
+    "@workout_in_progress": {},
+
+    "go": "VIA!",
+    "@go": {},
+
+    "complete_workout": "Completa allenamento",
+    "@complete_workout": {},
+
+    "workout_difficulty": "Che livello di intensità hai trovato in questo allenamento?",
+    "@workout_difficulty": {},
+
+    "workout_notes": "Note",
+    "@workout_notes": {},
+
+    "workout_notes_hint": "Condividi la tua esperienza con il tuo trainer (opzionale)...",
+    "@workout_notes_hint": {},
+
+    "submit_and_finish": "Invia e termina",
+    "@submit_and_finish": {},
+
+    "workout_completed": "Allenamento completato con successo!",
+    "@workout_completed": {},
+
+    "failed_save_workout": "Errore durante il salvataggio dei dati dell'allenamento",
+    "@failed_save_workout": {},
+
+    "failed_complete_workout": "Errore durante il completamento dell'allenamento",
+    "@failed_complete_workout": {},
+
+    "level": "Livello {number}",
+    "@level": {
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+
+    "sets": "Serie",
+    "@sets": {},
+
+    "reps": "Ripetizioni",
+    "@reps": {},
+
+    "reference_images": "Immagini di riferimento",
+    "@reference_images": {},
+
+    "exercise_info": "Informazioni sull'esercizio",
+    "@exercise_info": {},
+
+    "exercise_sets": "{count} serie",
+    "@exercise_sets": {
+        "placeholders": {
+            "count": {
+                "type": "String",
+                "example": "3"
+            }
+        }
+    },
+
+    "exercise_reps": "{count} ripetizioni",
+    "@exercise_reps": {
+        "placeholders": {
+            "count": {
+                "type": "String",
+                "example": "12"
+            }
+        }
+    },
+
+    "meal_plans": "Piani",
+    "@meal_plans": {},
+
+    "meal_plan": "Piano alimentare",
+    "@meal_plan": {},
+
+    "current_meal_plan": "Piano alimentare attivo",
+    "@current_meal_plan": {},
+
+    "no_current_meal_plan": "Nessun piano alimentare attivo",
+    "@no_current_meal_plan": {},
+
+    "check_meal_plans": "Controlla i tuoi piani alimentari per\nimpostare un piano come attivo",
+    "@check_meal_plans": {},
+
+    "view_meal_plans": "Vedi piani alimentari",
+    "@view_meal_plans": {},
+
+    "search_meal_plans": "Cerca...",
+    "@search_meal_plans": {},
+
+    "no_meal_plans_found": "Nessun piano alimentare trovato",
+    "@no_meal_plans_found": {},
+
+    "adjust_meal_filters": "Prova a modificare i tuoi filtri",
+    "@adjust_meal_filters": {},
+
+    "daily_calories": "Calorie giornaliere",
+    "@daily_calories": {},
+
+    "no_meals_for_day": "Nessun pasto aggiunto per {day}",
+    "@no_meals_for_day": {
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "example": "Monday"
+            }
+        }
+    },
+
+    "nutrition_facts": "Valori nutrizionali",
+    "@nutrition_facts": {},
+
+    "ingredients": "Ingredienti",
+    "@ingredients": {},
+
+    "serving_size": "Porzione: {size}",
+    "@serving_size": {
+        "placeholders": {
+            "size": {
+                "type": "String",
+                "example": "100g"
+            }
+        }
+    },
+
+    "calories_value": "{value} kcal",
+    "@calories_value": {
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "500"
+            }
+        }
+    },
+
+    "macro_value": "{macro}: {value}%",
+    "@macro_value": {
+        "placeholders": {
+            "macro": {
+                "type": "String",
+                "example": "P"
+            },
+            "value": {
+                "type": "String",
+                "example": "30"
+            }
+        }
+    },
+
+    "diet_type_label": "Tipo di dieta",
+    "@diet_type_label": {},
+
+    "macros_label": "MACROS",
+    "@macros_label": {},
+
+    "meal_details": "Dettagli pasto",
+    "@meal_details": {},
+
+    "available_hours_page_title": "Disponibilità",
+    "@available_hours_page_title": {},
+
+    "sensitive_data_page_title": "Dati sensibili",
+    "@sensitive_data_page_title": {},
+
+    "data_sharing_consent_title": "Consenso alla condivisione dei dati",
+    "@data_sharing_consent_title": {},
+
+    "birthday_consent_title": "Data di nascita",
+    "@birthday_consent_title": {},
+
+    "birthday_consent_desc": "Condividi la tua data di nascita per aiutare i trainer a personalizzare il tuo piano di allenamento",
+    "@birthday_consent_desc": {},
+
+    "email_consent_title": "Indirizzo email",
+    "@email_consent_title": {},
+
+    "email_consent_desc": "Permetti ai trainer di contattarti via email",
+    "@email_consent_desc": {},
+
+    "phone_consent_title": "Numero di telefono",
+    "@phone_consent_title": {},
+
+    "phone_consent_desc": "Abilita la comunicazione diretta con i trainer",
+    "@phone_consent_desc": {},
+
+    "location_consent_title": "Posizione",
+    "@location_consent_title": {},
+
+    "location_consent_desc": "Aiuta a trovare trainer nella tua zona",
+    "@location_consent_desc": {},
+
+    "social_media_consent_title": "Social media",
+    "@social_media_consent_title": {},
+
+    "social_media_consent_desc": "Connettiti con i trainer sulle piattaforme social",
+    "@social_media_consent_desc": {},
+
+    "measurements_consent_title": "Misurazioni corporee",
+    "@measurements_consent_title": {},
+
+    "measurements_consent_desc": "Condividi le tue misurazioni per un miglior monitoraggio dei progressi",
+    "@measurements_consent_desc": {},
+
+    "progress_photos_consent_title": "Foto dei progressi",
+    "@progress_photos_consent_title": {},
+
+    "progress_photos_consent_desc": "Permetti ai trainer di vedere le tue foto dei progressi",
+    "@progress_photos_consent_desc": {},
+
+    "unit_preferences_page_title": "Preferenze unità",
+    "@unit_preferences_page_title": {},
+
+    "height_unit_title": "ALTEZZA",
+    "@height_unit_title": {},
+
+    "weight_unit_title": "PESO",
+    "@weight_unit_title": {},
+
+    "distance_unit_title": "DISTANZA",
+    "@distance_unit_title": {},
+
+    "time_format_title": "FORMATO ORA",
+    "@time_format_title": {},
+
+    "date_format_title": "FORMATO DATA",
+    "@date_format_title": {},
+
+    "time_format_12hour": "12 ore\n(1:30 PM)",
+    "@time_format_12hour": {},
+
+    "time_format_24hour": "24 ore\n(13:30)",
+    "@time_format_24hour": {},
+
+    "create_meal_plan": "Crea piano alimentare",
+    "@create_meal_plan": {},
+
+    "existing_client": "Cliente esistente",
+    "@existing_client": {},
+
+    "manual_client": "Cliente manuale",
+    "@manual_client": {},
+
+    "template": "Modello",
+    "@template": {},
+
+    "template_info": "Crea modelli da riutilizzare in seguito. Accedi ai tuoi modelli nelle risorse per creare rapidamente nuovi piani alimentari con modifiche.",
+    "@template_info": {},
+
+    "template_name": "Nome modello",
+    "@template_name": {},
+
+    "enter_template_name": "Inserisci il nome del modello",
+    "@enter_template_name": {},
+
+    "select_client": "Seleziona cliente",
+    "@select_client": {},
+
+    "plan_name": "Nome piano",
+    "@plan_name": {},
+
+    "enter_plan_name": "Inserisci il nome del piano",
+    "@enter_plan_name": {},
+
+    "goal_hint": "es., Perdita di peso, Aumento massa muscolare, Mantenimento",
+    "@goal_hint": {},
+
+    "duration_hint": "es., 4 settimane",
+    "@duration_hint": {},
+
+    "daily_caloric_target": "Obiettivo calorico giornaliero",
+    "@daily_caloric_target": {},
+
+    "calories_hint": "es., 2000 kcal",
+    "@calories_hint": {},
+
+    "protein_percentage": "Proteine %",
+    "@protein_percentage": {},
+
+    "carbs_percentage": "Carboidrati %",
+    "@carbs_percentage": {},
+
+    "fats_percentage": "Grassi %",
+    "@fats_percentage": {},
+
+    "diet_type": "Tipo di dieta",
+    "@diet_type": {},
+
+    "diet_type_hint": "es., Mediterranea, Keto, Vegana",
+    "@diet_type_hint": {},
+
+    "special_considerations": "Considerazioni speciali",
+    "@special_considerations": {},
+
+    "special_considerations_hint": "es., Allergie, intolleranze, preferenze",
+    "@special_considerations_hint": {},
+
+    "search_ingredients": "Cerca ingredienti...",
+    "@search_ingredients": {},
+
+    "database": "Database",
+    "@database": {},
+
+    "ingredient_name": "Nome ingrediente",
+    "@ingredient_name": {},
+
+    "ingredient_name_hint": "es., Petto di pollo",
+    "@ingredient_name_hint": {},
+
+    "serving": "Porzione",
+    "@serving": {},
+
+    "serving_hint_metric": "es., 100g, 1 tazza, 1pz ecc.",
+    "@serving_hint_metric": {},
+
+    "serving_hint_imperial": "es., 8oz, 1 tazza, 1pz ecc.",
+    "@serving_hint_imperial": {},
+
+    "select_unit": "Seleziona unità",
+    "@select_unit": {},
+
+    "calories_kcal": "Calorie (kcal)",
+    "@calories_kcal": {},
+
+    "calories_hint_value": "es., 100kcal",
+    "@calories_hint_value": {},
+
+    "protein_grams": "Proteine (g)",
+    "@protein_grams": {},
+
+    "protein_hint": "es., 100g",
+    "@protein_hint": {},
+
+    "carbs_grams": "Carboidrati (g)",
+    "@carbs_grams": {},
+
+    "carbs_hint": "es., 100g",
+    "@carbs_hint": {},
+
+    "fats_grams": "Grassi (g)",
+    "@fats_grams": {},
+
+    "fats_hint": "es., 100g",
+    "@fats_hint": {},
+
+    "add_ingredient": "Aggiungi ingrediente",
+    "@add_ingredient": {},
+
+    "error": "Errore",
+    "@error": {},
+
+    "fill_required_fields": "Inserisci il nome dell'ingrediente, la dimensione della porzione e l'unità della porzione",
+    "@fill_required_fields": {},
+
+    "notes": "Note",
+    "@notes": {},
+
+    "notes_hint": "Aggiungi note aggiuntive qui...",
+    "@notes_hint": {},
+
+    "total_nutrients": "Nutrienti totali",
+    "@total_nutrients": {},
+
+    "hydration_guidelines": "Linee guida idratazione",
+    "@hydration_guidelines": {},
+
+    "water_intake_recommendations": "Raccomandazioni per l'assunzione giornaliera di acqua",
+    "@water_intake_recommendations": {},
+
+    "supplement_recommendations": "Raccomandazioni integratori",
+    "@supplement_recommendations": {},
+
+    "supplements_hint": "Se applicabile, elenca gli integratori raccomandati",
+    "@supplements_hint": {},
+
+    "additional_notes": "Note aggiuntive",
+    "@additional_notes": {},
+
+    "other_important_info": "Altre informazioni importanti",
+    "@other_important_info": {},
+
+    "please_enter": "Inserisci {field}",
+    "@please_enter": {
+        "placeholders": {
+            "field": {
+                "type": "String",
+                "example": "name"
+            }
+        }
+    },
+
+    "back": "Indietro",
+    "@back": {},
+
+    "create_plan": "Crea piano",
+    "@create_plan": {},
+
+    "meal_plan_created": "Piano alimentare creato con successo!",
+    "@meal_plan_created": {},
+
+    "meal_plan_creation_failed": "Errore durante la creazione del piano alimentare: {error}",
+    "@meal_plan_creation_failed": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+
+    "weight_training": "Allenamento con pesi",
+    "@weight_training": {},
+
+    "cardio_running": "Cardio/Corsa",
+    "@cardio_running": {},
+
+    "hiit_workouts": "Allenamenti HIIT",
+    "@hiit_workouts": {},
+
+    "yoga": "Yoga",
+    "@yoga": {},
+
+    "pilates": "Pilates",
+    "@pilates": {},
+
+    "swimming": "Nuoto",
+    "@swimming": {},
+
+    "cycling": "Ciclismo",
+    "@cycling": {},
+
+    "boxing": "Boxe",
+    "@boxing": {},
+
+    "martial_arts": "Arti marziali",
+    "@martial_arts": {},
+
+    "group_classes": "Lezioni di gruppo",
+    "@group_classes": {},
+
+    "outdoor_activities": "Attività all'aperto",
+    "@outdoor_activities": {},
+
+    "bodyweight_exercises": "Esercizi a corpo libero",
+    "@bodyweight_exercises": {},
+
+    "resistance_bands": "Bande elastiche",
+    "@resistance_bands": {},
+
+    "crossfit_style": "Stile CrossFit",
+    "@crossfit_style": {},
+
+    "other_exercise_types": "Altri tipi di esercizi",
+    "@other_exercise_types": {},
+
+    "high_protein": "Dieta ad alto contenuto proteico",
+    "@high_protein": {},
+
+    "food_allergies": "Allergie alimentari",
+    "@food_allergies": {},
+
+    "intermittent_fasting": "Digiuno intermittente",
+    "@intermittent_fasting": {},
+
+    "meal_prepping": "Preparazione pasti",
+    "@meal_prepping": {},
+
+    "calorie_tracking": "Monitoraggio calorie",
+    "@calorie_tracking": {},
+
+    "no_dietary_restrictions": "Nessuna restrizione alimentare",
+    "@no_dietary_restrictions": {},
+
+    "other_dietary_habits": "Altre abitudini alimentari",
+    "@other_dietary_habits": {},
+
+    "client_added_successfully": "Cliente aggiunto con successo!",
+    "@client_added_successfully": {},
+
+    "error_adding_client": "Errore durante l'aggiunta del cliente: {error}",
+    "@error_adding_client": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "add_meal_snackbar_title": "Aggiungi pasto",
+    "@add_meal_snackbar_title": {},
+
+    "exercise": "Esercizio",
+    "@exercise": {},
+
+    "missing_information": "Informazioni mancanti",
+    "@missing_information": {},
+
+    "please_add_at_least_one_client_to_the_group": "Aggiungi almeno un cliente al gruppo",
+    "@please_add_at_least_one_client_to_the_group": {},
+
+    "please_select_date_and_time": "Seleziona data e ora",
+    "@please_select_date_and_time": {},
+
+    "user_data_is_not_complete": "I dati dell'utente non sono completi",
+    "@user_data_is_not_complete": {},
+
+    "number_of_weeks_must_be_between_1_and_24": "Il numero di settimane deve essere compreso tra 1 e 24",
+    "@number_of_weeks_must_be_between_1_and_24": {},
+
+    "failed_to_delete_session_please_try_again": "Impossibile eliminare la sessione. Riprova.",
+    "@failed_to_delete_session_please_try_again": {},
+
+    "request_accepted_successfully": "Richiesta accettata con successo",
+    "@request_accepted_successfully": {},
+
+    "failed_to_accept_request_please_try_again": "Impossibile accettare la richiesta. Riprova.",
+    "@failed_to_accept_request_please_try_again": {},
+
+    "request_declined_successfully": "Richiesta rifiutata con successo",
+    "@request_declined_successfully": {},
+
+    "failed_to_decline_request_please_try_again": "Impossibile rifiutare la richiesta. Riprova.",
+    "@failed_to_decline_request_please_try_again": {},
+
+    "session_deleted_successfully": "Sessione eliminata con successo",
+    "@session_deleted_successfully": {},
+
+    "client_profile_not_found": "Profilo cliente non trovato",
+    "@client_profile_not_found": {},
+
+    "failed_to_switch_to_client_profile": "Impossibile passare al profilo cliente",
+    "@failed_to_switch_to_client_profile": {},
+
+    "no_client_profile_associated_with_this_account": "Nessun profilo cliente associato a questo account",
+    "@no_client_profile_associated_with_this_account": {},
+
+    "invitation": "Invito",
+    "@invitation": {},
+
+    "background_image": "Immagine di sfondo",
+    "@background_image": {},
+
+    "video": "Video",
+    "@video": {},
+
+    "weight_goal": "Obiettivo peso",
+    "@weight_goal": {},
+
+    "please_enter_a_link": "Inserisci un link",
+    "@please_enter_a_link": {},
+
+    "please_select_a_platform_first": "Seleziona prima una piattaforma",
+    "@please_select_a_platform_first": {},
+
+    "please_add_at_least_one_phase_to_day": "Aggiungi almeno una fase al Giorno {days}",
+    "@please_add_at_least_one_phase_to_day": {
+        "placeholders": {
+            "days": {
+                "type": "String",
+                "example": "1, 2, 3"
+            }
+        }
+    },
+
+    "please_add_at_least_one_exercise_to_day": "Aggiungi almeno un esercizio al Giorno {days}",
+    "@please_add_at_least_one_exercise_to_day": {
+        "placeholders": {
+            "days": {
+                "type": "String",
+                "example": "1, 2, 3"
+            }
+        }
+    },
+
+    "please_add_at_least_one_exercise_to_your_workout_plan": "Aggiungi almeno un esercizio al tuo piano di allenamento",
+    "@please_add_at_least_one_exercise_to_your_workout_plan": {},
+
+    "please_select_a_client": "Seleziona un cliente",
+    "@please_select_a_client": {},
+
+    "please_enter_client_name": "Inserisci il nome del cliente",
+    "@please_enter_client_name": {},
+
+    "please_enter_template_name": "Inserisci il nome del modello",
+    "@please_enter_template_name": {},
+
+    "weight_updated_successfully": "Peso aggiornato con successo",
+    "@weight_updated_successfully": {},
+
+    "weight_update_failed": "Aggiornamento peso fallito",
+    "@weight_update_failed": {},
+
+    "language_title": "Lingua",
+    "@language_title": {},
+
+    "selected_language": "Lingua selezionata",
+    "@selected_language": {},
+
+    "all_languages": "Tutte le lingue",
+    "@all_languages": {},
+
+    "no_language_selected": "Nessuna lingua selezionata",
+    "@no_language_selected": {},
+
+    "weight_loss_meal_plan": "Piano alimentare per perdita di peso",
+    "@weight_loss_meal_plan": {},
+
+    "muscle_building_meal_plan": "Piano alimentare per aumento massa muscolare",
+    "@muscle_building_meal_plan": {},
+
+    "maintenance_meal_plan": "Piano alimentare di mantenimento",
+    "@maintenance_meal_plan": {},
+
+    "keto_diet_plan": "Piano dieta chetogenica",
+    "@keto_diet_plan": {},
+
+    "vegetarian_meal_plan": "Piano alimentare vegetariano",
+    "@vegetarian_meal_plan": {},
+
+    "vegan_meal_plan": "Piano alimentare vegano",
+    "@vegan_meal_plan": {},
+
+    "mediterranean_diet_plan": "Piano dieta mediterranea",
+    "@mediterranean_diet_plan": {},
+
+    "low_carb_meal_plan": "Piano alimentare a basso contenuto di carboidrati",
+    "@low_carb_meal_plan": {},
+
+    "bulking_meal_plan": "Piano alimentare per massa",
+    "@bulking_meal_plan": {},
+
+    "cutting_meal_plan": "Piano alimentare per definizione",
+    "@cutting_meal_plan": {},
+
+    "maintenance": "Mantenimento",
+    "@maintenance": {},
+
+    "improved_energy": "Miglioramento energia",
+    "@improved_energy": {},
+
+    "better_health": "Migliore salute",
+    "@better_health": {},
+
+    "balanced_nutrition": "Nutrizione bilanciata",
+    "@balanced_nutrition": {},
+
+    "specific_diet_adherence": "Aderenza a dieta specifica",
+    "@specific_diet_adherence": {},
+
+    "healthy_lifestyle": "Stile di vita sano",
+    "@healthy_lifestyle": {},
+
+    "no_plan_details_available": "Nessun dettaglio piano disponibile",
+    "@no_plan_details_available": {},
+
+    "today_s_focus": "FOCUS DI OGGI",
+    "@today_s_focus": {},
+
+    "camera": "Fotocamera",
+    "@camera": {},
+
+    "photo_library": "Libreria foto",
+    "@photo_library": {},
+
+    "remove_photo": "Rimuovi foto",
+    "@remove_photo": {},
+
+    "select_country_code": "Seleziona codice paese",
+    "@select_country_code": {},
+
+    "one_week": "1 Settimana",
+    "@one_week": {},
+
+    "two_weeks": "2 Settimane",
+    "@two_weeks": {},
+
+    "ongoing": "In corso",
+    "@ongoing": {},
+
+    "balanced_diet": "Dieta bilanciata",
+    "@balanced_diet": {},
+
+    "ketogenic_diet": "Dieta chetogenica",
+    "@ketogenic_diet": {},
+
+    "low_carb_diet": "Dieta a basso contenuto di carboidrati",
+    "@low_carb_diet": {},
+
+    "high_protein_diet": "Dieta ad alto contenuto proteico",
+    "@high_protein_diet": {},
+
+    "plant_based": "A base vegetale",
+    "@plant_based": {},
+
+    "january": "Gennaio",
+    "@january": {},
+
+    "february": "Febbraio",
+    "@february": {},
+
+    "march": "Marzo",
+    "@march": {},
+
+    "april": "Aprile",
+    "@april": {},
+
+    "may": "Maggio",
+    "@may": {},
+
+    "june": "Giugno",
+    "@june": {},
+
+    "july": "Luglio",
+    "@july": {},
+
+    "august": "Agosto",
+    "@august": {},
+
+    "september": "Settembre",
+    "@september": {},
+
+    "october": "Ottobre",
+    "@october": {},
+
+    "november": "Novembre",
+    "@november": {},
+
+    "december": "Dicembre",
+    "@december": {},
+
+    "monday_date": "Lun",
+    "@monday_date": {},
+
+    "tuesday_date": "Mar",
+    "@tuesday_date": {},
+
+    "wednesday_date": "Mer",
+    "@wednesday_date": {},
+
+    "thursday_date": "Gio",
+    "@thursday_date": {},
+
+    "friday_date": "Ven",
+    "@friday_date": {},
+
+    "saturday_date": "Sab",
+    "@saturday_date": {},
+
+    "sunday_date": "Dom",
+    "@sunday_date": {},
+
+    "january_date": "Gen",
+    "@january_date": {},
+
+    "february_date": "Feb",
+    "@february_date": {},
+
+    "march_date": "Mar",
+    "@march_date": {},
+
+    "april_date": "Apr",
+    "@april_date": {},
+
+    "may_date": "Mag",
+    "@may_date": {},
+
+    "june_date": "Giu",
+    "@june_date": {},
+
+    "july_date": "Lug",
+    "@july_date": {},
+
+    "august_date": "Ago",
+    "@august_date": {},
+
+    "september_date": "Set",
+    "@september_date": {},
+
+    "october_date": "Ott",
+    "@october_date": {},
+
+    "november_date": "Nov",
+    "@november_date": {},
+
+    "december_date": "Dic",
+    "@december_date": {},
+
+    "login": "Accedi",
+    "@login": {},
+
+    "sign_up": "Registrati",
+    "@sign_up": {},
+
+    "get_started_free": "Inizia gratuitamente",
+    "@get_started_free": {},
+
+    "connection_invitation": "Invito di connessione",
+    "@connection_invitation": {},
+
+    "connection_created_successfully": "Connessione creata con successo",
+    "@connection_created_successfully": {},
+
+    "error_accepting_invitation": "Errore nell'accettazione dell'invito",
+    "@error_accepting_invitation": {},
+
+    "professionals_cannot_accept_client_invitations": "I professionisti non possono accettare inviti dai clienti",
+    "@professionals_cannot_accept_client_invitations": {},
+
+    "invalid_invitation_link": "Link invito non valido",
+    "@invalid_invitation_link": {},
+
+    "error_processing_invitation": "Errore nell'elaborazione dell'invito. Riprova.",
+    "@error_processing_invitation": {},
+
+    "thank_you_for_your_feedback": "Grazie per il tuo feedback!",
+    "@thank_you_for_your_feedback": {},
+
+    "error_submitting_feedback": "Errore nell'invio del feedback: {error}",
+    "@error_submitting_feedback": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "support_ticket": "Ticket di supporto",
+    "@support_ticket": {},
+
+    "error_setting_up_profile": "Errore nella configurazione del profilo: {error}",
+    "@error_setting_up_profile": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "group_session_accepted": "Sessione di gruppo accettata",
+    "@group_session_accepted": {},
+
+    "group_session_rejected": "Sessione di gruppo rifiutata",
+    "@group_session_rejected": {},
+
+    "unable_to_process_your_request": "Impossibile elaborare la tua richiesta: {error}",
+    "@unable_to_process_your_request": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "session": "Sessione",
+    "@session": {},
+
+    "meal_plan_accepted": "Piano alimentare accettato",
+    "@meal_plan_accepted": {},
+
+    "meal_plan_declined": "Piano alimentare rifiutato",
+    "@meal_plan_declined": {},
+
+    "workout_plan_accepted": "Piano di allenamento accettato",
+    "@workout_plan_accepted": {},
+
+    "workout_plan_declined": "Piano di allenamento rifiutato",
+    "@workout_plan_declined": {},
+
+    "failed_to_save_image": "Impossibile salvare l'immagine",
+    "@failed_to_save_image": {},
+
+    "failed_to_remove_image": "Impossibile rimuovere l'immagine",
+    "@failed_to_remove_image": {},
+
+    "failed_to_book_session": "Impossibile prenotare la sessione",
+    "@failed_to_book_session": {},
+
+    "request_withdrawn_successfully": "Richiesta ritirata con successo",
+    "@request_withdrawn_successfully": {},
+
+    "session_request_sent_successfully": "Richiesta sessione inviata con successo",
+    "@session_request_sent_successfully": {},
+
+    "failed_to_cancel_session": "Impossibile annullare la sessione",
+    "@failed_to_cancel_session": {},
+
+    "workout_plan_set_as_current_successfully": "Piano di allenamento impostato come attuale con successo",
+    "@workout_plan_set_as_current_successfully": {},
+
+    "unable_to_update_plan_status": "Impossibile aggiornare lo stato del piano: {error}",
+    "@unable_to_update_plan_status": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "workout_completed_successfully": "Allenamento completato con successo!",
+    "@workout_completed_successfully": {},
+
+    "failed_to_save_workout_data": "Impossibile salvare i dati dell'allenamento",
+    "@failed_to_save_workout_data": {},
+
+    "failed_to_complete_workout": "Impossibile completare l'allenamento",
+    "@failed_to_complete_workout": {},
+
+    "direct_message": "Messaggio diretto",
+    "@direct_message": {},
+
+    "invalid_recipient": "Destinatario non valido",
+    "@invalid_recipient": {},
+
+    "error_sending_message": "Errore nell'invio del messaggio: {error}",
+    "@error_sending_message": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "no_messages_yet": "Ancora nessun messaggio",
+    "@no_messages_yet": {},
+
+    "type_a_message": "Scrivi un messaggio...",
+    "@type_a_message": {},
+
+    "invalid_chat_data": "Dati chat non validi",
+    "@invalid_chat_data": {},
+
+    "failed_to_upload_image": "Impossibile caricare l'immagine",
+    "@failed_to_upload_image": {},
+
+    "load_more": "Carica altro",
+    "@load_more": {},
+
+    "loading": "Caricamento...",
+    "@loading": {},
+
+    "clients_currently_training_with_you": "Clienti che si allenano con te",
+    "@clients_currently_training_with_you": {},
+
+    "personalized_nutrition_plans_in_progress": "Piani nutrizionali personalizzati in corso",
+    "@personalized_nutrition_plans_in_progress": {},
+
+    "training_programs_being_followed": "Programmi di allenamento seguiti",
+    "@training_programs_being_followed": {},
+
+    "slots_available_for_booking": "Slot disponibili per la prenotazione",
+    "@slots_available_for_booking": {},
+
+    "schedule_session_web": "Pianifica sessione",
+    "@schedule_session_web": {},
+
+
+
+
+
+    "asdasd": "asdasd",
+    "@asdasd": {},
+
+
+
+
+    
+        "add_at_least_one_meal": "Aggiungi almeno un pasto",
+        "@add_at_least_one_meal": {},
+        "select_client_error": "Seleziona un cliente",
+        "@select_client_error": {},
+        "enter_client_name_error": "Inserisci un nome cliente",
+        "@enter_client_name_error": {},
+        "enter_template_name_error": "Inserisci un nome modello",
+        "@enter_template_name_error": {},
+        "user_data_incomplete": "I dati dell'utente non sono completi",
+        "@user_data_incomplete": {},
+        "add_preparation_steps": "Aggiungi le tappe di preparazione",
+        "@add_preparation_steps": {},
+        "step": "Passo {number}",
+        "@step": {
+            "placeholders": {
+                "number": {
+                    "type": "int",
+                    "example": "1"
+                }
+            }
+        },
+        "describe_step": "Descrivi...",
+        "@describe_step": {},
+        "add_step": "Aggiungi un passo",
+        "@add_step": {},
+        "copy_to_next_day": "Copia al giorno successivo",
+        "@copy_to_next_day": {},
+        "meals_copied": "Pasti copiati al {day}",
+        "@meals_copied": {
+            "placeholders": {
+                "day": {
+                    "type": "String",
+                    "example": "Tuesday"
+                }
+            }
+        },
+        "no_meal_added": "Nessun pasto aggiunto",
+        "@no_meal_added": {},
+        "add_meal": "Aggiungi {mealType}",
+        "@add_meal": {
+            "placeholders": {
+                "mealType": {
+                    "type": "String",
+                    "example": "Breakfast"
+                }
+            }
+        },
+        "overview": "Panoramica",
+        "@overview": {},
+        "schedule": "Programma",
+        "@schedule": {},
+        "details": "Dettagli",
+        "@details": {},
+        "total": "Totale",
+        "@total": {},
+        "cal": "Cal",
+        "@cal": {},
+        "select_unit_title": "Seleziona l'unità",
+        "@select_unit_title": {},
+        "breakfast": "Colazione",
+        "@breakfast": {},
+        "morning_snack": "Brunch",
+        "@morning_snack": {},
+        "lunch": "Pranzo",
+        "@lunch": {},
+        "afternoon_snack": "Colazione pomeridiana",
+        "@afternoon_snack": {},
+        "dinner": "Cena",
+        "@dinner": {},
+        "evening_snack": "Colazione serale",
+        "@evening_snack": {},
+    
+    
+    
+    
+        "serving_size_meal_card": "Taglia della porzione",
+        "@serving_size_meal_card": {},
+    
+        "preparation": "Preparazione",
+        "@preparation": {},
+    
+        "created_by_trainer": "Creato da {trainerName}",
+        "@created_by_trainer": {
+            "placeholders": {
+                "trainerName": {
+                    "type": "String"
+                }
+            }
+        },
+    
+    
+        "no_available_hours": "Nessun orario disponibile",
+        "@no_available_hours": {},
+    
+        "no_achievements_unlocked_yet": "Nessun riconoscimento ancora sbloccato",
+        "@no_achievements_unlocked_yet": {},
+    
+        "premium_member": "MEMBRO PREMIUM",
+        "@premium_member": {},
+    
+        "background_photo": "Foto di sfondo",
+        "@background_photo": {},
+    
+        "ticket_submitted_successfully": "Ticket inviato con successo",
+        "@ticket_submitted_successfully": {},
+    
+        "error_submitting_ticket": "Errore nell'invio del ticket",
+        "@error_submitting_ticket": {},
+        
+        "please_enter_subject": "Inserisci il soggetto",
+        "@please_enter_subject": {},
+    
+        "please_enter_message": "Inserisci un messaggio",
+        "@please_enter_message": {},
+        
+        "submit_ticket": "Invia ticket",
+        "@submit_ticket": {},
+    
+        "submit_support_ticket": "Invia ticket di supporto",
+        "@submit_support_ticket": {},
+    
+        "copied_to_clipboard": "Copiato nel buffer",
+        "@copied_to_clipboard": {},
+    
+        "invitation_link": "Link invito",
+        "@invitation_link": {},
+    
+        "workout_plan_created_successfully": "Piano di allenamento creato con successo",
+        "@workout_plan_created_successfully": {},
+    
+        "accept": "Accetta",
+        "@accept": {},
+    
+        "decline": "Rifiuta",
+        "@decline": {},
+    
+        "at_least_two_participants_are_required_to_start_a_group_chat": "Almeno due partecipanti sono necessari per iniziare una chat di gruppo",
+        "@at_least_two_participants_are_required_to_start_a_group_chat": {},
+    
+        "failed_to_create_group_chat": "Errore nella creazione della chat di gruppo",
+        "@failed_to_create_group_chat": {},
+    
+        "please_enter_group_name": "Inserisci il nome del gruppo",
+        "@please_enter_group_name": {},
+    
+        "follow_us": "Seguici",
+        "@follow_us": {},
+    
+        "loading_trainer_profile": "Passaggio al profilo del formattore...",
+        "@loading_trainer_profile": {},
+        "trainer_profile_not_found": "Profilo del formattore non trovato",
+        "@trainer_profile_not_found": {},
+        "failed_switch_profile": "Errore nel passaggio al profilo del formattore",
+        "@failed_switch_profile": {},
+        "no_trainer_profile": "Nessun profilo del formattore associato a questo account",
+        "@no_trainer_profile": {},
+        "switch_to_trainer": "Passa al formattore",
+        "@switch_to_trainer": {},
+        "active_member": "Membro attivo",
+        "@active_member": {},
+        "hi_user": "Ciao, {name}!",
+        "@hi_user": {
+            "placeholders": {
+                "name": {
+                    "type": "String",
+                    "example": "John"
+                }
+            }
+        },
+        "view_all": "Vedi tutti",
+        "@view_all": {},
+        "composition": "Composizione",
+        "@composition": {},
+        "body_fat_percentage": "Grasso (%)",
+        "@body_fat_percentage": {},
+        "muscle_mass": "Muscolo Massa ({unit})",
+        "@muscle_mass": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "kg"
+                }
+            }
+        },
+        "chest": "Poitrine ({unit})",
+        "@chest": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "cm"
+                }
+            }
+        },
+        "waist": "Vita ({unit})",
+        "@waist": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "cm"
+                }
+            }
+        },
+        "hips": "Hanches ({unit})",
+        "@hips": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "cm"
+                }
+            }
+        },
+        "biceps": "Biceps ({unit})",
+        "@biceps": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "cm"
+                }
+            }
+        },
+        "calves": "Calves ({unit})",
+        "@calves": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "cm"
+                }
+            }
+        },
+        "thighs": "Cuisses ({unit})",
+        "@thighs": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "cm"
+                }
+            }
+        },
+        "front_photo_desc": "Prendi una foto di fronte",
+        "@front_photo_desc": {},
+        "back_photo_desc": "Prendi una foto di dietro",
+        "@back_photo_desc": {},
+        "left_photo_desc": "Prendi una foto di sinistra",
+        "@left_photo_desc": {},
+        "right_photo_desc": "Prendi una foto di destra",
+        "@right_photo_desc": {},
+        "category": "Categoria",
+        "@category": {},
+        "enter_select_category": "Inserisci o seleziona una categoria",
+        "@enter_select_category": {},
+        "education_certification": "Istruzione/Certificazione",
+        "@education_certification": {},
+        "enter_select_education": "Inserisci o seleziona l'istruzione/la certificazione",
+        "@enter_select_education": {},
+        "subject_specialization": "Sujet/Spécialisation",
+        "@subject_specialization": {},
+        "enter_subject": "Inserisci il soggetto o la specializzazione",
+        "@enter_subject": {},
+        "start_date": "Data di inizio",
+        "@start_date": {},
+        "end_date": "Data di fine",
+        "@end_date": {},
+        "select_date": "Seleziona la data",
+        "@select_date": {},
+        "add_education": "Aggiungi l'istruzione",
+        "@add_education": {},
+        "added_education": "Istruzione e certificazioni aggiunte",
+        "@added_education": {},
+        "years_of_experience": "Anni di esperienza",
+        "@years_of_experience": {},
+        "job_title": "Titolo del posto",
+        "@job_title": {},
+        "enter_job_title": "Inserisci il tuo titolo del posto",
+        "@enter_job_title": {},
+        "organization": "Organizzazione/Azienda",
+        "@organization": {},
+        "enter_organization": "Inserisci il nome dell'organizzazione",
+        "@enter_organization": {},
+        "add_experience": "Aggiungi l'esperienza",
+        "@add_experience": {},
+        "added_experience": "Esperienza aggiunta",
+        "@added_experience": {},
+        "present": "Presente",
+        "@present": {},
+        "profile_settings": "Impostazioni del profilo",
+        "@profile_settings": {},
+        "personal": "Personale",
+        "@personal": {},
+        "body": "Corpo",
+        "@body": {},
+        "bio": "Bio",
+        "@bio": {},
+        "tell_about_yourself": "Parlate di voi",
+        "@tell_about_yourself": {},
+        "content_coming_soon": "Contenuto presto disponibile...",
+        "@content_coming_soon": {},
+        "working_hours": "Ore di lavoro",
+        "@working_hours": {},
+        "weekly_availability": "Disponibilità settimanale",
+        "@weekly_availability": {},
+        "add_exercise": "Aggiungi un esercizio",
+        "@add_exercise": {},
+        "edit_exercise": "Modifica l'esercizio",
+        "@edit_exercise": {},
+        "exercise_name": "Nome dell'esercizio",
+        "@exercise_name": {},
+        "exercise_name_hint": "e.g., Squats, Deadlifts, etc.",
+        "@exercise_name_hint": {},
+        "equipment": "Equipaggiamento",
+        "@equipment": {},
+        "select_enter_equipment": "Seleziona o inserisci l'equipaggiamento",
+        "@select_enter_equipment": {},
+        "images": "Immagini",
+        "@images": {},
+        "cancel": "Annulla",
+        "@cancel": {},
+        "basic": "Basico",
+        "@basic": {},
+        "media": "Media",
+        "@media": {},
+        "instructions": "Istruzioni",
+        "@instructions": {},
+        "set": "Serie",
+        "@set": {},
+        "weight_unit": "Peso ({unit})",
+        "@weight_unit": {
+            "placeholders": {
+                "unit": {
+                    "type": "String",
+                    "example": "kg"
+                }
+            }
+        },
+        "rest": "Riposo",
+        "@rest": {},
+        "add_set": "Aggiungi una serie",
+        "@add_set": {},
+        "add_phase": "Aggiungi una fase",
+        "@add_phase": {},
+        "enter_phase_name": "Inserisci il nome della fase",
+        "@enter_phase_name": {},
+        "equipment_label": "Equipaggiamento:",
+        "@equipment_label": {},
+        "instructions_label": "Istruzioni",
+        "@instructions_label": {},
+        "my_clients": "I miei clienti",
+        "@my_clients": {},
+        "add_client": "Aggiungi un cliente",
+        "@add_client": {},
+        "search_clients": "Cerca clienti...",
+        "@search_clients": {},
+        "app_user": "Utente dell'app",
+        "@app_user": {},
+        "manual": "Manuale",
+        "@manual": {},
+        "next_session": "Prossima sessione: {date}",
+        "@next_session": {
+            "placeholders": {
+                "date": {
+                    "type": "String",
+                    "example": "Mar 15, 2024 • 14:30"
+                }
+            }
+        },
+        "filter_all": "Tutto",
+        "@filter_all": {},
+        "filter_new": "Nuovo",
+        "@filter_new": {},
+        "filter_app_users": "Utenti dell'app",
+        "@filter_app_users": {},
+        "filter_manual": "Manuale",
+        "@filter_manual": {},
+        "filter_completed": "Completato",
+        "@filter_completed": {},
+        "filter_active": "Attivo",
+        "@filter_active": {},
+        "macros": "MACROS",
+        "@macros": {},
+        "filter_templates": "Modelli",
+        "@filter_templates": {},
+        "filter_pending": "In attesa",
+        "@filter_pending": {},
+        "workout_plans": "Piani",
+        "@workout_plans": {},
+        "create_workout_plan": "Crea un piano",
+        "@create_workout_plan": {},
+        "no_workout_plans_found": "Nessun piano di allenamento trovato",
+        "@no_workout_plans_found": {},
+        "create_new_workout_plan": "Crea un nuovo piano di allenamento per iniziare",
+        "@create_new_workout_plan": {},
+        "create_a_new_meal_plan_to_get_started": "Crea un nuovo piano alimentare per iniziare",
+        "@create_a_new_meal_plan_to_get_started": {},
+        "client_label": "Cliente",
+        "@client_label": {},
+        "duration_label": "Durata",
+        "@duration_label": {},
+        "goal_label": "Obiettivo",
+        "@goal_label": {},
+        "add_new_client": "Aggiungi un nuovo cliente",
+        "@add_new_client": {},
+        "client_name": "Nome del cliente",
+        "@client_name": {},
+        "enter_client_name": "Inserisci il nome del cliente",
+        "@enter_client_name": {},
+        "client_email": "Email",
+        "@client_email": {},
+        "enter_client_email": "Inserisci l'email del cliente",
+        "@enter_client_email": {},
+        "phone_number": "Numero di telefono",
+        "@phone_number": {},
+        "enter_phone_number": "Inserisci il numero di telefono del cliente",
+        "@enter_phone_number": {},
+        "edit_plan": "Modifica il piano",
+        "@edit_plan": {},
+        "next": "Avanti",
+        "@next": {},
+        "submit": "Invia",
+        "@submit": {},
+        "professional_data_not_found": "Dati professionali non trovati",
+        "@professional_data_not_found": {},
+        "select_avatar": "Seleziona un avatar",
+        "@select_avatar": {},
+        "take_photo": "Prendi una foto",
+        "@take_photo": {},
+        "choose_from_gallery": "Scegli dalla galleria",
+        "@choose_from_gallery": {},
+        "add_exercise_title": "Aggiungi un esercizio",
+        "@add_exercise_title": {},
+        "edit_exercise_title": "Modifica l'esercizio",
+        "@edit_exercise_title": {},
+        "please_enter_exercise_name": "Inserisci il nome dell'esercizio",
+        "@please_enter_exercise_name": {},
+        "failed_add_exercise": "Errore nell'aggiunta dell'esercizio",
+        "@failed_add_exercise": {},
+        "failed_update_exercise": "Errore nella modifica dell'esercizio",
+        "@failed_update_exercise": {},
+        "save_changes": "Salva le modifiche",
+        "@save_changes": {},
+        "add_instruction": "Aggiungi una istruzione di esercizio...",
+        "@add_instruction": {},
+        "exercise_video_title": "Video di esercizio",
+        "@exercise_video_title": {},
+        "exercise_images_title": "Immagini di esercizio",
+        "@exercise_images_title": {},
+        "add_image": "Aggiungi un'immagine",
+        "@add_image": {},
+        "trainer_id_not_found": "ID del formattore non trovato",
+        "@trainer_id_not_found": {},
+        "add_meal_title": "Aggiungi un pasto",
+        "@add_meal_title": {},
+        "edit_meal_title": "Modifica il pasto",
+        "@edit_meal_title": {},
+        "please_enter_meal_name": "Inserisci il nome del pasto",
+        "@please_enter_meal_name": {},
+        "failed_save_meal": "Errore nell'archiviazione del pasto",
+        "@failed_save_meal": {},
+        "meal_name": "Nome del pasto",
+        "@meal_name": {},
+        "enter_meal_name": "Inserisci il nome del pasto",
+        "@enter_meal_name": {},
+        "total_nutrients_manual": "Nutrienti totali\n(Manuale)",
+        "@total_nutrients_manual": {},
+        "total_nutrients_calculated": "Nutrienti totali\n(Calcolato)",
+        "@total_nutrients_calculated": {},
+        "added_ingredients": "Ingredienti aggiunti",
+        "@added_ingredients": {},
+        "add_ingredients": "Aggiungi ingredienti",
+        "@add_ingredients": {},
+        "preparation_steps": "Passi di preparazione",
+        "@preparation_steps": {},
+        "add_preparation_step": "Aggiungi un passo di preparazione",
+        "@add_preparation_step": {},
+        "meal_notes": "Note",
+        "@meal_notes": {},
+        "meal_notes_hint": "Aggiungi note aggiuntive qui...",
+        "@meal_notes_hint": {},
+        "update": "Aggiorna",
+        "@update": {},
+        "available_slots_title": "Posti disponibili",
+        "@available_slots_title": {},
+        "no_slots_title": "Nessun posto disponibile",
+        "@no_slots_title": {},
+        "no_slots_message": "Toca il pulsante \"+\" per creare un nuovo posto di disponibilità per questo giorno",
+        "@no_slots_message": {},
+        "virtual_session": "Sessione virtuale",
+        "@virtual_session": {},
+        "in_person_session": "Sessione in persona",
+        "@in_person_session": {},
+        "initial_session_label": "Iniziale",
+        "@initial_session_label": {},
+        "follow_up_session_label": "Seguente",
+        "@follow_up_session_label": {},
+        "recurring_session_label": "Ripetitivo",
+        "@recurring_session_label": {},
+        "group_session_label": "Gruppo",
+        "@group_session_label": {},
+        "warm_up_routine": "Routine di riscaldamento",
+        "@warm_up_routine": {},
+        "describe_warmup": "Descrivi gli esercizi di riscaldamento",
+        "@describe_warmup": {},
+        "cool_down_routine": "Routine di raffreddamento",
+        "@cool_down_routine": {},
+        "describe_cooldown": "Descrivi gli esercizi di raffreddamento",
+        "@describe_cooldown": {},
+        "session_duration": "{duration} min",
+        "@session_duration": {
+            "placeholders": {
+                "duration": {
+                    "type": "String",
+                    "example": "60"
+                }
+            }
+        },
+        "required_fields_missing": "Champs requis manquants",
+        "@required_fields_missing": {},
+        "workout_plan_created": "Piano di allenamento creato con successo!",
+        "@workout_plan_created": {},
+        "workout_plan_creation_failed": "Errore nella creazione del piano di allenamento: {error}",
+        "@workout_plan_creation_failed": {
+            "placeholders": {
+                "error": {
+                    "type": "String"
+                }
+            }
+        },
+        "recurring": "Ripetitivo",
+        "@recurring": {},
+        "session_time": "{time}",
+        "@session_time": {
+            "placeholders": {
+                "time": {
+                    "type": "String",
+                    "example": "14:30"
+                }
+            }
+        },
+        "all_sessions": "Tutte le sessioni",
+        "@all_sessions": {},
+        "next_available_session": "Prossima sessione disponibile in",
+        "@next_available_session": {},
+        "starting_soon": "Inizia presto",
+        "@starting_soon": {},
+        "time_remaining": "{days, plural, =0{{hours}h {minutes}m {seconds}s} =1{1d {hours}h {minutes}m {seconds}s} other{{days}d {hours}h {minutes}m {seconds}s}}",
+        "@time_remaining": {
+            "placeholders": {
+                "days": {
+                    "type": "int",
+                    "example": "2"
+                },
+                "hours": {
+                    "type": "int",
+                    "example": "5"
+                },
+                "minutes": {
+                    "type": "int",
+                    "example": "30"
+                },
+                "seconds": {
+                    "type": "int",
+                    "example": "45"
+                }
+            }
+        },
+        "session_time_at": "{date} at {time}",
+        "@session_time_at": {
+            "placeholders": {
+                "date": {
+                    "type": "String",
+                    "example": "Mon, 15 Mar"
+                },
+                "time": {
+                    "type": "String",
+                    "example": "14:30"
+                }
+            }
+        },
+        "client_details": "Dettagli del cliente",
+        "@client_details": {},
+        "next_session_only_string": "Prossima sessione",
+        "@next_session_only_string": {},
+        "track_client_progress": "Segui il progresso del cliente",
+        "@track_client_progress": {},
+        "track_progress_subtitle": "Mostra le metriche e le analisi di progressione dettagliate",
+        "@track_progress_subtitle": {},
+        "by_client": "dal cliente",
+        "@by_client": {},
+        "by_trainer": "dal formattore",
+        "@by_trainer": {},
+        "basic_info": "Informazioni di base",
+        "@basic_info": {},
+        "health_info": "Informazioni di salute",
+        "@health_info": {},
+        "birthday": "Data di nascita",
+        "@birthday": {},
+        "medical_history": "Storia medica",
+        "@medical_history": {},
+        "injuries": "Blessure",
+        "@injuries": {},
+        "primary_goal": "Obiettivo principale",
+        "@primary_goal": {},
+        "secondary_goal": "Obiettivo secondario",
+        "@secondary_goal": {},
+        "height": "Altezza",
+        "@height": {},
+        "weight": "Peso",
+        "@weight": {},
+        "availability": "Disponibilità",
+        "@availability": {},
+        "exercise_preferences": "Preferenze di esercizio",
+        "@exercise_preferences": {},
+        "measurements": "Misure",
+        "@measurements": {},
+        "personal_info": "Informazioni personali",
+        "@personal_info": {},
+        "health_fitness_client_details": "Salute e fitness",
+        "@health_fitness_client_details": {},
+        "training_details": "Dettagli di allenamento",
+        "@training_details": {},
+        "name": "Nome",
+        "@name": {},
+        "fitness_history": "Storia di fitness",
+        "@fitness_history": {},
+        "dietary_habits": "Abitudini alimentari",
+        "@dietary_habits": {},
+        "no_bookmarked_exercises": "Nessun esercizio salvato",
+        "@no_bookmarked_exercises": {},
+        "bookmarked_exercises": "Esercizi salvati",
+        "@bookmarked_exercises": {},
+        "no_bookmarked_exercises_message": "Nessun esercizio salvato",
+        "@no_bookmarked_exercises_message": {},
+        "slots": "Posti",
+        "@slots": {},
+        "library": "Biblioteca",
+        "@library": {},
+        "create_meal": "Crea\nPasto",
+        "@create_meal": {},
+        "schedule_session_multi_line": "Pianifica\nSessione",
+        "@schedule_session_multi_line": {},
+        "schedule_session": "Pianifica una sessione",
+        "@schedule_session": {},
+        "create_workout": "Crea\nAllenamento",
+        "@create_workout": {},
+        "add_at_least_one_exercise": "Aggiungi almeno un esercizio al tuo piano di allenamento",
+        "@add_at_least_one_exercise": {},
+        "edit_client": "Modifica il cliente",
+        "@edit_client": {},
+        "choose_avatar": "Scegli un avatar",
+        "@choose_avatar": {},
+        "enter_email_address": "Inserisci l'email del cliente",
+        "@enter_email_address": {},
+        "please_enter_email": "Inserisci l'email del cliente",
+        "@please_enter_email": {},
+        "invalid_email": "Inserisci un'email valida",
+        "@invalid_email": {},
+        "injuries_surgeries": "Blessure e operazioni",
+        "@injuries_surgeries": {},
+        "time_availability": "Disponibilità oraria",
+        "@time_availability": {},
+        "not_specified": "Non specificato",
+        "@not_specified": {},
+        "exercise_images": "Immagini di esercizio",
+        "@exercise_images": {},
+        "search_images": "Cerca immagini...",
+        "@search_images": {},
+        "no_images_found": "Nessuna immagine trovata",
+        "@no_images_found": {},
+        "no_images_match": "Nessuna immagine corrisponde alla tua ricerca",
+        "@no_images_match": {},
+        "failed_fetch_images": "Errore nella ricerca delle immagini: {error}",
+        "@failed_fetch_images": {
+            "placeholders": {
+                "error": {
+                    "type": "String"
+                }
+            }
+        },
+        "edit_session": "Modifica la sessione",
+        "@edit_session": {},
+        "session_notes": "Note della sessione",
+        "@session_notes": {},
+        "session_notes_hint": "Aggiungi istruzioni o note speciali...",
+        "@session_notes_hint": {},
+        "duration": "Durata",
+        "@duration": {},
+        "minutes": "{count} minutes",
+        "@minutes": {
+            "placeholders": {
+                "count": {
+                    "type": "int"
+                }
+            }
+        },
+        "retry": "Ritenta",
+        "@retry": {},
+        "unnamed_exercise": "Esercizio non nominato",
+        "@unnamed_exercise": {},
+        "exercises": "Esercizi",
+        "@exercises": {},
+        "add": "Aggiungi",
+        "@add": {},
+        "search_exercises": "Cerca esercizi...",
+        "@search_exercises": {},
+        "no_exercises_yet": "Nessun esercizio ancora",
+        "@no_exercises_yet": {},
+        "add_first_exercise": "Aggiungi il tuo primo esercizio",
+        "@add_first_exercise": {},
+        "equipment_title": "Equipaggiamento",
+        "@equipment_title": {},
+        "sets_title": "Serie",
+        "@sets_title": {},
+        "instructions_title": "Istruzioni",
+        "@instructions_title": {},
+        "used_times": "Utilizzato {count} volte",
+        "@used_times": {
+            "placeholders": {
+                "count": {
+                    "type": "int"
+                }
+            }
+        },
+        "failed_update_bookmark": "Errore nella modifica del preferito",
+        "@failed_update_bookmark": {},
+        "exercise_videos": "Video di esercizio",
+        "@exercise_videos": {},
+        "search_videos": "Cerca video...",
+        "@search_videos": {},
+        "no_videos_found": "Nessun video trovato",
+        "@no_videos_found": {},
+        "no_videos_match": "Nessun video corrisponde alla tua ricerca",
+        "@no_videos_match": {},
+        "generate_invitation_link": "Genera il link di invito",
+        "@generate_invitation_link": {},
+        "or_add_manually": "Oppure aggiungi manualmente",
+        "@or_add_manually": {},
+        "share_invitation": "Condividi l'invito",
+        "@share_invitation": {},
+        "share_link_message": "Condividi questo link con il tuo cliente:",
+        "@share_link_message": {},
+        "whatsapp": "WhatsApp",
+        "@whatsapp": {},
+        "share": "Condividi",
+        "@share": {},
+        "meal_schedule": "Pianificazione pasto",
+        "@meal_schedule": {},
+        "plan_overview": "Panoramica del piano",
+        "@plan_overview": {},
+        "no_plan_details": "Nessun dettaglio di piano disponibile",
+        "@no_plan_details": {},
+        "no_meals_planned": "Nessun pasto pianificato per questo giorno",
+        "@no_meals_planned": {},
+        "supplements": "Complementi",
+        "@supplements": {},
+        "shopping_list": "Lista della spesa",
+        "@shopping_list": {},
+        "use": "UTILIZZA",
+        "@use": {},
+        "macros_distribution": "DISTRIBUZIONE MACROS",
+        "@macros_distribution": {},
+        "meals": "Repas",
+        "@meals": {},
+        "search_meals": "Cerca pasti...",
+        "@search_meals": {},
+        "no_meals_yet": "Nessun pasto ancora",
+        "@no_meals_yet": {},
+        "add_first_meal": "Aggiungi il tuo primo pasto",
+        "@add_first_meal": {},
+        "calories": "Calorie",
+        "@calories": {},
+        "protein": "Proteina",
+        "@protein": {},
+        "carbs": "Carboidrati",
+        "@carbs": {},
+        "fats": "Lipidi",
+        "@fats": {},
+        "meal_templates": "Modelli di pasto",
+        "@meal_templates": {},
+        "search_meal_templates": "Cerca modelli di pasto...",
+        "@search_meal_templates": {},
+        "create": "Crea",
+        "@create": {},
+        "no_meal_templates": "Nessun modello di pasto ancora",
+        "@no_meal_templates": {},
+        "create_first_template": "Crea il tuo primo modello di pasto",
+        "@create_first_template": {},
+        "unnamed_template": "Modello non nominato",
+        "@unnamed_template": {},
+        "type": "Type",
+        "@type": {},
+        "resources": "Risorse",
+        "@resources": {},
+        "search_resources": "Cerca",
+        "@search_resources": {},
+        "templates_section": "Modelli",
+        "@templates_section": {},
+        "database_section": "Base di dati",
+        "@database_section": {},
+        "exercise_library_section": "Biblioteca di esercizi",
+        "@exercise_library_section": {},
+        "workout_title": "Allenamento",
+        "@workout_title": {},
+        "meal_title": "Pasto",
+        "@meal_title": {},
+        "exercises_title": "Esercizi",
+        "@exercises_title": {},
+        "meals_title": "Pasti",
+        "@meals_title": {},
+        "videos_title": "Video",
+        "@videos_title": {},
+        "images_title": "Immagini",
+        "@images_title": {},
+        "failed_fetch_videos": "Errore nella ricerca dei video: {error}",
+        "@failed_fetch_videos": {
+            "placeholders": {
+                "error": {
+                    "type": "String"
+                }
+            }
+        },
+        "join_message": "Join me on CoachTrack!\n\nClick here to join:\n{link}\n\nDon't have the app yet? Download it here:\nAndroid: {androidLink}\niOS: {iosLink}",
+        "@join_message": {
+            "placeholders": {
+                "link": {
+                    "type": "String"
+                },
+                "androidLink": {
+                    "type": "String"
+                },
+                "iosLink": {
+                    "type": "String"
+                }
+            }
+        },
+        "meal_used_times": "Utilizzato {count} volte",
+        "@meal_used_times": {
+            "placeholders": {
+                "count": {
+                    "type": "int"
+                }
+            }
+        },
+        "minutes_session_details": "minuti",
+        "@minutes_session_details": {},
+        "recurring_weeks": "Numero di settimane ricorrenti",
+        "@recurring_weeks": {},
+        "session_scheduled": "Sessione pianificata con successo!",
+        "@session_scheduled": {},
+        "success": "Successo",
+        "@success": {},
+        "sessions": "Sessioni",
+        "@sessions": {},
+        "no_sessions_scheduled": "Nessuna sessione pianificata",
+        "@no_sessions_scheduled": {},
+        "participants": "partecipanti",
+        "@participants": {},
+        "more": "più",
+        "@more": {},
+        "todays_sessions": "Sessioni di oggi",
+        "@todays_sessions": {},
+        "no_sessions_today": "Nessuna sessione pianificata per oggi",
+        "@no_sessions_today": {},
+        "sessions_appear_here": "Tutte le tue sessioni per oggi appariranno qui",
+        "@sessions_appear_here": {},
+        "unknown": "Sconosciuto",
+        "@unknown": {},
+        "generate_invite_link": "Genera il link di invito",
+        "@generate_invite_link": {},
+        "share_invite_link": "Condividi il link di invito",
+        "@share_invite_link": {},
+        "generate_link_description": "Genera un link per invitare il tuo {type} a CoachTrack",
+        "@generate_link_description": {
+            "placeholders": {
+                "type": {
+                    "type": "String",
+                    "example": "Client"
+                }
+            }
+        },
+        "app_link_label": "Link dell'app:",
+        "@app_link_label": {},
+        "web_link_label": "Link web:",
+        "@web_link_label": {},
+        "generate_link": "Genera il link",
+        "@generate_link": {},
+        "user_data_not_available": "Dati utente non disponibili",
+        "@user_data_not_available": {},
+        "continue_button": "Continua",
+        "@continue_button": {},
+        "complete_button": "Completa",
+        "@complete_button": {},
+        "basic_profile": "Profilo di base",
+        "@basic_profile": {},
+        "enter_full_name": "Inserisci il tuo nome completo",
+        "@enter_full_name": {},
+        "enter_email": "Inserisci la tua email",
+        "@enter_email": {},
+        "enter_phone": "Inserisci il tuo numero di telefono",
+        "@enter_phone": {},
+        "enter_location": "Città, Regione, Paese",
+        "@enter_location": {},
+        "professional_experience": "Esperienza professionale",
+        "@professional_experience": {},
+        "how_can_clients_reach": "Come i clienti possono contattarti?",
+        "@how_can_clients_reach": {},
+        "education_certifications": "Istruzione e certificazioni",
+        "@education_certifications": {},
+        "added_education_certifications": "Istruzione e certificazioni aggiunte",
+        "@added_education_certifications": {},
+        "how_can_clients_reach_subtitle": "Come i clienti possono contattarti?",
+        "@how_can_clients_reach_subtitle": {},
+        "tell_about_yourself_subtitle": "Parlate di voi",
+        "@tell_about_yourself_subtitle": {},
+        "profile_photo_required": "La foto del profilo è richiesta",
+        "@profile_photo_required": {},
+        "select_photo": "Seleziona una foto",
+        "@select_photo": {},
+        "education_category_required": "La categoria di istruzione è richiesta",
+        "@education_category_required": {},
+        "education_item_required": "L'elemento di istruzione è richiesto",
+        "@education_item_required": {},
+        "job_title_required": "Il titolo del lavoro è richiesto",
+        "@job_title_required": {},
+        "organization_required": "L'organizzazione è richiesta",
+        "@organization_required": {},
+        "start_date_required": "La data di inizio è richiesta",
+        "@start_date_required": {},
+        "specialization_required": "Almeno una specializzazione è richiesta",
+        "@specialization_required": {},
+        "availability_required": "Almeno un luogo di disponibilità è richiesto",
+        "@availability_required": {},
+        "set_up_your_business_information": "Configura le tue informazioni commerciali",
+        "@set_up_your_business_information": {},
+        "package_rates": "Tariffe dei pacchetti",
+        "@package_rates": {},
+        "hourly_rate": "Tariffa oraria",
+        "@hourly_rate": {},
+        "your_standard_hourly_rate": "La tua tariffa oraria standard",
+        "@your_standard_hourly_rate": {},
+        "describe_your_package_options_and_rates": "Descrivi le tue opzioni di pacchetto e le tariffe",
+        "@describe_your_package_options_and_rates": {},
+        "business_profile": "Profilo commerciale",
+        "@business_profile": {},
+        "package_name": "Nome del pacchetto",
+        "@package_name": {},
+        "package_description": "Descrizione del pacchetto",
+        "@package_description": {},
+        "package_rate": "Tariffa del pacchetto",
+        "@package_rate": {},
+        "package_duration": "Durata del pacchetto",
+        "@package_duration": {},
+        "enter_your_email": "Inserisci la tua email",
+        "@enter_your_email": {},
+        "enter_your_phone": "Inserisci il tuo numero di telefono",
+        "@enter_your_phone": {},
+        "enter_your_location": "Inserisci la tua località",
+        "@enter_your_location": {},
+        "enter_your_full_name": "Inserisci il tuo nome completo",
+        "@enter_your_full_name": {},
+        "profile_background_photo": "Foto di sfondo del profilo",
+        "@profile_background_photo": {},
+        "save_button": "Salva",
+        "@save_button": {},
+        "edit_background_photo": "Modifica la foto di sfondo del profilo",
+        "@edit_background_photo": {},
+        "remove_background_photo": "Rimuovi la foto di sfondo del profilo",
+        "@remove_background_photo": {},
+        "years": "anni",
+        "@years": {},
+        "areas": "zone",
+        "@areas": {},
+        "positions": "posizioni",
+        "@positions": {},
+        "certificates": "certificati",
+        "@certificates": {},
+        "experience_title": "Esperienza",
+        "@experience_title": {},
+        "work_history_title": "Storico del lavoro",
+        "@work_history_title": {},
+        "education_title": "Istruzione",
+        "@education_title": {},
+        "not_available": "Non disponibile",
+        "@not_available": {},
+        "failed_save_image": "Errore nel salvare l'immagine",
+        "@failed_save_image": {},
+        "settings": "Impostazioni",
+        "@settings": {},
+        "account_section": "Account",
+        "@account_section": {},
+        "security_section": "Sicurezza",
+        "@security_section": {},
+        "business_section": "Azienda",
+        "@business_section": {},
+        "notifications_section": "Notifiche",
+        "@notifications_section": {},
+        "app_settings_section": "Impostazioni dell'app",
+        "@app_settings_section": {},
+        "support_section": "Supporto",
+        "@support_section": {},
+        "about_us_section": "A proposito di noi",
+        "@about_us_section": {},
+        "sign_out_section": "Disconnetti",
+        "@sign_out_section": {},
+        "danger_zone_section": "Zona pericolosa",
+        "@danger_zone_section": {},
+        "specializations_subtitle": "Definisci le tue specializzazioni",
+        "@specializations_subtitle": {},
+        "certifications_subtitle": "Gestisci le tue certificazioni professionali",
+        "@certifications_subtitle": {},
+        "experience_subtitle": "Definisci la tua disponibilità",
+        "@experience_subtitle": {},
+        "password_subtitle": "Cambia la tua password",
+        "@password_subtitle": {},
+        "working_hours_subtitle": "Durata per default, tempo di riposo",
+        "@working_hours_subtitle": {},
+        "pricing_subtitle": "Definisci le tue tariffe e pacchetti",
+        "@pricing_subtitle": {},
+        "payment_settings_subtitle": "Gestisci gli accordi con i clienti",
+        "@payment_settings_subtitle": {},
+        "push_notifications_subtitle": "Rapelli di sessioni, messaggi clienti",
+        "@push_notifications_subtitle": {},
+        "email_notifications_subtitle": "Rapporti settimanali, aggiornamenti clienti",
+        "@email_notifications_subtitle": {},
+        "language_subtitle": "Cambia la lingua dell'app",
+        "@language_subtitle": {},
+        "unit_preferences_subtitle": "Mostra/Nascondi le metriche",
+        "@unit_preferences_subtitle": {},
+        "logout_failed": "Disconnessione impossibile",
+        "@logout_failed": {},
+        "pricing_title": "Tariffe",
+        "@pricing_title": {},
+        "push_notifications_title": "Notifiche Push",
+        "@push_notifications_title": {},
+        "email_notifications_title": "Notifiche per email",
+        "@email_notifications_title": {},
+        "unit_preferences_title": "Preferenze unità",
+        "@unit_preferences_title": {},
+        "dark_mode_title": "Modalità scura",
+        "@dark_mode_title": {},
+        "help_center_title": "Centro di assistenza",
+        "@help_center_title": {},
+        "privacy_policy_title": "Politica di privacy",
+        "@privacy_policy_title": {},
+        "terms_of_service_title": "Condizioni d'uso",
+        "@terms_of_service_title": {},
+        "feedback_title": "Feedback",
+        "@feedback_title": {},
+        "faqs_title": "FAQs",
+        "@faqs_title": {},
+        "contact_us_title": "Contattaci",
+        "@contact_us_title": {},
+        "sign_out_title": "Disconnetti",
+        "@sign_out_title": {},
+        "delete_account_title": "Cancella il tuo account",
+        "@delete_account_title": {},
+        "my_schedule": "Il mio programma",
+        "@my_schedule": {},
+        "add_slot": "Aggiungi un orario",
+        "@add_slot": {},
+        "no_slots": "Nessun orario",
+        "@no_slots": {},
+        "group_session_indicator": "G",
+        "@group_session_indicator": {},
+        "initial_session_indicator": "I",
+        "@initial_session_indicator": {},
+        "follow_up_session_indicator": "F",
+        "@follow_up_session_indicator": {},
+        "week_date_range": "{startDate} - {endDate}",
+        "@week_date_range": {
+            "placeholders": {
+                "startDate": {
+                    "type": "String",
+                    "example": "Mar 1"
+                },
+                "endDate": {
+                    "type": "String",
+                    "example": "Mar 7"
+                }
+            }
+        },
+        "overview_tab": "Panoramica",
+        "@overview_tab": {},
+        "schedule_tab": "Programma",
+        "@schedule_tab": {},
+        "additional_notes_tab": "Note aggiuntive",
+        "@additional_notes_tab": {},
+        "todays_focus": "FOCUS DEL GIORNO",
+        "@todays_focus": {},
+        "day_label": "Giorno",
+        "@day_label": {},
+        "no_notes_available_message": "Nessuna nota disponibile",
+        "@no_notes_available_message": {},
+        "template_label": "Modello",
+        "@template_label": {},
+        "type_label": "Tipo",
+        "@type_label": {},
+        "warm_up_label": "Calore",
+        "@warm_up_label": {},
+        "cool_down_label": "Raffreddamento",
+        "@cool_down_label": {},
+        "progression_notes_label": "Note di progressione",
+        "@progression_notes_label": {},
+        "deload_week_label": "Settimana di rilassamento",
+        "@deload_week_label": {},
+        "additional_notes_label": "Note aggiuntive",
+        "@additional_notes_label": {},
+        "templates_title": "Modelli",
+        "@templates_title": {},
+        "create_template": "Crea",
+        "@create_template": {},
+        "search_templates": "Cerca modelli di allenamento...",
+        "@search_templates": {},
+        "no_templates": "Nessun modello ancora",
+        "@no_templates": {},
+        "goal_section": "Obiettivo",
+        "@goal_section": {},
+        "duration_section": "Durata",
+        "@duration_section": {},
+        "difficulty_section": "Difficoltà",
+        "@difficulty_section": {},
+        "switching_to_client": "Passaggio al profilo cliente...",
+        "@switching_to_client": {},
+        "add_new_client_button": "Aggiungi\nCliente",
+        "@add_new_client_button": {},
+        "pro_member": "Pro Membro",
+        "@pro_member": {},
+        "switch_to_client": "Passa al cliente",
+        "@switch_to_client": {},
+        "upcoming_sessions_title": "Sessioni future",
+        "@upcoming_sessions_title": {},
+        "no_upcoming_sessions_empty": "Nessuna sessione futura",
+        "@no_upcoming_sessions_empty": {},
+        "group_session_count": "Sessione di gruppo ({count})",
+        "@group_session_count": {
+            "placeholders": {
+                "count": {
+                    "type": "int",
+                    "example": "5"
+                }
+            }
+        },
+    
+        "availabale_slots_week_stats_available": "Disponibile",
+        "@availabale_slots_week_stats_available": {},
+        "availabale_slots_week_stats_group": "Gruppo",
+        "@availabale_slots_week_stats_group": {},
+        "availabale_slots_week_stats_recurring": "Ricorrente",
+        "@availabale_slots_week_stats_recurring": {},
+        "availabale_slots_week_stats_requested": "Richiesto",
+        "@availabale_slots_week_stats_requested": {},
+    
+        "done": "Fatto",
+        "@done": {},
+    
+        "general": "Generale",
+        "@general": {},
+    
+        "weight_loss_coaching": "Coaching per la perdita di peso",
+        "@weight_loss_coaching": {},
+    
+        "strength_training": "Allenamento di forza",
+        "@strength_training": {},
+    
+        "cardiovascular_endurance": "Endurance cardiovascolare",
+        "@cardiovascular_endurance": {},
+    
+        "core_stability_training": "Allenamento di stabilità del nucleo",
+        "@core_stability_training": {},
+    
+        "functional_fitness_training": "Allenamento di fitness funzionale",
+        "@functional_fitness_training": {},
+    
+        "general_fitness_for_beginners": "Fitness generale per i principianti",
+        "@general_fitness_for_beginners": {},
+    
+        "body_recomposition": "Rimodellamento corporeo",
+        "@body_recomposition": {},
+    
+        "metabolic_conditioning": "Condizionamento metabolico",
+        "@metabolic_conditioning": {},
+    
+        "low_impact_fitness": "Fitness a basso impatto",
+        "@low_impact_fitness": {},
+    
+        "circuit_training": "Allenamento in circuito",
+        "@circuit_training": {},
+    
+        "high_intensity_interval_training": "Allenamento ad alta intensità per intervalli",
+        "@high_intensity_interval_training": {},
+    
+        "crossfit_coaching": "Coaching CrossFit",
+        "@crossfit_coaching": {},
+    
+        "powerlifting": "Powerlifting",
+        "@powerlifting": {},
+    
+        "olympic_lifting": "Lifting olimpico",
+        "@olympic_lifting": {},
+    
+        "strongman_training": "Allenamento strongman",
+        "@strongman_training": {},
+    
+        "kettlebell_training": "Allenamento kettlebell",
+        "@kettlebell_training": {},
+    
+        "suspension_training": "Allenamento sospeso",
+        "@suspension_training": {},
+    
+        "plyometrics_and_explosive_movements": "Plyometrics e movimenti esplosivi",
+        "@plyometrics_and_explosive_movements": {},
+    
+        "hybrid_training": "Allenamento ibrido",
+        "@hybrid_training": {},
+    
+        "agility_and_speed_training": "Agilità e allenamento di velocità",
+        "@agility_and_speed_training": {},
+        
+        "health_maintenance": "Manutenzione della salute",
+        "@health_maintenance": {},
+        
+        "endurance_building": "Costruzione dell'endurance",
+        "@endurance_building": {},
+    
+        "flexibility_mobility": "Flexibilità e mobilità",
+        "@flexibility_mobility": {},
+        
+        "stress_reduction": "Riduzione dello stress",
+        "@stress_reduction": {},
+        
+        
+    
+    
+    
+    
+    
+        "formal_education": "Educazione formale",
+        "@formal_education": {},
+    
+        "high_school_diploma": "Diploma di scuola superiore",
+        "@high_school_diploma": {},
+    
+        "associate_degree": "Diploma associato",
+        "@associate_degree": {},
+    
+        "bachelor_degree": "Diploma di bachellore",
+        "@bachelor_degree": {},
+    
+        "master_degree": "Diploma di master",
+        "@master_degree": {},
+    
+        "phd": "Dottorato",
+        "@phd": {},
+    
+        "certified_personal_trainer": "Certificato allenatore personale",
+        "@certified_personal_trainer": {},
+    
+        "certified_strength_and_conditioning_specialist": "Specialista in condizionamento fisico certificato",
+        "@certified_strength_and_conditioning_specialist": {},
+    
+        "certified_functional_strength_coach": "Allenatore in forza funzionale certificato",
+        "@certified_functional_strength_coach": {},
+    
+        "corrective_exercise_specialist": "Specialista in esercizio correttivo",
+        "@corrective_exercise_specialist": {},
+    
+        "performance_enhancement_specialist": "Specialista in miglioramento delle prestazioni",
+        "@performance_enhancement_specialist": {},
+    
+        "certified_nutrition_specialist": "Specialista in nutrizione certificato",
+        "@certified_nutrition_specialist": {},
+    
+        "precision_nutrition_certification": "Certificato in nutrizione precisa",
+        "@precision_nutrition_certification": {},
+    
+        "certified_pilates_instructor": "Instructeur Pilates certificato",
+        "@certified_pilates_instructor": {},
+    
+        "certified_yoga_instructor": "Instructeur yoga certificato",
+        "@certified_yoga_instructor": {},
+    
+        "crossfit_level_1_trainer": "Formateur CrossFit niveau 1",
+        "@crossfit_level_1_trainer": {},
+    
+        "trx_suspension_training_certification": "Certificato in allenamento TRX sospeso",
+        "@trx_suspension_training_certification": {},
+    
+        "kettlebell_instructor_certification": "Certificato di instructeur kettlebell",
+        "@kettlebell_instructor_certification": {},
+    
+        "sports_massage_therapy_certification": "Certificato in massaggio sportivo",
+        "@sports_massage_therapy_certification": {},
+    
+        "senior_fitness_specialist_certification": "Specialista in fitness senior certificato",
+        "@senior_fitness_specialist_certification": {},
+    
+        "pre_and_post_natal_fitness_certification": "Certificato in fitness pré e post natal",
+        "@pre_and_post_natal_fitness_certification": {},
+    
+        "youth_fitness_specialist_certification": "Specialista in fitness giovani certificato",
+        "@youth_fitness_specialist_certification": {},
+    
+        "group_fitness_instructor_certification": "Instructeur de fitness de groupe certificato",
+        "@group_fitness_instructor_certification": {},
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+        "specialized_education": "Educazione specializzata",
+        "@specialized_education": {},
+    
+    
+        "aquatic_exercise_association_certification": "Certificato dell'Associazione di esercizio acquatico",
+        "@aquatic_exercise_association_certification": {},
+    
+        "tactical_strength_and_conditioning_certification": "Certificato in condizionamento fisico tattico",
+        "@tactical_strength_and_conditioning_certification": {},
+    
+        "behavior_change_specialist_certification": "Specialista in cambiamento di comportamento certificato",
+        "@behavior_change_specialist_certification": {},
+    
+        "mobility_and_movement_specialist_certification": "Specialista in mobilità e movimento certificato",
+        "@mobility_and_movement_specialist_certification": {},
+    
+        "advanced_biomechanics_certification": "Certificato in biomeccanica avanzata",
+        "@advanced_biomechanics_certification": {},
+    
+        "martial_arts_and_self_defense_trainer_certification": "Formateur in arti marziali e in difesa personale certificato",
+        "@martial_arts_and_self_defense_trainer_certification": {},
+    
+        "cpr_aed_certification": "Certificato CPR/AED",
+        "@cpr_aed_certification": {},
+    
+        "first_aid_certification": "Certificato in primi soccorsi",
+        "@first_aid_certification": {},
+    
+        "injury_prevention_and_management": "Prevenzione delle lesioni e gestione delle lesioni",
+        "@injury_prevention_and_management": {},
+    
+        "advanced_program_design": "Concepimento di programma avanzato",
+        "@advanced_program_design": {},
+    
+        "nutrition_for_athletes": "Nutrizione per gli atleti",
+        "@nutrition_for_athletes": {},
+    
+        "mental_health_and_fitness_integration": "Integrazione della salute mentale e del fitness",
+        "@mental_health_and_fitness_integration": {},
+    
+        "sports_psychology_basics": "Psicologia sportiva di base",
+        "@sports_psychology_basics": {},
+    
+        "functional_movement_screen_fms_certification": "Certificato dell'ecran di movimento funzionale (FMS)",
+        "@functional_movement_screen_fms_certification": {},
+    
+        "advanced_recovery_techniques": "Tecniche di recupero avanzate",
+        "@advanced_recovery_techniques": {},
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+        "advanced": "Avancé",
+        "@advanced": {},
+    
+        "sports": "Sport",
+        "@sports": {},
+    
+        "recovery": "Recupero",
+        "@recovery": {},
+    
+        "transformation": "Trasformazione",
+        "@transformation": {},
+    
+        "mind_body": "Mind & Body",
+        "@mind_body": {},
+    
+    
+        "diet_and_nutrition": "Dietetica e nutrizione",
+        "@diet_and_nutrition": {},
+    
+        "specialty": "Specialità",
+        "@specialty": {},
+    
+        "technology": "Tecnologia",
+        "@technology": {},
+    
+        "sports_specific_conditioning": "Condizionamento specifico per lo sport",
+        "@sports_specific_conditioning": {},
+    
+        "marathon_training": "Allenamento marathon",
+        "@marathon_training": {},
+    
+        "triathlon_training": "Allenamento triathlon",
+        "@triathlon_training": {},
+    
+        "cycling_and_spin_training": "Ciclismo e allenamento spin",
+        "@cycling_and_spin_training": {},
+    
+        "swimming_and_aquatic_training": "Nuoto e allenamento acquatico",
+        "@swimming_and_aquatic_training": {},
+    
+        "golf_fitness": "Fitness golf",
+        "@golf_fitness": {},
+    
+        "tennis_fitness": "Fitness tennis",
+        "@tennis_fitness": {},
+    
+        "soccer_conditioning": "Condizionamento calcio",
+        "@soccer_conditioning": {},
+    
+        "basketball_training": "Allenamento basket",
+        "@basketball_training": {},
+    
+        "martial_arts_fitness": "Fitness martial",
+        "@martial_arts_fitness": {},
+    
+        "pre_and_post_natal_fitness": "Fitness pré et post natal",
+        "@pre_and_post_natal_fitness": {},
+    
+        "senior_fitness": "Fitness senior",
+        "@senior_fitness": {},
+    
+        "youth_fitness": "Fitness giovani",
+        "@youth_fitness": {},
+    
+        "post_rehabilitation_training": "Allenamento post réhabilitation",
+        "@post_rehabilitation_training": {},
+    
+        "joint_pain_management": "Gestione delle dolori articolari",
+        "@joint_pain_management": {},
+    
+        "chronic_disease_management": "Gestione delle malattie croniche",
+        "@chronic_disease_management": {},
+    
+        "injury_prevention": "Prevenzione delle lesioni",
+        "@injury_prevention": {},
+    
+        "mobility_and_flexibility_training": "Mobilità e flessibilità",
+        "@mobility_and_flexibility_training": {},
+    
+        "stress_management_programs": "Programmi di gestione dello stress",
+        "@stress_management_programs": {},
+    
+        "restorative_fitness": "Fitness restorative",
+        "@restorative_fitness": {},
+    
+        "bodybuilding": "Bodybuilding",
+        "@bodybuilding": {},
+    
+        "physique_and_aesthetic_coaching": "Physique e coaching estetico",
+        "@physique_and_aesthetic_coaching": {},
+    
+        "bikini_competition_preparation": "Preparazione per la competizione bikini",
+        "@bikini_competition_preparation": {},
+    
+        "muscle_gain_programs": "Programmi di guadagno di muscolo",
+        "@muscle_gain_programs": {},
+    
+        "lean_bulk_planning": "Pianificazione del guadagno di massa",
+        "@lean_bulk_planning": {},
+    
+        "contest_preparation_coaching": "Coaching per la preparazione alle competizioni",
+        "@contest_preparation_coaching": {},
+    
+        "weight_gain_assistance": "Assistenza per il guadagno di peso",
+        "@weight_gain_assistance": {},
+    
+        "advanced_sculpting_programs": "Programmi di scultura avanzati",
+        "@advanced_sculpting_programs": {},
+    
+        "maintenance_coaching": "Coaching di manutenzione",
+        "@maintenance_coaching": {},
+    
+        "body_dysmorphia_awareness_training": "Allenamento per la sensibilizzazione alla dysmorfia corporea",
+        "@body_dysmorphia_awareness_training": {},
+    
+    
+        "tai_chi_fitness": "Fitness tai chi",
+        "@tai_chi_fitness": {},
+    
+        "mindfulness_based_fitness": "Fitness basato sul mindfulness",
+        "@mindfulness_based_fitness": {},
+    
+        "meditation_integration": "Integrazione della meditazione",
+        "@meditation_integration": {},
+    
+        "breathing_techniques": "Tecniche di respirazione",
+        "@breathing_techniques": {},
+    
+        "body_mind_centering": "Centraggio corpo e spirito",
+        "@body_mind_centering": {},
+    
+        "qigong_for_fitness": "Qigong per la fitness",
+        "@qigong_for_fitness": {},
+    
+        "barre_workouts": "Allenamenti barre",
+        "@barre_workouts": {},
+    
+        "dance_fitness": "Fitness danza",
+        "@dance_fitness": {},
+    
+        "corporate_fitness_programs": "Programmi di fitness per le aziende",
+        "@corporate_fitness_programs": {},
+    
+        "family_fitness": "Fitness familiale",
+        "@family_fitness": {},
+    
+        "outdoor_adventure_fitness": "Fitness avventura all'aria aperta",
+        "@outdoor_adventure_fitness": {},
+    
+        "hiking_and_trail_fitness": "Fitness randonnée e sentiero",
+        "@hiking_and_trail_fitness": {},
+    
+        "fitness_for_gamers": "Fitness per i gamers",
+        "@fitness_for_gamers": {},
+    
+        "military_and_tactical_fitness": "Fitness militare e tattico",
+        "@military_and_tactical_fitness": {},
+    
+        "emergency_services_fitness": "Fitness per i servizi di emergenza",
+        "@emergency_services_fitness": {},
+    
+        "fitness_for_travelers": "Fitness per i viaggiatori",
+        "@fitness_for_travelers": {},
+    
+        "minimalist_fitness_bodyweight": "Fitness minimalista peso corporeo",
+        "@minimalist_fitness_bodyweight": {},
+    
+        "home_workouts": "Allenamenti a casa",
+        "@home_workouts": {},
+    
+        "nutrition_planning": "Pianificazione della nutrizione",
+        "@nutrition_planning": {},
+    
+        "plant_based_nutrition_coaching": "Coaching nutrizione vegetariano",
+        "@plant_based_nutrition_coaching": {},
+    
+        "ketogenic_diet_support": "Supporto per la dieta ketogena",
+        "@ketogenic_diet_support": {},
+    
+        "paleo_diet_fitness_programs": "Programmi di fitness per la dieta paleo",
+        "@paleo_diet_fitness_programs": {},
+    
+        "intermittent_fasting_guidance": "Guidance per il jeûne intermittente",
+        "@intermittent_fasting_guidance": {},
+    
+        "sports_nutrition_coaching": "Coaching nutrizione sportiva",
+        "@sports_nutrition_coaching": {},
+    
+        "weight_loss_meal_planning": "Pianificazione dei pasti per la perdita di peso",
+        "@weight_loss_meal_planning": {},
+    
+        "lean_mass_nutrition": "Nutrizione per il guadagno di massa",
+        "@lean_mass_nutrition": {},
+    
+        "food_intolerance_management": "Gestione delle intolleranze alimentari",
+        "@food_intolerance_management": {},
+    
+        "gut_health_and_fitness": "Salute intestinale e fitness",
+        "@gut_health_and_fitness": {},
+    
+        "lgbtq_inclusive_fitness": "Fitness inclusivo LGBTQ+",
+        "@lgbtq_inclusive_fitness": {},
+    
+        "adaptive_fitness_for_disabilities": "Fitness adattativa per le disabilità",
+        "@adaptive_fitness_for_disabilities": {},
+    
+        "neurodivergent_fitness_programs": "Programmi di fitness per i neurodivergenti",
+        "@neurodivergent_fitness_programs": {},
+    
+        "fitness_for_cancer_survivors": "Fitness per i sopravvissuti al cancro",
+        "@fitness_for_cancer_survivors": {},
+    
+        "arthritis_friendly_training": "Allenamento adattato alle artriti",
+        "@arthritis_friendly_training": {},
+    
+        "fibromyalgia_specific_workouts": "Allenamenti specifici per la fibromialgia",
+        "@fibromyalgia_specific_workouts": {},
+    
+        "cardiac_rehabilitation_programs": "Programmi di rééducation cardiaque",
+        "@cardiac_rehabilitation_programs": {},
+    
+        "diabetes_specific_fitness": "Fitness specifico per il diabete",
+        "@diabetes_specific_fitness": {},
+    
+        "autoimmune_disorder_friendly_fitness": "Fitness adattata ai disturbi autoimmuni",
+        "@autoimmune_disorder_friendly_fitness": {},
+    
+        "hormonal_balance_training": "Allenamento per l'equilibrio ormonale",
+        "@hormonal_balance_training": {},
+    
+        "wearable_tech_integration": "Integrazione della tecnologia wearable",
+        "@wearable_tech_integration": {},
+    
+        "online_personal_training": "Allenamento personale online",
+        "@online_personal_training": {},
+    
+        "app_based_fitness_guidance": "Guidance di fitness basata sull'app",
+        "@app_based_fitness_guidance": {},
+    
+        "virtual_reality_fitness_programs": "Programmi di fitness in realtà virtuale",
+        "@virtual_reality_fitness_programs": {},
+    
+        "fitness_gamification_coaching": "Coaching di gamification della fitness",
+        "@fitness_gamification_coaching": {},
+    
+        "ai_driven_workouts": "Allenamenti guidati dall'IA",
+        "@ai_driven_workouts": {},
+    
+        "biofeedback_coaching": "Coaching par biofeedback",
+        "@biofeedback_coaching": {},
+    
+        "genetic_fitness_planning": "Pianificazione di fitness genetica",
+        "@genetic_fitness_planning": {},
+    
+        "data_driven_fitness_programs": "Programmi di fitness basati sui dati",
+        "@data_driven_fitness_programs": {},
+    
+        "fitness_equipment_mastery": "Maestria degli equipaggiamenti di fitness",
+        "@fitness_equipment_mastery": {},
+    
+    
+    
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        "i_am_male": "Sono un uomo",
+        "@i_am_male": {},
+        "i_am_female": "Sono una donna",
+        "@i_am_female": {},
+    
+    
+    
+        "age": "Età",
+        "@age": {},
+        "status_current": "ATTUALE",
+        "@status_current": {},
+        "status_active": "ATTIVO",
+        "@status_active": {},
+        "status_confirmed": "CONFIRMATO",
+        "@status_confirmed": {},
+        "status_pending": "IN ATTESA",
+        "@status_pending": {},
+        "status_template": "TEMPLATE",
+        "@status_template": {},
+        "status_completed": "COMPLETATO",
+        "@status_completed": {},
+        "status_cancelled": "ANNULLATO",
+        "@status_cancelled": {},
+        "status_requested": "SOLICITATO",
+        "@status_requested": {},
+        "status_created": "CREATO",
+        "@status_created": {},
+        "status_available": "DISPONIBILE",
+        "@status_available": {},
+    
+        "health_goals": "Obiettivi di salute",
+        "@health_goals": {},
+    
+    
+        "what_achieve": "Che ne pensi?",
+        "@what_achieve": {},
+    
+    
+        "any_medical_conditions": "Condizioni mediche o preoccupazioni per la salute?",
+        "@any_medical_conditions": {},
+    
+    
+        "past_current_injuries": "Les blessures passées ou actuelles, les opérations?",
+        "@past_current_injuries": {},
+    
+    
+        "previous_exercise": "Esperienza precedente nell'esercizio",
+        "@previous_exercise": {},
+    
+    
+        "special_diets": "Diete speciali, abitudini alimentari, allergie",
+        "@special_diets": {},
+    
+    
+        "preferred_training": "Giorni e ore di preferenza per l'allenamento",
+        "@preferred_training": {},
+    
+    
+        "preferred_exercises": "Tipi di esercizi di preferenza",
+        "@preferred_exercises": {},
+    
+        "cancel_request": "Annulla la richiesta",
+        "@cancel_request": {},
+    
+        "leave_group": "Abbandona il gruppo",
+        "@leave_group": {},
+    
+        "create_group_chat": "Crea un chat di gruppo",
+        "@create_group_chat": {},
+    
+        "group_name": "Nome del gruppo",
+        "@group_name": {},
+    
+        "messages": "Messaggi",
+        "@messages": {},
+    
+        "add_new_client_web_button": "Aggiungi un cliente",
+        "@add_new_client_web_button": {},
+    
+        "help": "Aiuto",
+        "@help": {},
+    
+        "add_new_client_manually_web_button": "Aggiungi un cliente manualmente",
+        "@add_new_client_manually_web_button": {},
+    
+    
+        "generate": "Genera",
+        "@generate": {},
+    
+    
+        "generate_invitation_link_description": "Genera un link di invito per invitare clienti a unirsi al tuo network.",
+        "@generate_invitation_link_description": {},
+    
+    
+        "create_workout_plan_web_button": "Crea un piano di allenamento",
+        "@create_workout_plan_web_button": {},
+    
+        
+        
+    
+        
+        
+    
+    
+    
+        
+    
+        "e_g_weight_loss_muscle_gain_maintenance": "e.g., Perdita di peso, Guadagno di muscolo, Manutenzione",
+        "@e_g_weight_loss_muscle_gain_maintenance": {},
+    
+        "e_g_4_weeks": "e.g., 4 settimane",
+        "@e_g_4_weeks": {},
+    
+        "e_g_2000_kcal": "e.g., 2000 kcal",
+        "@e_g_2000_kcal": {},
+    
+        "e_g_mediterranean_keto_vegan": "e.g., Mediterraneo, Keto, Vegan",
+        "@e_g_mediterranean_keto_vegan": {},
+    
+        "e_g_allergies_intolerances_preferences": "e.g., Allergie, intoleranze, preferenze",
+        "@e_g_allergies_intolerances_preferences": {},
+    
+    
+        "workout_type": "Tipo di allenamento",
+        "@workout_type": {},
+    
+        "e_g_strength_hiit_cardio": "e.g., Strength Training, HIIT, Cardio",
+        "@e_g_strength_hiit_cardio": {},
+        
+        "equipment_needed": "Equipaggiamento necessario",
+        "@equipment_needed": {},
+    
+        "select_or_enter_equipment_needed": "Seleziona o inserisci l'equipaggiamento necessario",
+        "@select_or_enter_equipment_needed": {},
+    
+    
+        "e_g_6_week_strength_plan": "e.g., Piano di 6 settimane di forza",
+        "@e_g_6_week_strength_plan": {},
+    
+        "session_category": "Categoria di sessione",
+        "@session_category": {},
+    
+        "schedule_session_title": "Pianificare una sessione",
+        "@schedule_session_title": {},
+    
+        "type_client_name": "Tipo di nome del cliente",
+        "@type_client_name": {},
+    
+        "select_clients": "Seleziona clienti",
+        "@select_clients": {},
+    
+        "select_clients_for_group_session": "Seleziona clienti per una sessione di gruppo",
+        "@select_clients_for_group_session": {},
+    
+        "clients_selected": "clienti selezionati",
+        "@clients_selected": {},
+    
+    
+        "or_add_client_manually": "Oppure aggiungi un cliente manualmente",
+        "@or_add_client_manually": {},
+    
+        "create_available_time_slots_description": "Crea dei crannelli di tempo disponibili che i clienti possono prenotare tramite l'app.",
+        "@create_available_time_slots_description": {},
+    
+        "session_type": "Tipo di sessione",
+        "@session_type": {},
+    
+        "follow_up": "Seguimento",
+        "@follow_up": {},
+    
+        "initial": "Iniziale",
+        "@initial": {},
+    
+        "session_mode": "Modalità di sessione",
+        "@session_mode": {},
+    
+        "one_x_training": "1:X Allenamento",
+        "@one_x_training": {},
+    
+        "assessment": "Valutazione",
+        "@assessment": {},
+    
+        "progress_review": "Revisione di progressione",
+        "@progress_review": {},
+    
+        "consultation": "Consultazione",
+        "@consultation": {},
+    
+        "other_category": "Altro",
+        "@other_category": {},
+    
+        "any": "Qualunque",
+        "@any": {},
+    
+        "one_one_training": "1:1 Allenamento",
+        "@one_one_training": {},
+    
+        "date": "Data",
+        "@date": {},
+    
+        "time": "Tempo",
+        "@time": {},
+    
+        "mode": "Modalità",
+        "@mode": {},
+    
+        "add_photo": "Aggiungi una foto",
+        "@add_photo": {},
+    
+        "select_a_client": "Seleziona un cliente",
+        "@select_a_client": {},
+    
+        "no_messages_found": "Nessun messaggio trovato",
+        "@no_messages_found": {},
+    
+        "group_chat": "Chat di gruppo",
+        "@group_chat": {},
+    
+        "workout_plan_title": "Piani di allenamento",
+        "@workout_plan_title": {},
+    
+        "meal_plan_title": "Piani alimentari",
+        "@meal_plan_title": {},
+    
+        "exercises_title_resources": "Esercizi",
+        "@exercises_title_resources": {},
+    
+        "strength_training_program": "Allenamento di forza",
+        "@strength_training_program": {},
+    
+        "weight_loss_program": "Programma di perdita di peso",
+        "@weight_loss_program": {},
+    
+        "muscle_building_program": "Programma di costruzione di muscolo",
+        "@muscle_building_program": {},
+    
+        "hiit_program": "Programma HIIT",
+        "@hiit_program": {},
+    
+        "endurance_training_program": "Programma di allenamento dell'endurance",
+        "@endurance_training_program": {},
+    
+        "functional_fitness_program": "Programma di fitness funzionale",
+        "@functional_fitness_program": {},
+    
+        "body_transformation_program": "Programma di trasformazione corporea",
+        "@body_transformation_program": {},
+    
+        "athletic_performance_program": "Programma di performance atletica",
+        "@athletic_performance_program": {},
+    
+        "rehabilitation_program": "Programma di rééducation",
+        "@rehabilitation_program": {},
+    
+        "mobility_flexibility_program": "Programma di mobilità e di elasticità",
+        "@mobility_flexibility_program": {},
+    
+    
+    
+        "build_muscle_mass": "Costruire la massa muscolare",
+        "@build_muscle_mass": {},
+    
+        "lose_body_fat": "Perdere il grasso corporeo",
+        "@lose_body_fat": {},
+    
+        "increase_strength": "Aumentare la forza",
+        "@increase_strength": {},
+    
+        "improve_endurance": "Migliorare l'endurance",
+        "@improve_endurance": {},
+    
+        "enhance_flexibility": "Rinforzare la flessibilità",
+        "@enhance_flexibility": {},
+    
+        "athletic_performance": "Performance atletica",
+        "@athletic_performance": {},
+    
+        "general_fitness": "Fitness generale",
+        "@general_fitness": {},
+    
+    
+        "injury_recovery": "Ristabilimento delle lesioni",
+        "@injury_recovery": {},
+    
+        "sports_specific_training": "Allenamento specifico per lo sport",
+        "@sports_specific_training": {},
+    
+    
+    
+    
+        "four_weeks": "4 Settimane",
+        "@four_weeks": {},
+    
+        "six_weeks": "6 Settimane",
+        "@six_weeks": {},
+    
+        "eight_weeks": "8 Settimane",
+        "@eight_weeks": {},
+    
+        "twelve_weeks": "12 Settimane",
+        "@twelve_weeks": {},
+    
+        "sixteen_weeks": "16 Settimane",
+        "@sixteen_weeks": {},
+    
+        "three_months": "3 Mesi",
+        "@three_months": {},
+    
+        "six_months": "6 Mesi",
+        "@six_months": {},
+    
+        "two_sessions_per_week": "2 Sessioni per settimana",
+        "@two_sessions_per_week": {},
+    
+        "three_sessions_per_week": "3 Sessioni per settimana",
+        "@three_sessions_per_week": {},
+    
+        "four_sessions_per_week": "4 Sessioni per settimana",
+        "@four_sessions_per_week": {},
+    
+        "five_sessions_per_week": "5 Sessioni per settimana",
+        "@five_sessions_per_week": {},
+    
+    
+    
+    
+        "hypertrophy_training": "Allenamento di ipertrofia",
+        "@hypertrophy_training": {},
+    
+    
+        "hiit": "HIIT",
+        "@hiit": {},
+    
+        "endurance_training": "Allenamento di endurance",
+        "@endurance_training": {},
+    
+    
+        "bodyweight_training": "Allenamento con il peso corporeo",
+        "@bodyweight_training": {},
+    
+    
+        "olympic_weightlifting": "Allenamento di haltérophilie olimpica",
+        "@olympic_weightlifting": {},
+    
+        "functional_training": "Allenamento funzionale",
+        "@functional_training": {},
+    
+        "mobility_work": "Lavoro di mobilità",
+        "@mobility_work": {},
+    
+        "mixed_training_styles": "Stili di allenamento misti",
+        "@mixed_training_styles": {},
+    
+    
+    
+        "bodyweight": "Peso corporeo",
+        "@bodyweight": {},
+    
+        "barbell": "Barbell",
+        "@barbell": {},
+    
+        "dumbbell": "Dumbbell",
+        "@dumbbell": {},
+    
+        "kettlebell": "Kettlebell",
+        "@kettlebell": {},
+    
+        "machine": "Macchina",
+        "@machine": {},
+    
+        "cable": "Cavo",
+        "@cable": {},
+    
+        "resistance_band": "Bandiera di resistenza",
+        "@resistance_band": {},
+    
+        "medicine_ball": "Balla medica",
+        "@medicine_ball": {},
+    
+        "trx_suspension": "TRX sospensione",
+        "@trx_suspension": {},
+    
+       
+    
+        "cardio_phase": "Fase di cardio",
+        "@cardio_phase": {},
+    
+        "mobility_phase": "Fase di mobilità",
+        "@mobility_phase": {},
+    
+        "recovery_phase": "Fase di ristabilimento",
+        "@recovery_phase": {},
+    
+        "hiit_phase": "Fase HIIT",
+        "@hiit_phase": {},
+    
+        "core_work_phase": "Fase di lavoro del nucleo",
+        "@core_work_phase": {},
+    
+        "stretching_phase": "Fase di stretching",
+        "@stretching_phase": {},
+    
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+        "upper_body": "Parte superiore del corpo",
+        "@upper_body": {},
+    
+        "lower_body": "Parte inferiore del corpo",
+        "@lower_body": {},
+    
+        "full_body": "Intero del corpo",
+        "@full_body": {},
+    
+        "push_day": "Giorno di push",
+        "@push_day": {},
+    
+        "pull_day": "Giorno di pull",
+        "@pull_day": {},
+    
+        "legs_day": "Giorno delle gambe",
+        "@legs_day": {},
+    
+        "core_abs": "Nucleo & Abs",
+        "@core_abs": {},
+    
+        "back_shoulders": "Dorsa & Spalle",
+        "@back_shoulders": {},
+    
+        "chest_triceps": "Pectorali & Triceps",
+        "@chest_triceps": {},
+    
+        "back_biceps": "Dorsa & Bicipiti",
+        "@back_biceps": {},
+    
+        "shoulders_arms": "Spalle & Braccia",
+        "@shoulders_arms": {},
+    
+        "cardio_hiit": "Cardio & HIIT",
+        "@cardio_hiit": {},
+        
+        
+        
+        
+        
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        "add_meal_type": "Aggiungere {mealType}",
+        "@add_meal_type": {
+            "placeholders": {
+                "mealType": {
+                    "type": "String",
+                    "example": "Breakfast"
+                }
+            }
+        },
+    
+        "e_g_breakfast_lunch_etc": "e.g., Colazione, Pranzo, etc.",
+        "@e_g_breakfast_lunch_etc": {},
+    
+        "exercises_you_use_in_your_workout_plans_will_appear_here_for_quick_access": "Gli esercizi che utilizzi nei tuoi piani di allenamento appariranno qui per un accesso rapido",
+        "@exercises_you_use_in_your_workout_plans_will_appear_here_for_quick_access": {},
+    
+        "meals_you_create_in_your_meal_plans_will_appear_here_for_quick_access": "I pasti che crei nei tuoi piani alimentari appariranno qui per un accesso rapido",
+        "@meals_you_create_in_your_meal_plans_will_appear_here_for_quick_access": {},
+    
+        "monday_first_letter": "L",
+        "@monday_first_letter": {},
+    
+        "tuesday_first_letter": "M",
+        "@tuesday_first_letter": {},
+    
+        "wednesday_first_letter": "M",
+        "@wednesday_first_letter": {},
+    
+        "thursday_first_letter": "J",
+        "@thursday_first_letter": {},
+    
+        "friday_first_letter": "V",
+        "@friday_first_letter": {},
+    
+        "saturday_first_letter": "S",
+        "@saturday_first_letter": {},
+    
+        "sunday_first_letter": "D",
+        "@sunday_first_letter": {},
+        
+        
+        
+        
+        
+    
+        "are_you_sure_you_want_to_cancel_this_session": "Sei sicuro di voler annullare questa sessione?",
+        "@are_you_sure_you_want_to_cancel_this_session": {},
+    
+    
+        "failed_to_cancel_session_please_try_again": "Fallito l'annullamento della sessione. Per favore riprova.",
+        "@failed_to_cancel_session_please_try_again": {},
+    
+        "session_cancelled_successfully": "Sessione annullata con successo",
+        "@session_cancelled_successfully": {},
+    
+        "edit": "Modifica",
+        "@edit": {},
+    
+        "status_booked": "PRENOTATO",
+        "@status_booked": {},
+    
+        "status_withdrawn": "ANNULLATO",
+        "@status_withdrawn": {},
+    
+        "status_recurring": "RICORRENTE",
+        "@status_recurring": {},
+    
+        "status_rejected": "RIFIUTATO",
+        "@status_rejected": {},
+    
+        "no_participants_yet": "Nessun partecipante ancora",
+        "@no_participants_yet": {},
+    
+        "hi": "Ciao",
+        "@hi": {},
+    
+    
+        "meal_plan_set_as_current_successfully": "Piano alimentare definito come attuale con successo",
+        "@meal_plan_set_as_current_successfully": {},
+    
+        "plan_not_found_in_database": "Piano non trovato nel database",
+        "@plan_not_found_in_database": {},
+    
+        "an_error_occurred": "Si è verificato un errore",
+        "@an_error_occurred": {},
+    
+        "current": "ATTUALE",
+        "@current": {},
+    
+        "make_current": "FARE ATTUALE",
+        "@make_current": {},
+        
+        "active": "ATTIVO",
+        "@active": {},
+    
+        "confirmed": "CONFIRMATO",
+        "@confirmed": {},
+        
+    
+        
+        
+        
+        
+    
+    
+    
+    
+        "status_manual": "MANUEL",
+        "@status_manual": {},
+        
+        "group_message": "MESSAGGIO DI GRUPPO",
+        "@group_message": {},
+    
+        "message": "MESSAGGIO",
+        "@message": {},
+    
+    
+        "requests_to_join": "Richieste di riconnettersi",
+        "@requests_to_join": {},
+    
+        "session_requests": "Richieste di sessione",
+        "@session_requests": {},
+    
+        "group_participants": "Partecipanti del gruppo",
+        "@group_participants": {},
+    
+        
+    
+        "group_schedule_session_type": "Gruppo",
+        "@group_schedule_session_type": {},
+    
+        "select_time": "Seleziona il tempo",
+        "@select_time": {},
+        
+        
+        
+        
+        
+        
+    
+        
+        
+    
+    
+    
+        
+        
+        
+        
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        "health": "Salute",
+        "@health": {},
+    
+        "lifestyle": "Stile di vita",
+        "@lifestyle": {},
+    
+        "video_too_long_error": "La video deve essere di 15 secondi o meno",
+        "@video_too_long_error": {},
+    
+        "add_video": "Aggiungere un video",
+        "@add_video": {},
+    
+        "search_activities_messages": "Cercare attività, messaggi",
+        "@search_activities_messages": {},
+    
+        "set_weight_goal": "Definire il but di peso",
+        "@set_weight_goal": {},
+    
+        "current_weight": "Peso attuale",
+        "@current_weight": {},
+    
+        "loss": "Perdita",
+        "@loss": {},
+    
+        "gain": "Guadagno",
+        "@gain": {},
+    
+        "weight_to": "Peso a",
+        "@weight_to": {},
+    
+        "target_weight": "Peso target",
+        "@target_weight": {},
+        
+        "weight_goal_set_success": "But di peso definito con successo!",
+        "@weight_goal_set_success": {},
+    
+        "weight_goal_set_error": "Errore durante la definizione del but di peso. Per favore riprova.",
+        "@weight_goal_set_error": {},
+    
+        "weight_loss_validation_error": "La perte non può essere uguale o superiore al peso attuale",
+        "@weight_loss_validation_error": {},
+    
+        "weight_loss_goal": "But di perdita di peso",
+        "@weight_loss_goal": {},
+    
+        "weight_gain_goal": "But di guadagno di peso",
+        "@weight_gain_goal": {},
+    
+        "no_weight_goal_set": "Nessun but di peso definito",
+        "@no_weight_goal_set": {},
+    
+        "new_goal": "Nuovo but",
+        "@new_goal": {},
+        
+        "log_weight": "Registrare il peso",
+        "@log_weight": {},
+        
+        "start_weight": "Peso di partenza",
+        "@start_weight": {},
+        
+        "active_clients_web": "Clienti attivi",
+        "@active_clients_web": {},
+    
+        "available_slots_web": "Posti disponibili",
+        "@available_slots_web": {},
+    
+        "active_clients_mobile": "Clienti attivi",
+        "@active_clients_mobile": {},
+    
+        "available_slots_mobile": "Posti disponibili",
+        "@available_slots_mobile": {},
+    
+        "meal_plans_mobile": "Piani alimentari",
+        "@meal_plans_mobile": {},
+    
+        "workout_plans_mobile": "Piani di allenamento",
+        "@workout_plans_mobile": {},
+        
+        "trainers_currently_training_with_you": "Entraineurs attualmente in allenamento con te",
+        "@trainers_currently_training_with_you": {},
+    
+        "track_your_fitness_journey_and_achievements": "Segui il tuo percorso di fitness e le tue realizzazioni",
+        "@track_your_fitness_journey_and_achievements": {},
+    
+    
+        "turkish": "Turco",
+        "@turkish": {},
+    
+        "english": "Inglese",
+        "@english": {},
+    
+        "spanish": "Spagnolo",
+        "@spanish": {},
+    
+        "french": "Francese",
+        "@french": {},
+    
+        "german": "Tedesco",
+        "@german": {},
+    
+        "italian": "Italiano",
+        "@italian": {},
+    
+        "portuguese": "Portoghese",
+        "@portuguese": {},
+    
+    
+    
+        "social_media_links": "Link dei media social",
+        "@social_media_links": {},
+    
+        "please_first_select_a_platform_and_then_enter_your_link": "Per favore, prima seleziona una piattaforma e poi inserisci il tuo link",
+        "@please_first_select_a_platform_and_then_enter_your_link": {},
+    
+        "select_platform_first": "Seleziona la piattaforma d'abord",
+        "@select_platform_first": {},
+    
+        "app_users": "Utenti dell'app",
+        "@app_users": {},
+    
+        "manual_clients": "Clienti manuali",
+        "@manual_clients": {},
+    
+        "individual_message_tap_not_allowed": "Messaggio individuale non autorizzato",
+        "@individual_message_tap_not_allowed": {},
+    
+        "users_are_not_allowed_to_send_messages_to_themselves": "Gli utenti non sono autorizzati a inviare messaggi a loro stessi",
+        "@users_are_not_allowed_to_send_messages_to_themselves": {},
+        
+    
+    
+        "no_weight_data_available": "Nessuna data di peso disponibile",
+        "@no_weight_data_available": {},
+    
+        "no_measurement_data_available": "Nessuna data di misurazione disponibile",
+        "@no_measurement_data_available": {},
+    
+        "no_progress_photos_available": "Nessuna foto di progressione disponibile",
+        "@no_progress_photos_available": {},
+    
+        "no_availability_set": "Nessuna disponibilità definita",
+        "@no_availability_set": {},
+    
+        "weight_loss": "Perdita di peso",
+        "@weight_loss": {},
+    
+        "muscle_gain": "Guadagno di muscolo",
+        "@muscle_gain": {},
+    
+        "improve_strength": "Migliorare la forza",
+        "@improve_strength": {},
+    
+        "increase_flexibility": "Aumentare la flessibilità",
+        "@increase_flexibility": {},
+    
+        "better_endurance": "Migliore endurance",
+        "@better_endurance": {},
+    
+    
+        "sports_performance": "Performance sportiva",
+        "@sports_performance": {},
+    
+    
+        "maintain_health": "Conservare la salute",
+        "@maintain_health": {},
+    
+        "improve_posture": "Migliorare la postura",
+        "@improve_posture": {},
+    
+        "better_balance": "Migliore equilibrio",
+        "@better_balance": {},
+    
+    
+    
+        "high_blood_pressure": "Ipertensione",
+        "@high_blood_pressure": {},
+    
+        "heart_disease": "Malattia cardiaca",
+        "@heart_disease": {},
+    
+        "diabetes": "Diabete",
+        "@diabetes": {},
+    
+        "asthma": "Asma",
+        "@asthma": {},
+    
+        "arthritis": "Artrite",
+        "@arthritis": {},
+    
+        "back_problems": "Problemi di schiena",
+        "@back_problems": {},
+    
+        "joint_issues": "Problemi di giunti",
+        "@joint_issues": {},
+    
+        "respiratory_conditions": "Problemi respiratori",
+        "@respiratory_conditions": {},
+    
+        "chronic_pain": "Dolori cronici",
+        "@chronic_pain": {},
+    
+        "anxiety_depression": "Ansia/Depressione",
+        "@anxiety_depression": {},
+    
+        "thyroid_conditions": "Problemi di tiroide",
+        "@thyroid_conditions": {},
+    
+        "digestive_issues": "Problemi digestivi",
+        "@digestive_issues": {},
+    
+        "allergies": "Allergie",
+        "@allergies": {},
+    
+        "sleep_disorders": "Problemi di sonno",
+        "@sleep_disorders": {},
+    
+        "other_medical_conditions": "Altre condizioni mediche",
+        "@other_medical_conditions": {},
+    
+        "acl_surgery": "Chirurgia ACL",
+        "@acl_surgery": {},
+    
+        "knee_replacement": "Protesi di ginocchio",
+        "@knee_replacement": {},
+    
+        "hip_replacement": "Protesi dianca",
+        "@hip_replacement": {},
+    
+        "shoulder_surgery": "Chirurgia del collo",
+        "@shoulder_surgery": {},
+    
+        "back_surgery": "Chirurgia della schiena",
+        "@back_surgery": {},
+    
+        "meniscus_repair": "Rapristino del menisco",
+        "@meniscus_repair": {},
+    
+        "rotator_cuff_injury": "Infortunio del rotatore",
+        "@rotator_cuff_injury": {},
+    
+        "tennis_elbow": "Tennis Elbow",
+        "@tennis_elbow": {},
+    
+        "plantar_fasciitis": "Plantar Fasciitis",
+        "@plantar_fasciitis": {},
+    
+        "herniated_disc": "Herniation del disco",
+        "@herniated_disc": {},
+    
+        "sprained_ankle": "Infortunio del piede",
+        "@sprained_ankle": {},
+    
+        "carpal_tunnel": "Sindrome del tunnel carpale",
+        "@carpal_tunnel": {},
+    
+        "sports_injury": "Infortunio sportivo",
+        "@sports_injury": {},
+    
+        "fracture_recovery": "Ristabilimento della frattura",
+        "@fracture_recovery": {},
+    
+        "other_injury_surgery": "Altro infortunio/chirurgia",
+        "@other_injury_surgery": {},
+    
+    
+    
+        "vegetarian": "Vegetariano",
+        "@vegetarian": {},
+    
+        "vegan": "Vegano",
+        "@vegan": {},
+    
+        "gluten_free": "Senza glutine",
+        "@gluten_free": {},
+    
+        "dairy_free": "Senza latte",
+        "@dairy_free": {},
+    
+        "keto_diet": "Dieta keto",
+        "@keto_diet": {},
+    
+        "paleo_diet": "Dieta paleo",
+        "@paleo_diet": {},
+    
+        "mediterranean_diet": "Dieta mediterranea",
+        "@mediterranean_diet": {},
+    
+        "low_carb": "Dieta a basso carburante",
+        "@low_carb": {},
+    
+        "assessment_form": "Formulario di valutazione",
+        "@assessment_form": {},
+    
+        "assessment_form_subtitle": "Visualizza e modifica i formulari di valutazione dei clienti",
+        "@assessment_form_subtitle": {},
+        "physical_assessment": "Valutazione fisica",
+  "@physical_assessment": {},
+  "current_physical_activity": "Livello attuale di attività fisica",
+  "@current_physical_activity": {},
+  "physical_activity_subtitle": "Includi tipo e durata delle attività",
+  "@physical_activity_subtitle": {},
+  "physical_activity_placeholder": "Il cliente descriverà le sue attività fisiche correnti...",
+  "@physical_activity_placeholder": {},
+  "activity_frequency": "Quante volte pratichi l'esercizio?",
+  "@activity_frequency": {},
+  "rarely": "Raramente o mai",
+  "@rarely": {},
+  "times_per_week": "volte per settimana",
+  "@times_per_week": {},
+  "health_assessment": "Valutazione della salute",
+  "@health_assessment": {},
+  "medical_conditions_placeholder": "Il cliente elencherà qualsiasi condizione medica...",
+  "@medical_conditions_placeholder": {},
+  "medications": "Medicamenti attuali",
+  "@medications": {},
+  "medications_placeholder": "Il cliente elencherà i suoi medicamenti attuali...",
+  "@medications_placeholder": {},
+  "lifestyle_assessment": "Valutazione dello stile di vita",
+  "@lifestyle_assessment": {},
+  "daily_routine": "Routine quotidiana",
+  "@daily_routine": {},
+  "daily_routine_placeholder": "Il cliente descriverà la sua routine quotidiana tipica...",
+  "@daily_routine_placeholder": {},
+  "stress_levels": "Livelli di stress",
+  "@stress_levels": {},
+  "stress_levels_placeholder": "Il cliente descriverà i suoi livelli di stress e la sua gestione...",
+  "@stress_levels_placeholder": {},
+  "goals_assessment": "Valutazione degli obiettivi",
+  "@goals_assessment": {},
+  "specific_goals": "Obiettivi di fitness specifici",
+"@specific_goals": {},
+  "specific_goals_subtitle": "Obiettivi a breve e lungo termine",
+  "@specific_goals_subtitle": {},
+  "specific_goals_placeholder": "Il cliente descriverà i suoi obiettivi di fitness...",
+  "@specific_goals_placeholder": {},
+  "preferred_training_style": "Stile di allenamento preferito",
+  "@preferred_training_style": {},
+  "high_intensity": "Allenamento ad alta intensità",
+  "@high_intensity": {},
+  "moderate_intensity": "Allenamento ad intensità moderata",
+  "@moderate_intensity": {},
+  "low_intensity": "Allenamento ad intensità bassa",
+  "@low_intensity": {},
+  "mixed_intensity": "Allenamento misto",
+  "@mixed_intensity": {},
+  "request_assessment": "Richiedi valutazione",
+  "@request_assessment": {},
+
+  "week": "Settimana",
+  "@week": {},
+
+  "exercise_comfort_question": "Puoi eseguire questi esercizi con comfort?",
+  "@exercise_comfort_question": {},
+  "client_will_fill": "Il cliente riempirà questo campo",
+  "@client_will_fill": {},
+
+  "session_updated_successfully": "Sessione aggiornata con successo",
+  "@session_updated_successfully": {},
+
+  "failed_to_update_session": "Errore durante l'aggiornamento della sessione",
+  "@failed_to_update_session": {},
+
+
+  "assessment_request_sent": "Richiesta di valutazione inviata con successo",
+  "@assessment_request_sent": {},
+  "error_sending_assessment": "Errore durante l'invio della richiesta di valutazione",
+  "@error_sending_assessment": {},
+
+
+  "you_have_been_invited_by": "Sei stato invitato da {professional}. Vuoi accettare?",
+  "@you_have_been_invited_by": {
+    "placeholders": {
+      "professional": {
+        "type": "String",
+        "example": "John Doe"
+      }
+    }
+  },
+  "not_now": "Non ora",
+  "@not_now": {},
+  "training_invitation": "Invito di allenamento",
+  "@training_invitation": {},
+
+  "sign_out_confirmation_message": "Sei sicuro di voler uscire?",
+  "@sign_out_confirmation_message": {},
+
+
+  "delete_account_confirmation_title": "Elimina account",
+  "@delete_account_confirmation_title": {},
+  "delete_account_confirmation_message": "Sei sicuro di voler eliminare il tuo account? Questa azione non può essere annullata e tutti i tuoi dati saranno eliminati definitivamente.",
+  "@delete_account_confirmation_message": {},
+  "delete_account_failed": "Errore durante l'eliminazione dell'account",
+  "@delete_account_failed": {},
+
+
+  "switching_to_trainer": "Passaggio all'allenatore...",
+  "@switching_to_trainer": {},
+
+
+
+
+
+
+
+
+
+
+
+
+  "transform_your_fitness_business": "Trasforma il tuo business di fitness",
+  "@transform_your_fitness_business": {},
+
+  "streamline_your_coaching_practice": "Semplifica la tua pratica di coaching con la nostra piattaforma completa. Gestisci i clienti, pianifica le sessioni e traccia il progresso - tutto in un unico posto.",
+  "@streamline_your_coaching_practice": {},
+
+  "powerful_features_to_help_you_grow_your_business_and_deliver_better_results": "Funzionalità potenti per aiutarti a crescere il tuo business e a fornire migliori risultati",
+  "@powerful_features_to_help_you_grow_your_business_and_deliver_better_results": {},
+  
+  "client_management": "Gestione dei clienti",
+  "@client_management": {},
+
+  "easily_manage_your_clients_track_their_progress_and_maintain_detailed_profiles": "Gestisci facilmente i tuoi clienti, traccia il loro progresso e mantieni profili dettagliati.",
+  "@easily_manage_your_clients_track_their_progress_and_maintain_detailed_profiles": {},
+  
+  "smart_scheduling": "Pianificazione intelligente",
+  "@smart_scheduling": {},
+
+  "schedule_sessions_manage_availability_and_send_automatic_reminders": "Pianifica le sessioni, gestisci la disponibilità e invia promemoria automatici.",
+  "@schedule_sessions_manage_availability_and_send_automatic_reminders": {},
+  
+  "workout_planning": "Pianificazione degli allenamenti",
+  "@workout_planning": {},
+
+  "create_and_assign_personalized_workout_plans_with_our_intuitive_builder": "Crea e assegna piani di allenamento personalizzati con il nostro costruttore intuitivo.",
+  "@create_and_assign_personalized_workout_plans_with_our_intuitive_builder": {},
+  
+  "nutrition_tracking": "Tracciamento della nutrizione",
+  "@nutrition_tracking": {},
+
+  "design_meal_plans_and_track_nutritional_progress_for_better_results": "Progetta piani alimentari e traccia il progresso nutrizionale per migliori risultati.",
+  "@design_meal_plans_and_track_nutritional_progress_for_better_results": {},
+  
+  "client_communication": "Comunicazione con i clienti",
+  "@client_communication": {},
+
+  "built_in_messaging_system_to_stay_connected_with_your_clients": "Sistema di messaggistica integrato per rimanere connesso con i tuoi clienti.",
+  "@built_in_messaging_system_to_stay_connected_with_your_clients": {},
+  
+  "progress_tracking": "Tracciamento del progresso",
+  "@progress_tracking": {},
+
+  "track_and_visualize_client_progress_with_detailed_analytics_and_reports": "Traccia e visualizza il progresso del cliente con analisi dettagliate e report.",
+  "@track_and_visualize_client_progress_with_detailed_analytics_and_reports": {},
+  
+  "who_is_coachtrack_for": "Chi è {coachtrack}?",
+  "@who_is_coachtrack_for": {
+    "placeholders": {
+      "coachtrack": {
+        "type": "String",
+        "example": "CoachTrack"
+      }
+    }
+  },
+  
+  "personal_trainers": "Allenatori personali",
+  "@personal_trainers": {},
+
+  "independent_trainers_looking_to_grow_their_business": "Allenatori indipendenti che vogliono crescere il loro business",
+  "@independent_trainers_looking_to_grow_their_business": {},
+
+  "gym_based_trainers_managing_multiple_clients": "Allenatori di gym che gestiscono più clienti",
+  "@gym_based_trainers_managing_multiple_clients": {},
+  
+  "online_coaches_expanding_their_reach": "Allenatori online che espandono il loro raggio d'azione",
+  "@online_coaches_expanding_their_reach": {},
+
+  "fitness_coaches": "Allenatori di fitness",
+  "@fitness_coaches": {},
+  
+  "crossfit_coaches_tracking_athlete_progress": "Allenatori di Crossfit che seguono il progresso degli atleti",
+  "@crossfit_coaches_tracking_athlete_progress": {},
+
+  "group_fitness_instructors_managing_classes": "Istruttori di fitness gruppo che gestiscono classi",
+  "@group_fitness_instructors_managing_classes": {},
+  
+  "sports_coaches_working_with_teams": "Allenatori di sport che lavorano con squadre",
+  "@sports_coaches_working_with_teams": {},
+
+  "nutritionists_tracking_client_meal_plans": "Nutritionisti che seguono i piani alimentari dei clienti",
+  "@nutritionists_tracking_client_meal_plans": {},
+  
+  "nutrition_coaches": "Nutritionisti",
+  "@nutrition_coaches": {},
+
+  "diet_coaches_monitoring_progress": "Dietisti che monitorano il progresso",
+  "@diet_coaches_monitoring_progress": {},
+  
+  "wellness_coaches_offering_holistic_programs": "Allenatori di benessere che offrono programmi holistici",
+  "@wellness_coaches_offering_holistic_programs": {},
+
+  "what_our_users_say": "Cosa dicono i nostri utenti",
+  "@what_our_users_say": {},
+
+  "coach_track_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": "CoachTrack ha trasformato come gestisco il mio business di fitness. Le funzionalità di tracciamento dei clienti e di pianificazione degli allenamenti sono game-changers.",
+  "@coach_track_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": {},
+  
+  "the_scheduling_system_alone_has_saved_me_hours_each_week_my_clients_love_the_easy_communication_and_progress_tracking": "Il sistema di pianificazione mi ha salvato ore ogni settimana. I miei clienti amano la comunicazione facile e il tracciamento del progresso.",
+  "@the_scheduling_system_alone_has_saved_me_hours_each_week_my_clients_love_the_easy_communication_and_progress_tracking": {},
+  
+  "finally_a_platform_that_understands_what_fitness_professionals_need_the_meal_planning_features_are_exactly_what_i_was_looking_for": "Finalmente, una piattaforma che comprende ciò che i professionisti del fitness hanno bisogno. Le funzionalità di pianificazione alimentare sono esattamente quello che stavo cercando.",
+  "@finally_a_platform_that_understands_what_fitness_professionals_need_the_meal_planning_features_are_exactly_what_i_was_looking_for": {},
+
+  "personal_trainer": "Allenatore personale",
+  "@personal_trainer": {},
+
+  "crossfit_coach": "Allenatore di Crossfit",
+  "@crossfit_coach": {},
+  
+  "nutrition_coach": "Nutritionista",
+  "@nutrition_coach": {},
+  
+  "how_do_i_get_started_with_coachtrack": "Come posso iniziare con CoachTrack?",
+  "@how_do_i_get_started_with_coachtrack": {},
+
+  "simply_sign_up_for_a_free_account_complete_your_profile_and_start_adding_clients_our_intuitive_onboarding_process_will_guide_you_through_the_essential_features": "Semplicemente registrati per un account gratuito, completa il tuo profilo e inizia a aggiungere clienti. Il nostro processo di onboarding intuitivo ti guiderà attraverso le funzionalità essenziali.",
+  "@simply_sign_up_for_a_free_account_complete_your_profile_and_start_adding_clients_our_intuitive_onboarding_process_will_guide_you_through_the_essential_features": {},
+  
+  "is_there_a_limit_to_how_many_clients_i_can_manage": "C'è un limite al numero di clienti che posso gestire?",
+  "@is_there_a_limit_to_how_many_clients_i_can_manage": {},
+
+  "during_our_initial_launch_period_you_can_manage_unlimited_clients_at_no_cost_we_ll_provide_advance_notice_before_introducing_any_limitations_or_pricing_tiers": "Durante il nostro periodo di lancio iniziale, puoi gestire clienti illimitati senza costi. Ti informeremo prima di introdurre qualsiasi limitazione o tariffa.",
+  "@during_our_initial_launch_period_you_can_manage_unlimited_clients_at_no_cost_we_ll_provide_advance_notice_before_introducing_any_limitations_or_pricing_tiers": {},
+  
+  "can_my_clients_access_their_workout_plans_and_progress": "I miei clienti possono accedere ai loro piani di allenamento e al loro progresso?",
+  "@can_my_clients_access_their_workout_plans_and_progress": {},
+
+  "yes_clients_can_download_our_mobile_app_to_view_their_workout_plans_track_progress_and_communicate_with_you_directly": "Sì! I clienti possono scaricare la nostra app mobile per visualizzare i loro piani di allenamento, tracciare il progresso e comunicare con te direttamente.",
+  "@yes_clients_can_download_our_mobile_app_to_view_their_workout_plans_track_progress_and_communicate_with_you_directly": {},
+  
+  "what_platforms_does_coachtrack_support": "Che piattaforme supporta CoachTrack?",
+  "@what_platforms_does_coachtrack_support": {},
+
+  "coachtrack_is_available_on_web_ios_and_android_platforms_allowing_you_to_manage_your_business_from_anywhere": "CoachTrack è disponibile su piattaforme web, iOS e Android, permettendoti di gestire il tuo business ovunque.",
+  "@coachtrack_is_available_on_web_ios_and_android_platforms_allowing_you_to_manage_your_business_from_anywhere": {},
+  
+  "how_secure_is_my_data": "Quanto è sicuro il mio dato?",
+  "@how_secure_is_my_data": {},
+
+  "we_take_security_seriously_all_data_is_encrypted_and_stored_securely_using_industry_standard_protocols_and_compliant_with_privacy_regulations": "Ci prendiamo la sicurezza molto seriamente. Tutti i dati sono cifrati e memorizzati in modo sicuro utilizzando protocolli di settore e conformi alle normative sulla privacy.",
+  "@we_take_security_seriously_all_data_is_encrypted_and_stored_securely_using_industry_standard_protocols_and_compliant_with_privacy_regulations": {},
+  
+  "frequently_asked_questions": "Domande frequenti",
+  "@frequently_asked_questions": {},
+
+  "empowering_fitness_professionals_to_deliver_exceptional_coaching_experiences": "Inspirando i professionisti del fitness per offrire esperienze di coaching eccezionali.",
+  "@empowering_fitness_professionals_to_deliver_exceptional_coaching_experiences": {},
+
+  "all_rights_reserved": "Tutti i diritti riservati.",
+  "@all_rights_reserved": {},
+
+  "coachtrack_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": "CoachTrack ha trasformato come gestisco il mio business di fitness. Le funzionalità di tracciamento dei clienti e di pianificazione degli allenamenti sono game-changers.",
+  "@coachtrack_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": {},
+
+  "welcome_to_coachtrack": "Benvenuto su CoachTrack",
+  "@welcome_to_coachtrack": {},
+
+  "your_complete_fitness_management_solution": "La tua soluzione completa di gestione del fitness",
+  "@your_complete_fitness_management_solution": {},
+
+
+
+
+
+  "create_account": "Crea account",
+  "@create_account": {},
+
+  "please_fill_in_the_form_to_continue": "Per favore, riempire il form per continuare",
+  "@please_fill_in_the_form_to_continue": {},
+
+  "please_sign_in_to_continue": "Per favore, accedi per continuare",
+  "@please_sign_in_to_continue": {},
+  
+  "enter_your_email_address": "Inserisci la tua email",
+  "@enter_your_email_address": {},
+
+  "enter_your_password": "Inserisci la tua password",
+  "@enter_your_password": {},
+  
+  "please_enter_your_email": "Per favore, inserisci la tua email",
+  "@please_enter_your_email": {},
+
+  "please_enter_a_valid_email": "Per favore, inserisci un email valido",
+  "@please_enter_a_valid_email": {},
+  
+  "please_enter_your_password": "Per favore, inserisci la tua password",
+  "@please_enter_your_password": {},
+  
+  "password_must_be_at_least_6_characters": "La password deve essere almeno 6 caratteri",
+  "@password_must_be_at_least_6_characters": {},
+  
+  "sign_in": "Accedi",
+  "@sign_in": {},
+
+  "dont_have_an_account_sign_up": "Non hai un account? Registrati",
+  "@dont_have_an_account_sign_up": {},
+
+  "already_have_an_account_sign_in": "Hai già un account? Accedi",
+  "@already_have_an_account_sign_in": {},
+
+  "terms_and_conditions": "Termini e condizioni",
+  "@terms_and_conditions": {},
+
+
+  "assessment_submitted": "Valutazione inviata con successo",
+  "@assessment_submitted": {},
+
+  "error_submitting_assessment": "Errore durante l'invio della valutazione",
+  "@error_submitting_assessment": {},
+
+
+  "invalid_date_time": "Data e ora non valide",
+  "@invalid_date_time": {},
+
+  "cannot_schedule_session_in_past": "Non puoi pianificare una sessione nel passato",
+  "@cannot_schedule_session_in_past": {},
+
+
+  "forgot_password": "Hai dimenticato la password?",
+  "@forgot_password": {},
+
+  "enter_your_email_to_reset_password": "Inserisci la tua email e ti invitiamo a reimpostare la tua password",
+  "@enter_your_email_to_reset_password": {},
+
+  "password_reset_email_sent": "La password è stata reimpostata. Per favore controlla la tua email.",
+  "@password_reset_email_sent": {},
+
+
+  "reset_password": "Resetta password",
+  "@reset_password": {},
+
+  "has_submitted_assessment": "{clientName} ha inviato una valutazione",
+  "@has_submitted_assessment": {
+    "placeholders": {
+      "clientName": {
+        "type": "String",
+        "example": "John Doe"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+  "workout_details": "Dettagli del workout",
+  "@workout_details": {},
+
+  "completed_workout": "Workout completato",
+  "@completed_workout": {},
+
+  "unnamed_phase": "Fase senza nome",
+  "@unnamed_phase": {},
+  
+  "none": "Nessuno",
+  "@none": {},
+
+  "sets_completed": "Serie completate",
+  "@sets_completed": {},
+
+  "history": "Storia",
+  "@history": {},
+
+  "view_detailed_workout_metrics_and_analytics": "Visualizza metriche e analisi dettagliate del workout",
+  "@view_detailed_workout_metrics_and_analytics": {},
+  
+  "measurements_access_not_granted": "Accesso ai dati delle misurazioni non concesso",
+  "@measurements_access_not_granted": {},
+
+  "the_client_has_not_granted_access_to_view_their_measurements_data": "Il cliente non ha concesso l'accesso per visualizzare i suoi dati delle misurazioni.",
+  "@the_client_has_not_granted_access_to_view_their_measurements_data": {},
+  
+  "progress_photos_access_not_granted": "Accesso alle foto del progresso non concesso",
+  "@progress_photos_access_not_granted": {},
+
+  "the_client_has_not_granted_access_to_view_their_progress_photos": "Il cliente non ha concesso l'accesso per visualizzare le sue foto del progresso.",
+  "@the_client_has_not_granted_access_to_view_their_progress_photos": {},
+  
+  "progress_summary": "Riepilogo del progresso",
+  "@progress_summary": {},
+  
+  "muscle_mass_title": "Massa muscolare",
+  "@muscle_mass_title": {},
+
+  "bmi": "BMI",
+  "@bmi": {},
+
+  "weight_progress": "Progresso del peso",
+  "@weight_progress": {},
+
+  "recent_achievements": "Recenti realizzazioni",
+  "@recent_achievements": {},
+
+  "total_workouts": "Totale\nWorkouts",
+  "@total_workouts": {},
+
+  "this_month": "Questo\nMese",
+  "@this_month": {},
+
+  "average_duration": "Media\nDurata",
+  "@average_duration": {},
+
+  "recent_workout_durations": "Durata dei workout recenti",
+  "@recent_workout_durations": {},
+
+  "exercise_analysis": "Analisi degli esercizi",
+  "@exercise_analysis": {},
+
+  "workout_summary": "Riepilogo del workout",
+  "@workout_summary": {},
+
+  "track_workout_history": "Traccia la storia del workout",
+  "@track_workout_history": {},
+
+  "workout_history": "Storia del workout",
+  "@workout_history": {},
+
+  "no_workout_history_available": "Nessuna storia del workout disponibile",
+  "@no_workout_history_available": {},
+
+  "workout_history_summary": "Riepilogo della storia del workout",
+  "@workout_history_summary": {},
+  
+  
+  
+  
+  
+
+
+
+  "select_your_role": "Seleziona il tuo ruolo",
+  "@select_your_role": {},
+
+  "i_am_a": "Sono...",
+  "@i_am_a": {},
+  
+  "manage_clients_create_workout_plans_and_track_progress": "Gestisci clienti, crea piani di allenamento e traccia il progresso",
+  "@manage_clients_create_workout_plans_and_track_progress": {},
+
+  "track_workouts_meals_and_your_fitness_journey": "Raccolgo i tuoi allenamenti, i tuoi pasti e il tuo viaggio di fitness",
+  "@track_workouts_meals_and_your_fitness_journey": {},
+
+
+
+
+
+
+
+
+
+
+  "request": "Richiesta",
+  "@request": {},
+  "basic_information": "Informazioni di base",
+  "@basic_information": {},
+  "health_medical_history": "Salute e storia medica",
+  "@health_medical_history": {},
+  "lifestyle_activity": "Stile di vita e livello di attività",
+  "@lifestyle_activity": {},
+  "fitness_strength": "Fitness e forza",
+  "@fitness_strength": {},
+  "training_goals": "Obiettivi di allenamento",
+  "@training_goals": {},
+  "medical_conditions_question": "Hai qualche condizione medica?",
+  "@medical_conditions_question": {},
+  "injuries_question": "Hai qualche infortunio passato o chirurgia?",
+  "@injuries_question": {},
+  "medications_question": "Stai prendendo qualche medicamento?",
+  "@medications_question": {},
+  "pain_during_activity": "Sperimenti qualche dolore o disagio durante l'attività fisica?",
+  "@pain_during_activity": {},
+  "allergies_question": "Hai qualche allergia o restrizione alimentare?",
+  "@allergies_question": {},
+  "if_yes_specify": "Se sì, per favore specifica:",
+  "@if_yes_specify": {},
+  "exercise_frequency": "Quante volte pratichi l'esercizio?",
+  "@exercise_frequency": {},
+  "sleep_hours": "Quante ore di sonno hai per notte?",
+  "@sleep_hours": {},
+  "diet_description": "Come descriveresti la tua dieta?",
+  "@diet_description": {},
+  "processed_foods": "Alta in alimenti processati",
+  "@processed_foods": {},
+  "low_protein": "Bassa in proteine",
+  "@low_protein": {},
+  "sitting_hours": "Quante ore al giorno passi seduto?",
+  "@sitting_hours": {},
+  "daily_steps": "Quanti passi fai al giorno?",
+  "@daily_steps": {},
+  "water_intake": "Quanta acqua bevi al giorno?",
+  "@water_intake": {},
+  "resting_heart_rate": "Frequenza cardiaca a riposo (se nota)",
+  "@resting_heart_rate": {},
+  "fitness_level": "Come valuteresti il tuo livello di fitness attuale?",
+  "@fitness_level": {},
+  "beginner": "Principiante",
+  "@beginner": {},
+  "intermediate": "Intermedio",
+  "@intermediate": {},
+  "can_do_squats": "Puoi fare delle squat confortevolmente?",
+  "@can_do_squats": {},
+  "can_do_pushups": "Puoi fare dei push-ups confortevolmente?",
+  "@can_do_pushups": {},
+  "can_do_plank": "Puoi fare un piatto confortevolmente?",
+  "@can_do_plank": {},
+  "can_do_pullups": "Puoi fare dei pull-ups confortevolmente?",
+  "@can_do_pullups": {},
+  "can_do_running": "Puoi fare correre confortevolmente?",
+  "@can_do_running": {},
+  "difficult_exercises": "Qualche movimento o esercizio che trovi difficile?",
+  "@difficult_exercises": {},
+  "motivation": "Cosa ti motiva a rimanere costante con l'allenamento?",
+  "@motivation": {},
+  "strength": "Forza",
+  "@strength": {},
+  "aesthetics": "Estetica",
+  "@aesthetics": {},
+  "short_term_goals": "Quali sono i tuoi obiettivi a breve termine (3 mesi)?",
+  "@short_term_goals": {},
+  "long_term_goals": "Quali sono i tuoi obiettivi a lungo termine (6-12 mesi)?",
+  "@long_term_goals": {},
+  "additional_comments": "Altri commenti o preoccupazioni?",
+  "@additional_comments": {},
+  "preferred_training_location": "Luogo di allenamento preferito (gym, casa, parco, etc.)?",
+  "@preferred_training_location": {}
+    
+}

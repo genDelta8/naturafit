@@ -1,0 +1,5586 @@
+{
+    "@@locale": "tr",
+    
+    "my_team": "Takımım",
+    "@my_team": {},
+    
+    "search_team": "Takımını ara...",
+    "@search_team": {},
+    
+    "you": "Sen",
+    "@you": {},
+    
+    "trainer_details": "Eğitmen Detayları",
+    "@trainer_details": {},
+    
+    "trainer": "Eğitmen",
+    "@trainer": {},
+    
+    "contact_information": "İletişim Bilgileri",
+    "@contact_information": {},
+    
+    "professional_information": "Profesyonel Bilgiler",
+    "@professional_information": {},
+    
+    "email": "E-posta",
+    "@email": {},
+    
+    "phone": "Telefon",
+    "@phone": {},
+    
+    "location": "Konum",
+    "@location": {},
+    
+    "specialization": "Uzmanlık",
+    "@specialization": {},
+    
+    "experience": "Deneyim",
+    "@experience": {},
+    
+    "certifications": "Sertifikalar",
+    "@certifications": {},
+    
+    "front_view": "Ön Görünüm",
+    "@front_view": {},
+    
+    "back_view": "Arka Görünüm",
+    "@back_view": {},
+    
+    "left_side": "Sol Yan",
+    "@left_side": {},
+    
+    "right_side": "Sağ Yan",
+    "@right_side": {},
+    
+    "available_slots": "Müsait Slotlar",
+    "@available_slots": {},
+    
+    "next_session_in": "Bir sonraki müsait seans",
+    "@next_session_in": {},
+    
+    "learn_more": "Daha Fazla Bilgi",
+    "@learn_more": {},
+    
+    "no_upcoming_sessions": "Yaklaşan seans yok",
+    "@no_upcoming_sessions": {},
+    
+    "available": "Müsait",
+    "@available": {},
+    
+    "group_session": "Grup Seansı",
+    "@group_session": {},
+    
+    "training_session": "Antrenman Seansı",
+    "@training_session": {},
+    
+    "group": "GRUP",
+    "@group": {},
+    
+    "withdrawn": "ÇEKİLDİ",
+    "@withdrawn": {},
+    
+    "declined": "REDDEDİLDİ",
+    "@declined": {},
+    
+    "pending": "BEKLEMEDE",
+    "@pending": {},
+    
+    "at_time": "saat {time}",
+    "@at_time": {
+        "placeholders": {
+            "time": {
+                "type": "String",
+                "example": "2:00 PM"
+            }
+        }
+    },
+    
+    "available_slot": "Müsait Slot",
+    "@available_slot": {},
+    
+    "requested": "TALEP EDİLDİ",
+    "@requested": {},
+    
+    "no_slots_available": "Bu tarih için müsait slot yok",
+    "@no_slots_available": {},
+    
+    "progress_photos": "İlerleme Fotoğrafları",
+    "@progress_photos": {},
+    
+    "to_compare": "karşılaştırmak için",
+    "@to_compare": {},
+    
+    "compare": "Karşılaştır",
+    "@compare": {},
+    
+    "selected_count": "({count}/2)",
+    "@selected_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    
+    "vs": "vs",
+    "@vs": {},
+    
+    "front": "Ön",
+    "@front": {},
+    
+    "left": "Sol Yan",
+    "@left": {},
+    
+    "right": "Sağ Yan",
+    "@right": {},
+    
+    "workout_plan_details": "Antrenman Planı Detayları",
+    "@workout_plan_details": {},
+    
+    "day": "Gün",
+    "@day": {},
+    
+    "no_notes_available": "Not bulunmuyor",
+    "@no_notes_available": {},
+    
+    "delete_plan": "Planı Sil",
+    "@delete_plan": {},
+    
+    "delete_plan_title": "Antrenman Planını Sil",
+    "@delete_plan_title": {},
+    
+    "delete_plan_message": "Bu antrenman planını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "@delete_plan_message": {},
+    
+    "delete": "Sil",
+    "@delete": {},
+    
+    "plan_deleted": "Antrenman planı başarıyla silindi",
+    "@plan_deleted": {},
+    
+    "plan_completed": "Antrenman planı başarıyla tamamlandı olarak işaretlendi",
+    "@plan_completed": {},
+    
+    "goal": "Hedef",
+    "@goal": {},
+    
+    "error_deleting_plan": "Antrenman planı silinirken hata oluştu: {error}",
+    "@error_deleting_plan": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Network error"
+            }
+        }
+    },
+    
+    "error_completing_plan": "Antrenman planı tamamlandı olarak işaretlenirken hata oluştu: {error}",
+    "@error_completing_plan": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Network error"
+            }
+        }
+    },
+
+    "availabale_slots_week_stats_available": "Müsait",
+    "@availabale_slots_week_stats_available": {},
+    "availabale_slots_week_stats_group": "Grup",
+    "@availabale_slots_week_stats_group": {},
+    "availabale_slots_week_stats_recurring": "Tekrarlanan",
+    "@availabale_slots_week_stats_recurring": {},
+    "availabale_slots_week_stats_requested": "Talep Edildi",
+    "@availabale_slots_week_stats_requested": {}, 
+    
+    "i_am_male": "Erkek",
+    "@i_am_male": {},
+    "i_am_female": "Kadın",
+    "@i_am_female": {},
+    
+    "weekly_schedule": "Haftalık Program",
+    "@weekly_schedule": {},
+    
+    "no_sessions": "Seans yok",
+    "@no_sessions": {},
+    
+    "virtual": "Online",
+    "@virtual": {},
+    
+    "in_person": "Yüz yüze",
+    "@in_person": {},
+    
+    "initial_session": "İlk Seans",
+    "@initial_session": {},
+    
+    "follow_up_session": "Takip Seansı",
+    "@follow_up_session": {},
+    
+    "recurring_session": "Tekrarlanan Seans",
+    "@recurring_session": {},
+    
+    "booked": "Rezerve",
+    "@booked": {},
+    
+    "cancelled": "İptal Edildi",
+    "@cancelled": {},
+    
+    "past": "Geçmiş",
+    "@past": {},
+    
+    "monday": "Pazartesi",
+    "@monday": {},
+    
+    "tuesday": "Salı",
+    "@tuesday": {},
+    
+    "wednesday": "Çarşamba",
+    "@wednesday": {},
+    
+    "thursday": "Perşembe",
+    "@thursday": {},
+    
+    "friday": "Cuma",
+    "@friday": {},
+    
+    "saturday": "Cumartesi",
+    "@saturday": {},
+    
+    "sunday": "Pazar",
+    "@sunday": {},
+    
+    
+    
+    "meal": "Öğün",
+    "@meal": {},
+    
+    "workout": "Egzersiz",
+    "@workout": {},
+    
+    "book_session": "Seans\nRezerve Et",
+    "@book_session": {},
+    
+    "log_progress": "İlerleme\nKaydı",
+    "@log_progress": {},
+    
+    "error_loading_details": "Antrenman planı detayları yüklenirken hata oluştu",
+    "@error_loading_details": {},
+    
+    "client": "Danışan",
+    "@client": {},
+    
+    "account": "Hesap",
+    "@account": {},
+    
+    "profile": "Profil",
+    "@profile": {},
+    
+    "available_hours": "Müsait Saatler",
+    "@available_hours": {},
+    
+    "available_hours_subtitle": "Varsayılan süre, ara süresi",
+    "@available_hours_subtitle": {},
+    
+    "payment_settings": "Ödeme Ayarları",
+    "@payment_settings": {},
+    
+    "security": "Güvenlik",
+    "@security": {},
+    
+    "sensitive_data": "Hassas Veriler",
+    "@sensitive_data": {},
+    
+    "password": "Şifre",
+    "@password": {},
+    
+    "notifications": "Bildirimler",
+    "@notifications": {},
+    
+    "push_notifications": "Push Bildirimleri",
+    "@push_notifications": {},
+    
+    "email_notifications": "E-posta Bildirimleri",
+    "@email_notifications": {},
+    
+    "app_settings": "Uygulama Ayarları",
+    "@app_settings": {},
+    
+    "language": "Dil",
+    "@language": {},
+    
+    "unit_preferences": "Birim Tercihleri",
+    "@unit_preferences": {},
+    
+    "dark_mode": "Karanlık Mod",
+    "@dark_mode": {},
+    
+    "support": "Destek",
+    "@support": {},
+    
+    "help_center": "Yardım Merkezi",
+    "@help_center": {},
+    
+    "privacy_policy": "Gizlilik Politikası",
+    "@privacy_policy": {},
+    
+    "terms_of_service": "Kullanım Koşulları",
+    "@terms_of_service": {},
+    
+    "about_us": "Hakkımızda",
+    "@about_us": {},
+    
+    "feedback": "Geribildirim",
+    "@feedback": {},
+    
+    "rate_us": "Bizi Değerlendir",
+    "@rate_us": {},
+    
+    "faqs": "SSS",
+    "@faqs": {},
+    
+    "contact_us": "Bize Ulaşın",
+    "@contact_us": {},
+    
+    "sign_out": "Çıkış Yap",
+    "@sign_out": {},
+    
+    "danger_zone": "Tehlikeli Bölge",
+    "@danger_zone": {},
+    
+    "delete_account": "Hesabı Sil",
+    "@delete_account": {},
+    
+    "session_details": "Seans Detayları",
+    "@session_details": {},
+    
+    "cancel_session": "Seansı İptal Et",
+    "@cancel_session": {},
+    
+    "cancel_session_message": "Bu seansı iptal etmek istediğinizden emin misiniz?",
+    "@cancel_session_message": {},
+    
+    "confirm": "Onayla",
+    "@confirm": {},
+    
+    "participate": "KATIL",
+    "@participate": {},
+    
+    "book_now": "HEMEN REZERVE ET",
+    "@book_now": {},
+    
+    "delete_session": "Seansı Sil",
+    "@delete_session": {},
+    
+    "delete_session_confirm": "Bu seansı silmek istediğinizden emin misiniz?",
+    "@delete_session_confirm": {},
+    
+    "yes": "Evet",
+    "@yes": {},
+    
+    "no": "Hayır",
+    "@no": {},
+    
+    "past_session_note": "Bu seans geçmişte. Hala seansa not ekleyebilirsiniz.",
+    "@past_session_note": {},
+    
+    "session_request_success": "Seans talebi başarıyla gönderildi",
+    "@session_request_success": {},
+    
+    "session_request_failed": "Seans rezervasyonu başarısız oldu. Lütfen tekrar deneyin.",
+    "@session_request_failed": {},
+    
+    "request_withdrawn_success": "Talep başarıyla geri çekildi",
+    "@request_withdrawn_success": {},
+    
+    "error_loading_session": "Hata: {error}",
+    "@error_loading_session": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "book_a_session": "Seans Rezerve Et",
+    "@book_a_session": {},
+    
+    "search_trainers": "Eğitmen ara...",
+    "@search_trainers": {},
+    
+    "view_slots": "Slotları Görüntüle",
+    "@view_slots": {},
+    
+    "achievements": "Başarılar",
+    "@achievements": {},
+    
+    "progress": "İlerleme",
+    "@progress": {},
+    
+    "strength_milestone": "Güç Dönüm Noktası",
+    "@strength_milestone": {},
+    
+    "consistency": "Devamlılık",
+    "@consistency": {},
+    
+    "workouts_completed": "{count} antrenman tamamlandı",
+    "@workouts_completed": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "your_next_available_session_in": "Bir sonraki müsait seansınız",
+    "@your_next_available_session_in": {},
+    
+    "meal_plan_details": "Beslenme Planı Detayları",
+    "@meal_plan_details": {},
+    
+    "delete_meal_plan": "Beslenme Planını Sil",
+    "@delete_meal_plan": {},
+    
+    "delete_meal_plan_message": "Bu beslenme planını silmek istediğinizden emin misiniz?",
+    "@delete_meal_plan_message": {},
+    
+    "meal_plan_deleted": "Beslenme planı başarıyla silindi",
+    "@meal_plan_deleted": {},
+    
+    "error_deleting_meal_plan": "Beslenme planı silinirken hata oluştu: {error}",
+    "@error_deleting_meal_plan": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "welcome_back": "Tekrar Hoş Geldin",
+    "@welcome_back": {},
+    
+    "upcoming_sessions": "Yaklaşan Seanslar",
+    "@upcoming_sessions": {},
+    
+    "no_upcoming_sessions_message": "Yaklaşan seans bulunmuyor",
+    "@no_upcoming_sessions_message": {},
+    
+    "book_your_first": "İlk seansını rezerve et",
+    "@book_your_first": {},
+    
+    "today": "Bugün",
+    "@today": {},
+    
+    "tomorrow": "Yarın",
+    "@tomorrow": {},
+    
+    "in_days": "{days} gün içinde",
+    "@in_days": {
+        "placeholders": {
+            "days": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    
+    "log_progress_title": "İlerleme Kaydı",
+    "@log_progress_title": {},
+    
+    "basic_measurements": "Temel Ölçümler",
+    "@basic_measurements": {},
+    
+    "body_measurements": "Vücut Ölçüleri",
+    "@body_measurements": {},
+    
+    "body_fat": "Vücut Yağı",
+    "@body_fat": {},
+    
+    "no_notifications": "Bildirim yok",
+    "@no_notifications": {},
+    
+    "mark_all_read": "Tümünü okundu işaretle",
+    "@mark_all_read": {},
+    
+    "just_now": "Az önce",
+    "@just_now": {},
+    
+    "minutes_ago": "{minutes}d önce",
+    "@minutes_ago": {
+        "placeholders": {
+            "minutes": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "hours_ago": "{hours}s önce",
+    "@hours_ago": {
+        "placeholders": {
+            "hours": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "days_ago": "{days}g önce",
+    "@days_ago": {
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "onboarding": "Başlangıç",
+    "@onboarding": {},
+    
+    "gender": "Cinsiyet",
+    "@gender": {},
+    
+    "male": "Erkek",
+    "@male": {},
+    
+    "female": "Kadın",
+    "@female": {},
+    
+    "other": "Diğer",
+    "@other": {},
+    
+    "fitness_goals": "Fitness Hedefleri",
+    "@fitness_goals": {},
+    
+    "medical_conditions": "Sağlık Durumu",
+    "@medical_conditions": {},
+    
+    "dietary_restrictions": "Diyet Kısıtlamaları",
+    "@dietary_restrictions": {},
+    
+    "trainer_preferences": "Eğitmen Tercihleri",
+    "@trainer_preferences": {},
+    
+    "previous": "Önceki",
+    "@previous": {},
+    
+    "finish": "Bitir",
+    "@finish": {},
+    
+    "social_media": "Sosyal Medya",
+    "@social_media": {},
+    
+    "edit_profile": "Profili Düzenle",
+    "@edit_profile": {},
+    
+    "edit_background": "Arkaplan Fotoğrafını Değiştir",
+    "@edit_background": {},
+    
+    "remove_background": "Arkaplan Fotoğrafını Kaldır",
+    "@remove_background": {},
+    
+    "loading_profile": "Profil yükleniyor...",
+    "@loading_profile": {},
+
+    "ticket_submitted_successfully": "Bilet başarıyla gönderildi",
+    "@ticket_submitted_successfully": {},
+
+    "error_submitting_ticket": "Bilet gönderirken hata oluştu",
+    "@error_submitting_ticket": {},
+    
+    "please_enter_subject": "Lütfen konuyu girin",
+    "@please_enter_subject": {},
+
+    "please_enter_message": "Lütfen mesajı girin",
+    "@please_enter_message": {},
+    
+    "submit_ticket": "Bilet Gönder",
+    "@submit_ticket": {},
+
+    "submit_support_ticket": "Destek Bilet Gönder",
+    "@submit_support_ticket": {},
+
+    "video_too_long_error": "Video 15 saniyeden kısa olmalıdır",
+    "@video_too_long_error": {},
+
+    "add_video": "Video Ekle",
+    "@add_video": {},
+
+    "messages": "Mesajlar",
+    "@messages": {},
+
+    "add_new_client_web_button": "Müşteri Ekle",
+    "@add_new_client_web_button": {},
+
+    "help": "Yardım",
+    "@help": {},
+
+    "add_new_client_manually_web_button": "Müşteri Manuel Ekle",
+    "@add_new_client_manually_web_button": {},
+
+    "generate": "Oluştur",
+    "@generate": {},
+
+    "available_capital": "MÜSAİT",
+    "@available_capital": {},
+
+    "meal_plans_web": "Beslenme Planları",
+    "@meal_plans_web": {},
+
+    "workout_plans_web": "Antrenman Planları",
+    "@workout_plans_web": {},
+
+    "book_session_web_button": "Seans Rezerve Et",
+    "@book_session_web_button": {},
+
+    "trainers_currently_training_with_you": "Sizinle son zamanlarda antrenman yapan eğitmenler",
+    "@trainers_currently_training_with_you": {},
+
+    "track_your_fitness_journey_and_achievements": "Fitness yolculunuzu ve başarılarınızı izleyin",
+    "@track_your_fitness_journey_and_achievements": {},
+
+    "log_progress_web_button": "İlerleme Kaydı",
+    "@log_progress_web_button": {},
+
+    "search_notifications": "Bildirimleri arayın...",
+    "@search_notifications": {},
+
+    "search_messages": "Mesajları arayın...",
+    "@search_messages": {},
+
+    "search_activities_messages": "Etkinlikleri ve mesajları arayın...",
+    "@search_activities_messages": {},
+
+    "create_workout_plan_web_button": "Antrenman Planı Oluştur",
+    "@create_workout_plan_web_button": {},
+
+    "active_clients_mobile": "Aktif Müşteriler",
+    "@active_clients_mobile": {},
+
+    "available_slots_mobile": "Mevcut Slotlar",
+    "@available_slots_mobile": {},
+
+    "meal_plans_mobile": "Beslenme Planları",
+    "@meal_plans_mobile": {},
+
+    "workout_plans_mobile": "Antrenman Planları",
+    "@workout_plans_mobile": {},
+    
+    
+    
+    
+
+
+    "generate_invitation_link_description": "Müşterilerinizi davet etmek için bir davet bağlantısı oluşturun.",
+    "@generate_invitation_link_description": {},
+    
+
+
+    "progress_details": "İlerleme Detayları",
+    "@progress_details": {},
+
+    "background_photo": "Arkaplan Fotoğrafı",
+    "@background_photo": {},
+    
+    "measurements_access_denied": "Ölçüm Verilerine Erişim İzni Yok",
+    "@measurements_access_denied": {},
+    
+    "measurements_access_message": "Danışan, ölçüm verilerini görüntüleme izni vermedi.",
+    "@measurements_access_message": {},
+    
+    "photos_access_denied": "İlerleme Fotoğraflarına Erişim İzni Yok",
+    "@photos_access_denied": {},
+    
+    "photos_access_message": "Danışan, ilerleme fotoğraflarını görüntüleme izni vermedi.",
+    "@photos_access_message": {},
+    
+    "progress_history": "İlerleme Geçmişi",
+    "@progress_history": {},
+    
+    "logged_by": "{name} tarafından kaydedildi",
+    "@logged_by": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "photo_comparison": "Fotoğraf Karşılaştırma",
+    "@photo_comparison": {},
+    
+    "select_photos": "Fotoğraf Seç",
+    "@select_photos": {},
+    
+    "compare_photos": "Fotoğrafları Karşılaştır",
+    "@compare_photos": {},
+    
+    "no_photos_selected": "Fotoğraf seçilmedi",
+    "@no_photos_selected": {},
+    
+    "select_two_photos": "Lütfen karşılaştırmak için iki fotoğraf seçin",
+    "@select_two_photos": {},
+    
+    "front_view_comparison": "Ön Görünüm Karşılaştırması",
+    "@front_view_comparison": {},
+    
+    "back_view_comparison": "Arka Görünüm Karşılaştırması",
+    "@back_view_comparison": {},
+    
+    "side_view_comparison": "Yan Görünüm Karşılaştırması",
+    "@side_view_comparison": {},
+    
+    "before": "Öncesi",
+    "@before": {},
+    
+    "after": "Sonrası",
+    "@after": {},
+    
+    "date_format": "dd MMMM yyyy",
+    "@date_format": {},
+    
+    "error_loading_photos": "Fotoğraflar yüklenirken hata oluştu: {error}",
+    "@error_loading_photos": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "enter_about": "Kendinden bahset",
+    "@enter_about": {},
+    
+    "enter_experience": "Deneyimini gir",
+    "@enter_experience": {},
+    
+    "enter_specialization": "Uzmanlık alanını gir",
+    "@enter_specialization": {},
+    
+    "enter_certifications": "Sertifikalarını gir",
+    "@enter_certifications": {},
+    
+    "enter_education": "Eğitim bilgilerini gir",
+    "@enter_education": {},
+    
+    "enter_injuries": "Rahatsızlıkları seç veya yaz...",
+    "@enter_injuries": {},
+    
+    "enter_dietary": "Diyet kısıtlamalarını seç veya yaz...",
+    "@enter_dietary": {},
+    
+    "enter_goals": "Ana fitness hedefini seç",
+    "@enter_goals": {},
+    
+    "enter_trainer_prefs": "Tercih ettiğin eğitmen özelliklerini seç veya yaz...",
+    "@enter_trainer_prefs": {},
+    
+    "profile_photo_title": "Profil Fotoğrafı",
+    "@profile_photo_title": {},
+    
+    "profile_photo_desc": "Net bir profil fotoğrafı ekle",
+    "@profile_photo_desc": {},
+    
+    "birthday_title": "DOĞUM GÜNÜ",
+    "@birthday_title": {},
+    
+    "gender_title": "CİNSİYET",
+    "@gender_title": {},
+    
+    "social_media_title": "SOSYAL MEDYA",
+    "@social_media_title": {},
+    
+    "available_hours_title": "MÜSAİT SAATLER",
+    "@available_hours_title": {},
+    
+    "payment_methods_title": "ÖDEME YÖNTEMLERİ",
+    "@payment_methods_title": {},
+    
+    "consent_settings_title": "İZİN AYARLARI",
+    "@consent_settings_title": {},
+    
+    "fitness_level_title": "FITNESS SEVİYESİ",
+    "@fitness_level_title": {},
+    
+    "fitness_level_desc": "Mevcut fitness seviyeni değerlendir",
+    "@fitness_level_desc": {},
+    
+    "consent_measurements_title": "Ölçümler",
+    "@consent_measurements_title": {},
+    
+    "consent_measurements_desc": "Eğitmenlerin ölçümlerini görmesine izin ver",
+    "@consent_measurements_desc": {},
+    
+    "consent_photos_title": "İlerleme Fotoğrafları",
+    "@consent_photos_title": {},
+    
+    "consent_photos_desc": "Eğitmenlerin ilerleme fotoğraflarını görmesine izin ver",
+    "@consent_photos_desc": {},
+    
+    "consent_location_title": "Konum",
+    "@consent_location_title": {},
+    
+    "consent_location_desc": "Eğitmenlerin konumunu görmesine izin ver",
+    "@consent_location_desc": {},
+    
+    "consent_social_title": "Sosyal Medya",
+    "@consent_social_title": {},
+    
+    "consent_social_desc": "Eğitmenlerin sosyal medya hesaplarını görmesine izin ver",
+    "@consent_social_desc": {},
+    
+    "account_settings": "Hesap",
+    "@account_settings": {},
+    
+    "update_failed": "Güncelleme Başarısız",
+    "@update_failed": {},
+    
+    "full_name": "Ad Soyad",
+    "@full_name": {},
+    
+    "email_address": "E-posta Adresi",
+    "@email_address": {},
+    
+    "location_label": "Konum",
+    "@location_label": {},
+    
+    "location_hint": "Şehir, İlçe, Ülke",
+    "@location_hint": {},
+    
+    "save": "Kaydet",
+    "@save": {},
+    
+    "ok": "Tamam",
+    "@ok": {},
+    
+    "my_dashboard": "Kontrol Panelim",
+    "@my_dashboard": {},
+    
+    "my_progress": "İlerlemem",
+    "@my_progress": {},
+    
+    "my_workouts": "Antrenmanlarım",
+    "@my_workouts": {},
+    
+    "my_meals": "Öğünlerim",
+    "@my_meals": {},
+    
+    "my_sessions": "Seanslarım",
+    "@my_sessions": {},
+    
+    "start_session": "Seansı Başlat",
+    "@start_session": {},
+    
+    "view_details": "Detayları Gör",
+    "@view_details": {},
+    
+    "active_plan": "Aktif Plan",
+    "@active_plan": {},
+    
+    "no_active_plan": "Aktif plan yok",
+    "@no_active_plan": {},
+    
+    "get_started": "Hemen Başla",
+    "@get_started": {},
+    
+    "contact_info": "İletişim Bilgileri",
+    "@contact_info": {},
+    
+    "contact_info_subtitle": "Danışanlar sana nasıl ulaşabilir?",
+    "@contact_info_subtitle": {},
+    
+    "about_you": "Hakkında",
+    "@about_you": {},
+    
+    "about_you_subtitle": "Potansiyel danışanlara kendinden bahset",
+    "@about_you_subtitle": {},
+    
+    "city_state_country": "Şehir, İlçe, Ülke",
+    "@city_state_country": {},
+    
+    "health_fitness": "Sağlık & Fitness Geçmişi",
+    "@health_fitness": {},
+    
+    "current_fitness": "Mevcut Fitness Seviyesi",
+    "@current_fitness": {},
+    
+    "goals_preferences": "Hedefler & Tercihler",
+    "@goals_preferences": {},
+    
+    "secondary_goal_hint": "İkincil fitness hedefini seç",
+    "@secondary_goal_hint": {},
+    
+    "data_sharing": "Veri Paylaşım İzni",
+    "@data_sharing": {},
+    
+    "data_sharing_subtitle": "Eğitmeninin fitness planını kişiselleştirmesine yardımcı olmak için aşağıdaki verilere erişim izni ver",
+    "consent_birthday_title": "Doğum Günü",
+    "@consent_birthday_title": {},
+    
+    "consent_birthday_desc": "Eğitmenlerin fitness planını kişiselleştirmesine yardımcı olmak için doğum gününü paylaş",
+    "@consent_birthday_desc": {},
+    
+    "consent_email_title": "E-posta Adresi",
+    "@consent_email_title": {},
+    
+    "consent_email_desc": "Eğitmenlerin seninle e-posta üzerinden iletişim kurmasına izin ver",
+    "@consent_email_desc": {},
+    
+    "consent_phone_title": "Telefon Numarası",
+    "@consent_phone_title": {},
+    
+    "consent_phone_desc": "Eğitmenlerle direkt iletişimi etkinleştir",
+    "@consent_phone_desc": {},
+    
+    "consent_social_media_title": "Sosyal Medya",
+    "@consent_social_media_title": {},
+    
+    "consent_social_media_desc": "Eğitmenlerle sosyal platformlarda bağlantı kur",
+    "@consent_social_media_desc": {},
+    
+    "skip_all": "Tümünü Atla",
+    "@skip_all": {},
+    
+    "step_count": "Adım {current}/{total}",
+    "@step_count": {
+        "placeholders": {
+            "current": {
+                "type": "int",
+                "example": "1"
+            },
+            "total": {
+                "type": "int",
+                "example": "8"
+            }
+        }
+    },
+    
+    "almost_done": "Neredeyse Bitti!",
+    "@almost_done": {},
+    
+    "review_profile": "Profil bilgilerini gözden geçir ve onayla. Bu detayları daha sonra her zaman güncelleyebilirsin.",
+    "@review_profile": {},
+    
+    "progress_photo": "İlerleme Fotoğrafı",
+    "@progress_photo": {},
+    
+    "business_profile_subtitle": "İş bilgilerini ayarla",
+    "@business_profile_subtitle": {},
+    
+    "hourly_rate_hint": "Standart saatlik ücretin",
+    "@hourly_rate_hint": {},
+    
+    "package_rates_hint": "Paket seçeneklerini ve ücretlerini açıkla",
+    "@package_rates_hint": {},
+    
+    "body_measurements_title": "Vücut Ölçüleri",
+    "@body_measurements_title": {},
+    
+    "height_title": "Boy",
+    "@height_title": {},
+    
+    "weight_title": "Kilo",
+    "@weight_title": {},
+    
+    "goals_preferences_title": "Hedefler & Tercihler",
+    "@goals_preferences_title": {},
+    
+    "specializations": "Uzmanlıklar",
+    "@specializations": {},
+    
+    "search_specializations": "Uzmanlık ara...",
+    "@search_specializations": {},
+    
+    "selected": "Seçilenler:",
+    "@selected": {},
+    
+    "step_progress": "Adım {current}/{total}",
+    "@step_progress": {
+        "placeholders": {
+            "current": {
+                "type": "int"
+            },
+            "total": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "weekly_availability_title": "Haftalık Müsaitlik",
+    "@weekly_availability_title": {},
+    
+    "specializations_title": "Uzmanlıklar",
+    "@specializations_title": {},
+    
+    "selected_specializations": "Seçilen Uzmanlıklar",
+    "@selected_specializations": {},
+    
+    "education_category": "Eğitim Kategorisi",
+    "@education_category": {},
+    
+    "education_item": "Eğitim Öğesi",
+    "@education_item": {},
+    
+    "custom_education": "Özel Eğitim",
+    "@custom_education": {},
+    
+    "subject": "Konu",
+    "@subject": {},
+    
+    "select_category": "Kategori Seç",
+    "@select_category": {},
+    
+    "select_item": "Öğe Seç",
+    "@select_item": {},
+    
+    "enter_custom_education": "Özel eğitim detaylarını gir",
+    "@enter_custom_education": {},
+    
+    "enter_custom_specialization": "Özel uzmanlık gir...",
+    "@enter_custom_specialization": {},
+    
+    "error_completing_setup": "Kurulum tamamlanırken hata oluştu: {error}",
+    "@error_completing_setup": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "progress_saved": "İlerleme başarıyla kaydedildi!",
+    "@progress_saved": {},
+    
+    "error_saving_progress": "İlerleme kaydedilirken hata oluştu: {error}",
+    "@error_saving_progress": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "start_workout_plan": "Antrenman Planını Başlat",
+    "@start_workout_plan": {},
+    
+    "exercise_video": "Egzersiz Videosu",
+    "@exercise_video": {},
+    
+    "exercise_notes": "Egzersiz Notları",
+    "@exercise_notes": {},
+    
+    "exercise_instructions": "Talimatlar",
+    "@exercise_instructions": {},
+    
+    "exercise_weight": "Ağırlık",
+    "@exercise_weight": {},
+    
+    "exercise_rest": "Dinlenme",
+    "@exercise_rest": {},
+    
+    "exercise_equipment": "Ekipman: {equipment}",
+    "@exercise_equipment": {
+        "placeholders": {
+            "equipment": {
+                "type": "String",
+                "example": "Dumbbells"
+            }
+        }
+    },
+    
+    "check_all": "Tümünü İşaretle",
+    "@check_all": {},
+    
+    "uncheck_all": "Tüm İşaretleri Kaldır",
+    "@uncheck_all": {},
+    
+    "transformation_challenge": "21 Günlük Dönüşüm Challenge • Progresif Yüklenme • Karma Yoğunluk • Tam Vücut Odaklı",
+    "@transformation_challenge": {},
+    
+    "no_exercises_found": "Bu gün için egzersiz bulunamadı",
+    "@no_exercises_found": {},
+    
+    "day_number": "Gün {number}",
+    "@day_number": {
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    
+    "active_workout_plan": "Aktif Antrenman Planı",
+    "@active_workout_plan": {},
+    
+    "weekly_workout": "Haftalık Antrenman",
+    "@weekly_workout": {},
+    
+    "transformation_workout": "Dönüşüm Antrenmanı",
+    "@transformation_workout": {},
+    
+    "no_current_workout_plan": "Aktif Antrenman Planı Yok",
+    "@no_current_workout_plan": {},
+    
+    "check_workout_plans": "Aktif plan belirlemek için lütfen\nantrenman planlarını kontrol et",
+    "@check_workout_plans": {},
+    
+    "view_workout_plans": "Antrenman Planlarını Görüntüle",
+    "@view_workout_plans": {},
+    
+    "active_plan_content": "Aktif Plan İçeriği",
+    "@active_plan_content": {},
+    
+    "transformation_plan_content": "Dönüşüm Planı İçeriği",
+    "@transformation_plan_content": {},
+    
+    "current_workout_plan": "Mevcut Antrenman Planı",
+    "@current_workout_plan": {},
+    
+    "workout_plan": "Antrenman Planı",
+    "@workout_plan": {},
+    
+    "created_by": "{trainerName} tarafından oluşturuldu",
+    "@created_by": {
+        "placeholders": {
+            "trainerName": {
+                "type": "String",
+                "example": "John Doe"
+            }
+        }
+    },
+    
+    "your_trainer": "Eğitmenin",
+    "@your_trainer": {},
+    
+    "no_current_plan_title": "Aktif Antrenman Planı Yok",
+    "@no_current_plan_title": {},
+    
+    "no_current_plan_message": "Aktif plan belirlemek için lütfen\nantrenman planlarını kontrol et",
+    "@no_current_plan_message": {},
+    
+    "phase": "faz",
+    "@phase": {},
+    
+    "phases": "faz",
+    "@phases": {},
+    
+    "start_workout": "Antrenmanı Başlat",
+    "@start_workout": {},
+    
+    "pause_workout": "Duraklat",
+    "@pause_workout": {},
+    
+    "warm_up_phase": "Isınma Fazı",
+    "@warm_up_phase": {},
+    
+    "main_workout_phase": "Ana Antrenman Fazı",
+    "@main_workout_phase": {},
+    
+    "cool_down_phase": "Soğuma Fazı",
+    "@cool_down_phase": {},
+    
+    "search_plans": "Ara...",
+    "@search_plans": {},
+    
+    "all_plans": "Tüm Planlar",
+    "@all_plans": {},
+    
+    "active_plans": "Aktif",
+    "@active_plans": {},
+    
+    "pending_plans": "Bekleyen",
+    "@pending_plans": {},
+    
+    "completed_plans": "Tamamlanan",
+    "@completed_plans": {},
+    
+    "no_workout_plans": "Antrenman planı bulunamadı",
+    "@no_workout_plans": {},
+    
+    "adjust_filters": "Filtrelerini ayarlamayı dene",
+    "@adjust_filters": {},
+    
+    "pending_count": "Bekleyen ({count})",
+    "@pending_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    
+    "active_count": "Aktif ({count})",
+    "@active_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    
+    "completed_count": "Tamamlanan ({count})",
+    "@completed_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "10"
+            }
+        }
+    },
+    
+    "trainer_label": "Eğitmen",
+    "@trainer_label": {},
+    
+    "select_workout": "Antrenman Seç",
+    "@select_workout": {},
+    
+    "search_workouts": "Antrenman ara...",
+    "@search_workouts": {},
+    
+    "no_workouts_found": "Antrenman bulunamadı",
+    "@no_workouts_found": {},
+    
+    "focus_area": "Odak Bölgesi",
+    "@focus_area": {},
+    
+    "focus_area_hint": "örn. Üst Vücut, Bacaklar, Core vb.",
+    "@focus_area_hint": {},
+    
+    "no_focus_area": "Odak bölgesi yok",
+    "@no_focus_area": {},
+    
+    "start_selected_workout": "Seçili Antrenmanı Başlat",
+    "@start_selected_workout": {},
+    
+    "select_workout_day": "Antrenman günü seç",
+    "@select_workout_day": {},
+    
+    "workout_in_progress": "Antrenman Devam Ediyor",
+    "@workout_in_progress": {},
+    
+    "go": "BAŞLA!",
+    "@go": {},
+    
+    "complete_workout": "Antrenmanı Tamamla",
+    "@complete_workout": {},
+    
+    "workout_difficulty": "Bu antrenman ne kadar zordu?",
+    "@workout_difficulty": {},
+    
+    "workout_notes": "Notlar",
+    "@workout_notes": {},
+    
+    "workout_notes_hint": "Antrenman deneyimini eğitmeninle paylaş (isteğe bağlı)...",
+    "@workout_notes_hint": {},
+    
+    "submit_and_finish": "Gönder ve Bitir",
+    "@submit_and_finish": {},
+    
+    "workout_completed": "Antrenman başarıyla tamamlandı!",
+    "@workout_completed": {},
+    
+    "failed_save_workout": "Antrenman verisi kaydedilemedi",
+    "@failed_save_workout": {},
+    
+    "failed_complete_workout": "Antrenman tamamlanamadı",
+    "@failed_complete_workout": {},
+    
+    "level": "Seviye {number}",
+    "@level": {
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    
+    "sets": "Set",
+    "@sets": {},
+    
+    "reps": "Tekrar",
+    "@reps": {},
+    
+    "reference_images": "Referans Görseller",
+    "@reference_images": {},
+    
+    "exercise_info": "Egzersiz Bilgisi",
+    "@exercise_info": {},
+    
+    "exercise_sets": "{count} set",
+    "@exercise_sets": {
+        "placeholders": {
+            "count": {
+                "type": "String",
+                "example": "3"
+            }
+        }
+    },
+    
+    "exercise_reps": "{count} tekrar",
+    "@exercise_reps": {
+        "placeholders": {
+            "count": {
+                "type": "String",
+                "example": "12"
+            }
+        }
+    },
+    
+    "meal_plans": "Planlar",
+    "@meal_plans": {},
+    
+    "meal_plan": "Beslenme Planı",
+    "@meal_plan": {},
+    
+    "current_meal_plan": "Mevcut Beslenme Planı",
+    "@current_meal_plan": {},
+    
+    "no_current_meal_plan": "Aktif Beslenme Planı Yok",
+    "@no_current_meal_plan": {},
+    
+    "check_meal_plans": "Lütfen beslenme planlarını kontrol edip\nbir tanesini aktif olarak belirle",
+    "@check_meal_plans": {},
+    
+    "view_meal_plans": "Beslenme Planlarını Görüntüle",
+    "@view_meal_plans": {},
+    
+    "search_meal_plans": "Ara...",
+    "@search_meal_plans": {},
+    
+    "no_meal_plans_found": "Beslenme planı bulunamadı",
+    "@no_meal_plans_found": {},
+    
+    "adjust_meal_filters": "Filtrelerini ayarlamayı dene",
+    "@adjust_meal_filters": {},
+    
+    "daily_calories": "Günlük Kalori",
+    "@daily_calories": {},
+    
+    "no_meals_for_day": "{day} için öğün eklenmemiş",
+    "@no_meals_for_day": {
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "example": "Monday"
+            }
+        }
+    },
+    
+    "nutrition_facts": "Besin Değerleri",
+    "@nutrition_facts": {},
+    
+    "ingredients": "Malzemeler",
+    "@ingredients": {},
+    
+    "serving_size": "Porsiyon: {size}",
+    "@serving_size": {
+        "placeholders": {
+            "size": {
+                "type": "String",
+                "example": "100g"
+            }
+        }
+    },
+    
+    "calories_value": "{value} kcal",
+    "@calories_value": {
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "500"
+            }
+        }
+    },
+    
+    "macro_value": "{macro}: %{value}",
+    "@macro_value": {
+        "placeholders": {
+            "macro": {
+                "type": "String",
+                "example": "P"
+            },
+            "value": {
+                "type": "String",
+                "example": "30"
+            }
+        }
+    },
+    
+    "diet_type_label": "Diyet Tipi",
+    "@diet_type_label": {},
+    
+    "macros_label": "MAKROLAR",
+    "@macros_label": {},
+    
+    "meal_details": "Öğün Detayları",
+    "@meal_details": {},
+    
+    "available_hours_page_title": "Müsait Saatler",
+    "@available_hours_page_title": {},
+    
+    "sensitive_data_page_title": "Hassas Veriler",
+    "@sensitive_data_page_title": {},
+    
+    "data_sharing_consent_title": "Veri Paylaşım İzni",
+    "@data_sharing_consent_title": {},
+    
+    "unit_preferences_page_title": "Birim Tercihleri",
+    "@unit_preferences_page_title": {},
+    
+    "height_unit_title": "BOY",
+    "@height_unit_title": {},
+    
+    "weight_unit_title": "KİLO",
+    "@weight_unit_title": {},
+    
+    "distance_unit_title": "MESAFE",
+    "@distance_unit_title": {},
+    
+    "time_format_title": "SAAT BİÇİMİ",
+    "@time_format_title": {},
+    
+    "date_format_title": "TARİH BİÇİMİ",
+    "@date_format_title": {},
+    
+    "time_format_12hour": "12 saat\n(1:30 PM)",
+    "@time_format_12hour": {},
+    
+    "time_format_24hour": "24 saat\n(13:30)",
+    "@time_format_24hour": {},
+    
+    "create_meal_plan": "Beslenme Planı Oluştur",
+    "@create_meal_plan": {},
+    
+    "existing_client": "Mevcut Danışan",
+    "@existing_client": {},
+    
+    "manual_client": "Manuel Danışan",
+    "@manual_client": {},
+    
+    "template": "Şablon",
+    "@template": {},
+    
+    "template_info": "Daha sonra tekrar kullanmak için şablonlar oluştur. Kaynaklar bölümünden şablonlara erişip hızlıca yeni beslenme planları oluşturabilirsin.",
+    "@template_info": {},
+    
+    "template_name": "Şablon Adı",
+    "@template_name": {},
+    
+    "enter_template_name": "Şablon adı gir",
+    "@enter_template_name": {},
+    
+    "select_client": "Danışan seç",
+    "@select_client": {},
+    
+    "plan_name": "Plan Adı",
+    "@plan_name": {},
+    
+    "enter_plan_name": "Plan adı gir",
+    "@enter_plan_name": {},
+    
+    "goal_hint": "örn. Kilo verme, Kas kazanımı, Koruma",
+    "@goal_hint": {},
+    
+    "duration_hint": "örn. 4 hafta",
+    "@duration_hint": {},
+    
+    "daily_caloric_target": "Günlük Kalori Hedefi",
+    "@daily_caloric_target": {},
+    
+    "calories_hint": "örn. 2000 kcal",
+    "@calories_hint": {},
+    
+    "protein_percentage": "Protein %",
+    "@protein_percentage": {},
+    
+    "carbs_percentage": "Karbonhidrat %",
+    "@carbs_percentage": {},
+    
+    "fats_percentage": "Yağ %",
+    "@fats_percentage": {},
+    
+    "diet_type": "Diyet Tipi",
+    "@diet_type": {},
+    
+    "diet_type_hint": "örn. Akdeniz, Keto, Vegan",
+    "@diet_type_hint": {},
+    
+    "special_considerations": "Özel Durumlar",
+    "@special_considerations": {},
+    
+    "special_considerations_hint": "örn. Alerjiler, intoleranslar, tercihler",
+    "@special_considerations_hint": {},
+    
+    "search_ingredients": "Malzeme ara...",
+    "@search_ingredients": {},
+    
+    "database": "Veritabanı",
+    "@database": {},
+    
+    "ingredient_name": "Malzeme Adı",
+    "@ingredient_name": {},
+    
+    "ingredient_name_hint": "örn. Tavuk Göğsü",
+    "@ingredient_name_hint": {},
+    
+    "serving": "Porsiyon",
+    "@serving": {},
+    
+    "serving_hint_metric": "örn. 100g, 1 bardak, 1 adet vb.",
+    "@serving_hint_metric": {},
+    
+    "serving_hint_imperial": "örn. 8oz, 1 bardak, 1 adet vb.",
+    "@serving_hint_imperial": {},
+    
+    "select_unit": "Birim Seç",
+    "@select_unit": {},
+    
+    "calories_kcal": "Kalori (kcal)",
+    "@calories_kcal": {},
+    
+    "calories_hint_value": "örn. 100kcal",
+    "@calories_hint_value": {},
+    
+    "protein_grams": "Protein (g)",
+    "@protein_grams": {},
+    
+    "protein_hint": "örn. 100g",
+    "@protein_hint": {},
+    
+    "carbs_grams": "Karbonhidrat (g)",
+    "@carbs_grams": {},
+    
+    "carbs_hint": "örn. 100g",
+    "@carbs_hint": {},
+    
+    "fats_grams": "Yağ (g)",
+    "@fats_grams": {},
+    
+    "fats_hint": "örn. 100g",
+    "@fats_hint": {},
+    
+    "add_ingredient": "Malzeme Ekle",
+    "@add_ingredient": {},
+    
+    "error": "Hata",
+    "@error": {},
+    
+    "fill_required_fields": "Lütfen malzeme adı, porsiyon miktarı ve porsiyon birimini gir",
+    "@fill_required_fields": {},
+    
+    "notes": "Notlar",
+    "@notes": {},
+    
+    "notes_hint": "Ek notlarını buraya ekle...",
+    "@notes_hint": {},
+    
+    "total_nutrients": "Toplam Besin Değerleri",
+    "@total_nutrients": {},
+    
+    "hydration_guidelines": "Hidrasyon Önerileri",
+    "@hydration_guidelines": {},
+    
+    "water_intake_recommendations": "Günlük su tüketimi önerileri",
+    "@water_intake_recommendations": {},
+    
+    "supplement_recommendations": "Suplement Önerileri",
+    "@supplement_recommendations": {},
+    
+    "supplements_hint": "Varsa, önerilen suplementleri listele",
+    "@supplements_hint": {},
+    
+    "additional_notes": "Ek Notlar",
+    "@additional_notes": {},
+    
+    "other_important_info": "Diğer önemli bilgiler",
+    "@other_important_info": {},
+    
+    "please_enter": "Lütfen {field} gir",
+    "@please_enter": {
+        "placeholders": {
+            "field": {
+                "type": "String",
+                "example": "name"
+            }
+        }
+    },
+    
+    "back": "Geri",
+    "@back": {},
+    
+    "create_plan": "Plan Oluştur",
+    "@create_plan": {},
+    
+    "meal_plan_created": "Beslenme planı başarıyla oluşturuldu!",
+    "@meal_plan_created": {},
+    
+    "meal_plan_creation_failed": "Beslenme planı oluşturulamadı: {error}",
+    "@meal_plan_creation_failed": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "add_at_least_one_meal": "Lütfen beslenme planına en az bir öğün ekle",
+    "@add_at_least_one_meal": {},
+    
+    "select_client_error": "Lütfen bir danışan seç",
+    "@select_client_error": {},
+    
+    "enter_client_name_error": "Lütfen danışan adı gir",
+    "@enter_client_name_error": {},
+    
+    "enter_template_name_error": "Lütfen şablon adı gir",
+    "@enter_template_name_error": {},
+    
+    "user_data_incomplete": "Kullanıcı bilgileri eksik",
+    "@user_data_incomplete": {},
+    
+    "add_preparation_steps": "Hazırlık Adımlarını Ekle",
+    "@add_preparation_steps": {},
+    
+    "step": "Adım {number}",
+    "@step": {
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    
+    "describe_step": "Açıkla...",
+    "@describe_step": {},
+    
+    "add_step": "Adım Ekle",
+    "@add_step": {},
+    
+    "copy_to_next_day": "Sonraki Güne Kopyala",
+    "@copy_to_next_day": {},
+    
+    "meals_copied": "Öğünler {day} gününe kopyalandı",
+    "@meals_copied": {
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "example": "Tuesday"
+            }
+        }
+    },
+    
+    "no_meal_added": "Öğün eklenmedi",
+    "@no_meal_added": {},
+    
+    "add_meal": "{mealType} Ekle",
+    "@add_meal": {
+        "placeholders": {
+            "mealType": {
+                "type": "String",
+                "example": "Breakfast"
+            }
+        }
+    },
+    
+    "overview": "Genel Bakış",
+    "@overview": {},
+    
+    "schedule": "Program",
+    "@schedule": {},
+    
+    "details": "Detaylar",
+    "@details": {},
+    
+    "total": "Toplam",
+    "@total": {},
+    
+    "cal": "Kal",
+    "@cal": {},
+
+    "turkish": "Türkçe",
+    "@turkish": {},
+
+    "english": "İngilizce",
+    "@english": {},
+
+    "spanish": "İspanyolca",
+    "@spanish": {},
+
+    "french": "Fransızca",
+    "@french": {},
+
+    "german": "Almanca",
+    "@german": {},
+
+    "italian": "İtalyanca",
+    "@italian": {},
+
+    "portuguese": "Portekizce",
+    "@portuguese": {},
+    
+    "select_unit_title": "Birim Seç",
+    "@select_unit_title": {},
+    
+    "breakfast": "Kahvaltı",
+    "@breakfast": {},
+    
+    "morning_snack": "Sabah Atıştırmalığı",
+    "@morning_snack": {},
+    
+    "lunch": "Öğle Yemeği",
+    "@lunch": {},
+    
+    "afternoon_snack": "İkindi Atıştırmalığı",
+    "@afternoon_snack": {},
+    
+    "dinner": "Akşam Yemeği",
+    "@dinner": {},
+    
+    "evening_snack": "Gece Atıştırmalığı",
+    "@evening_snack": {},
+    
+    "loading_trainer_profile": "Eğitmen profiline geçiliyor...",
+    "@loading_trainer_profile": {},
+    
+    "trainer_profile_not_found": "Eğitmen profili bulunamadı",
+    "@trainer_profile_not_found": {},
+
+    "no_achievements_unlocked_yet": "Henüz başarılarınızı açamadınız",
+    "@no_achievements_unlocked_yet": {},
+
+    "premium_member": "ÖZEL ÜYE",
+    "@premium_member": {},
+
+    
+    "no_available_hours": "Müsait saat yok",
+    "@no_available_hours": {},
+    
+    "failed_switch_profile": "Eğitmen profiline geçilemedi",
+    "@failed_switch_profile": {},
+    
+    "no_trainer_profile": "Bu hesapla ilişkili eğitmen profili yok",
+    "@no_trainer_profile": {},
+    
+    "switch_to_trainer": "Eğitmen Profiline Geç",
+    "@switch_to_trainer": {},
+    
+    "active_member": "Aktif Üye",
+    "@active_member": {},
+    
+    "hi_user": "Selam, {name}!",
+    "@hi_user": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "John"
+            }
+        }
+    },
+
+    "hi": "Selam",
+    "@hi": {},
+
+    "meal_plan_set_as_current_successfully": "Beslenme planı şu anki yapıldı",
+    "@meal_plan_set_as_current_successfully": {},
+
+    "plan_not_found_in_database": "Plan veritabanında bulunamadı",
+    "@plan_not_found_in_database": {},
+
+    "an_error_occurred": "Bir hata oluştu",
+    "@an_error_occurred": {},
+
+    "current": "Şimdiki",
+    "@current": {},
+
+    "make_current": "Şimdiki Yap",
+    "@make_current": {},
+
+    "active": "Aktif",
+    "@active": {},
+
+    "confirmed": "Onaylandı",
+    "@confirmed": {},
+    
+    
+
+    "view_all": "Tümünü Gör",
+    "@view_all": {},
+    
+    "composition": "Kompozisyon",
+    "@composition": {},
+    
+    "body_fat_percentage": "Vücut Yağı (%)",
+    "@body_fat_percentage": {},
+    
+    "muscle_mass": "Kas Kütlesi ({unit})",
+    "@muscle_mass": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "kg"
+            }
+        }
+    },
+    
+    "chest": "Göğüs ({unit})",
+    "@chest": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "cm"
+            }
+        }
+    },
+    
+    "waist": "Bel ({unit})",
+    "@waist": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "cm"
+            }
+        }
+    },
+    
+    "hips": "Kalça ({unit})",
+    "@hips": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "cm"
+            }
+        }
+    },
+    
+    "biceps": "Biceps ({unit})",
+    "@biceps": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "cm"
+            }
+        }
+    },
+    
+    "calves": "Baldır ({unit})",
+    "@calves": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "cm"
+            }
+        }
+    },
+    
+    "thighs": "Üst Bacak ({unit})",
+    "@thighs": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "cm"
+            }
+        }
+    },
+    
+    "front_photo_desc": "Önden bir fotoğraf çek",
+    "@front_photo_desc": {},
+    
+    "back_photo_desc": "Arkadan bir fotoğraf çek",
+    "@back_photo_desc": {},
+    
+    "left_photo_desc": "Sol yandan bir fotoğraf çek",
+    "@left_photo_desc": {},
+    
+    "right_photo_desc": "Sağ yandan bir fotoğraf çek",
+    "@right_photo_desc": {},
+    
+    "category": "Kategori",
+    "@category": {},
+    
+    "enter_select_category": "Kategori gir veya seç",
+    "@enter_select_category": {},
+    
+    "education_certification": "Eğitim/Sertifika",
+    "@education_certification": {},
+    
+    "enter_select_education": "Eğitim/sertifika gir veya seç",
+    "@enter_select_education": {},
+    
+    "subject_specialization": "Konu/Uzmanlık",
+    "@subject_specialization": {},
+    
+    "enter_subject": "Konu veya uzmanlık gir",
+    "@enter_subject": {},
+    
+    "start_date": "Başlangıç Tarihi",
+    "@start_date": {},
+    
+    "end_date": "Bitiş Tarihi",
+    "@end_date": {},
+    
+    "select_date": "Tarih seç",
+    "@select_date": {},
+    
+    "add_education": "Eğitim Ekle",
+    "@add_education": {},
+    
+    "added_education": "Eklenen Eğitim & Sertifikalar",
+    "@added_education": {},
+    
+    "years_of_experience": "Deneyim Yılı",
+    "@years_of_experience": {},
+    
+    "job_title": "İş Unvanı",
+    "@job_title": {},
+    
+    "enter_job_title": "İş unvanını gir",
+    "@enter_job_title": {},
+    
+    "organization": "Kurum/Şirket",
+    "@organization": {},
+    
+    "enter_organization": "Kurum adı gir",
+    "@enter_organization": {},
+    
+    "add_experience": "Deneyim Ekle",
+    "@add_experience": {},
+    
+    "added_experience": "Eklenen Deneyim",
+    "@added_experience": {},
+    
+    "present": "Devam Ediyor",
+    "@present": {},
+    
+    "profile_settings": "Profil",
+    "@profile_settings": {},
+    
+    "personal": "Kişisel",
+    "@personal": {},
+    
+    "body": "Vücut",
+    "@body": {},
+    
+    "bio": "Bio",
+    "@bio": {},
+    
+    "tell_about_yourself": "Kendinden bahset",
+    
+    "content_coming_soon": "İçerik yakında...",
+    "@content_coming_soon": {},
+    
+    "working_hours": "Çalışma Saatleri",
+    "@working_hours": {},
+    
+    "weekly_availability": "Haftalık Müsaitlik",
+    "@weekly_availability": {},
+    
+    "add_exercise": "Egzersiz Ekle",
+    "@add_exercise": {},
+    
+    "edit_exercise": "Egzersizi Düzenle",
+    "@edit_exercise": {},
+    
+    "exercise_name": "Egzersiz Adı",
+    "@exercise_name": {},
+    
+    "exercise_name_hint": "örn. Squat, Deadlift vb.",
+    "@exercise_name_hint": {},
+    
+    "equipment": "Ekipman",
+    "@equipment": {},
+    
+    "select_enter_equipment": "Ekipman seç veya gir",
+    "@select_enter_equipment": {},
+    
+    "images": "Görseller",
+    "@images": {},
+    
+    "cancel": "İptal",
+    "@cancel": {},
+    
+    "basic": "Temel",
+    "@basic": {},
+    
+    "media": "Medya",
+    "@media": {},
+    
+    "instructions": "Talimatlar",
+    "@instructions": {},
+    
+    "set": "Set",
+    "@set": {},
+    
+    "weight_unit": "Ağırlık ({unit})",
+    "@weight_unit": {
+        "placeholders": {
+            "unit": {
+                "type": "String",
+                "example": "kg"
+            }
+        }
+    },
+    
+    "rest": "Dinlenme",
+    "@rest": {},
+    
+    "add_set": "Set Ekle",
+    "@add_set": {},
+    
+    "add_phase": "Faz Ekle",
+    "@add_phase": {},
+    
+    "enter_phase_name": "Faz adı gir",
+    "@enter_phase_name": {},
+    
+    "equipment_label": "Ekipman:",
+    "@equipment_label": {},
+    
+    "instructions_label": "Talimatlar",
+    "@instructions_label": {},
+    
+    "my_clients": "Danışanlarım",
+    "@my_clients": {},
+    
+    "add_client": "Danışan Ekle",
+    "@add_client": {},
+    
+    "search_clients": "Danışan ara...",
+    "@search_clients": {},
+    
+    "app_user": "Uygulama Kullanıcısı",
+    "@app_user": {},
+    
+    "manual": "Manuel",
+    "@manual": {},
+    
+    "next_session": "Sonraki Seans: {date}",
+    "@next_session": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "Mon, 15 Mar"
+            }
+        }
+    },
+    
+    "filter_all": "Tümü",
+    "@filter_all": {},
+    
+    "filter_new": "Yeni",
+    "@filter_new": {},
+    
+    "filter_app_users": "Uygulama Kullanıcıları",
+    "@filter_app_users": {},
+    
+    "filter_manual": "Manuel",
+    "@filter_manual": {},
+    
+    "filter_completed": "Tamamlanan",
+    "@filter_completed": {},
+    
+    "filter_active": "Aktif",
+    "@filter_active": {},
+    
+    "macros": "MAKROLAR",
+    "@macros": {},
+    
+    "filter_templates": "Şablon",
+    "@filter_templates": {},
+    
+    "filter_pending": "Bekleyen",
+    "@filter_pending": {},
+    
+    "workout_plans": "Planlar",
+    "@workout_plans": {},
+    
+    "create_workout_plan": "Plan Oluştur",
+    "@create_workout_plan": {},
+    
+    "no_workout_plans_found": "Antrenman planı bulunamadı",
+    "@no_workout_plans_found": {},
+    
+    "create_new_workout_plan": "Başlamak için yeni bir antrenman planı oluştur",
+    "@create_new_workout_plan": {},
+    
+    
+    "create_a_new_meal_plan_to_get_started": "Başlamak için yeni bir öğün planı oluştur",
+    "@create_a_new_meal_plan_to_get_started": {},
+    
+    "client_label": "Danışan",
+    "@client_label": {},
+    
+    "duration_label": "Süre",
+    "@duration_label": {},
+    
+    "goal_label": "Hedef",
+    "@goal_label": {},
+    
+    "add_new_client": "Yeni Danışan Ekle",
+    "@add_new_client": {},
+    
+    "client_name": "Danışan Adı",
+    "@client_name": {},
+    
+    "enter_client_name": "Danışanın adını gir",
+    "@enter_client_name": {},
+    
+    "client_email": "E-posta",
+    "@client_email": {},
+    
+    "enter_client_email": "Danışanın e-postasını gir",
+    "@enter_client_email": {},
+    
+    "phone_number": "Telefon Numarası",
+    "@phone_number": {},
+    
+    "enter_phone_number": "Danışanın telefon numarasını gir",
+    "@enter_phone_number": {},
+    
+    "edit_plan": "Planı Düzenle",
+    "@edit_plan": {},
+    
+    "next": "İleri",
+    "@next": {},
+    
+    "submit": "Gönder",
+    "@submit": {},
+    
+    "professional_data_not_found": "Profesyonel veri bulunamadı",
+    "@professional_data_not_found": {},
+    
+    "select_avatar": "Avatar Seç",
+    "@select_avatar": {},
+    
+    "take_photo": "Fotoğraf Çek",
+    "@take_photo": {},
+    
+    "choose_from_gallery": "Galeriden Seç",
+    "@choose_from_gallery": {},
+    
+    "add_exercise_title": "Egzersiz Ekle",
+    "@add_exercise_title": {},
+    
+    "edit_exercise_title": "Egzersizi Düzenle",
+    "@edit_exercise_title": {},
+    
+    "please_enter_exercise_name": "Lütfen egzersiz adı gir",
+    "@please_enter_exercise_name": {},
+    
+    "failed_add_exercise": "Egzersiz eklenemedi",
+    "@failed_add_exercise": {},
+    
+    "failed_update_exercise": "Egzersiz güncellenemedi",
+    "@failed_update_exercise": {},
+    
+    "save_changes": "Değişiklikleri Kaydet",
+    "@save_changes": {},
+    
+    "add_instruction": "Egzersiz talimatı ekle...",
+    "@add_instruction": {},
+    
+    "exercise_video_title": "Egzersiz Videosu",
+    "@exercise_video_title": {},
+    
+    "add_image": "Ekle",
+    "@add_image": {},
+    
+    "trainer_id_not_found": "Eğitmen ID'si bulunamadı",
+    "@trainer_id_not_found": {},
+    
+    "add_meal_title": "Öğün Ekle",
+    "@add_meal_title": {},
+    
+    "edit_meal_title": "Öğünü Düzenle",
+    "@edit_meal_title": {},
+    
+    "please_enter_meal_name": "Lütfen öğün adı gir",
+    "@please_enter_meal_name": {},
+    
+    "failed_save_meal": "Öğün kaydedilemedi",
+    "@failed_save_meal": {},
+    
+    "meal_name": "Öğün Adı",
+    "@meal_name": {},
+    
+    "enter_meal_name": "Öğün adı gir",
+    "@enter_meal_name": {},
+    
+    "total_nutrients_manual": "Toplam Besin Değerleri\n(Manuel)",
+    "@total_nutrients_manual": {},
+    
+    "total_nutrients_calculated": "Toplam Besin Değerleri\n(Hesaplanan)",
+    "@total_nutrients_calculated": {},
+    
+    "added_ingredients": "Eklenen Malzemeler",
+    "@added_ingredients": {},
+    
+    "add_ingredients": "Malzeme Ekle",
+    "@add_ingredients": {},
+    
+    "preparation_steps": "Hazırlık Adımları",
+    "@preparation_steps": {},
+    
+    "add_preparation_step": "Hazırlık adımı ekle",
+    "@add_preparation_step": {},
+    
+    "meal_notes": "Notlar",
+    "@meal_notes": {},
+    
+    "meal_notes_hint": "Ek notlarını buraya ekle...",
+    "@meal_notes_hint": {},
+    
+    "update": "Güncelle",
+    "@update": {},
+    
+    "available_slots_title": "Müsait Slotlar",
+    "@available_slots_title": {},
+    
+    "no_slots_title": "Müsait Slot Yok",
+    "@no_slots_title": {},
+    
+    "no_slots_message": "Bu gün için yeni bir müsaitlik slotu oluşturmak için \"+\" butonuna dokun",
+    "@no_slots_message": {},
+    
+    "virtual_session": "Online Seans",
+    "@virtual_session": {},
+    
+    "in_person_session": "Yüz Yüze Seans",
+    "@in_person_session": {},
+    
+    "initial_session_label": "İlk",
+    "@initial_session_label": {},
+    
+    "follow_up_session_label": "Takip",
+    "@follow_up_session_label": {},
+    
+    "recurring_session_label": "Tekrarlanan",
+    "@recurring_session_label": {},
+    
+    "group_session_label": "Grup",
+    "@group_session_label": {},
+    
+    "warm_up_routine": "Isınma Rutini",
+    "@warm_up_routine": {},
+    
+    "describe_warmup": "Isınma egzersizlerini açıkla",
+    "@describe_warmup": {},
+    
+    "cool_down_routine": "Soğuma Rutini",
+    "@cool_down_routine": {},
+    
+    "describe_cooldown": "Soğuma egzersizlerini açıkla",
+    "@describe_cooldown": {},
+    
+    "session_duration": "{duration} dk",
+    "@session_duration": {
+        "placeholders": {
+            "duration": {
+                "type": "String",
+                "example": "60"
+            }
+        }
+    },
+    
+    "required_fields_missing": "Gerekli alanlar eksik",
+    "@required_fields_missing": {},
+    
+    "workout_plan_created": "Antrenman planı başarıyla oluşturuldu!",
+    "@workout_plan_created": {},
+    
+    "workout_plan_creation_failed": "Antrenman planı oluşturulamadı: {error}",
+    "@workout_plan_creation_failed": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "recurring": "Tekrarlanan",
+    "@recurring": {},
+    
+    "session_time": "{time}",
+    "@session_time": {
+        "placeholders": {
+            "time": {
+                "type": "String",
+                "example": "14:30"
+            }
+        }
+    },
+    
+    "all_sessions": "Tüm Seanslar",
+    "@all_sessions": {},
+    
+    "next_available_session": "Bir sonraki müsait seans",
+    "@next_available_session": {},
+    
+    "starting_soon": "Yakında başlıyor",
+    "@starting_soon": {},
+    
+    "time_remaining": "{days, plural, =0{{hours}s {minutes}d {seconds}sn} =1{1g {hours}s {minutes}d {seconds}sn} other{{days}g {hours}s {minutes}d {seconds}sn}}",
+    "@time_remaining": {
+        "placeholders": {
+            "days": {
+                "type": "int",
+                "example": "2"
+            },
+            "hours": {
+                "type": "int",
+                "example": "5"
+            },
+            "minutes": {
+                "type": "int",
+                "example": "30"
+            },
+            "seconds": {
+                "type": "int",
+                "example": "45"
+            }
+        }
+    },
+    
+    "session_time_at": "{date} {time} saatinde",
+    "@session_time_at": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "Mon, 15 Mar"
+            },
+            "time": {
+                "type": "String",
+                "example": "14:30"
+            }
+        }
+    },
+    
+    "client_details": "Danışan Detayları",
+    "@client_details": {},
+    
+    "next_session_only_string": "Sonraki Seans",
+    "@next_session_only_string": {},
+    
+    "track_client_progress": "Danışan İlerlemesini Takip Et",
+    "@track_client_progress": {},
+    
+    "track_progress_subtitle": "Detaylı ilerleme metriklerini ve analizleri görüntüle",
+    "@track_progress_subtitle": {},
+    
+    "by_client": "Danışan tarafından",
+    "@by_client": {},
+    
+    "by_trainer": "Eğitmen tarafından",
+    "@by_trainer": {},
+    
+    "basic_info": "Temel Bilgi",
+    "@basic_info": {},
+    
+    "health_info": "Sağlık Bilgileri",
+    "@health_info": {},
+    
+    "birthday": "Doğum Günü",
+    "@birthday": {},
+    
+    "medical_history": "Sağlık Geçmişi",
+    "@medical_history": {},
+    
+    "injuries": "Sakatlıklar",
+    "@injuries": {},
+    
+    "primary_goal": "Ana Hedef",
+    "@primary_goal": {},
+    
+    "secondary_goal": "İkincil Hedef",
+    "@secondary_goal": {},
+    
+    "height": "Boy",
+    "@height": {},
+    
+    "weight": "Kilo",
+    "@weight": {},
+    
+    "availability": "Müsaitlik",
+    "@availability": {},
+    
+    "exercise_preferences": "Egzersiz Tercihleri",
+    "@exercise_preferences": {},
+    
+    "measurements": "Ölçümler",
+    "@measurements": {},
+    
+    "personal_info": "Kişisel Bilgiler",
+    "@personal_info": {},
+    
+    "health_fitness_client_details": "Sağlık & Fitness",
+    "@health_fitness_client_details": {},
+    
+    "training_details": "Antrenman Detayları",
+    "@training_details": {},
+    
+    "name": "Ad",
+    "@name": {},
+    
+    "fitness_history": "Fitness Geçmişi",
+    "@fitness_history": {},
+    
+    "dietary_habits": "Beslenme Alışkanlıkları",
+    "@dietary_habits": {},
+    
+    "no_bookmarked_exercises": "Kaydedilmiş egzersiz yok",
+    "@no_bookmarked_exercises": {},
+    
+    "bookmarked_exercises": "Kaydedilen Egzersizler",
+    "@bookmarked_exercises": {},
+    
+    "no_bookmarked_exercises_message": "Kaydedilmiş egzersiz yok",
+    "@no_bookmarked_exercises_message": {},
+    
+    "slots": "Slotlar",
+    "@slots": {},
+    
+    
+    "create_meal": "Öğün\nOluştur",
+    "@create_meal": {},
+    
+    "schedule_session_multi_line": "Seans\nPlanla",
+    "@schedule_session_multi_line": {},
+    
+    "schedule_session": "Seans\nPlanla",
+    "@schedule_session": {},
+
+    "schedule_session_web": "Seans Planla",
+    "@schedule_session_web": {},
+    
+    "create_workout": "Antrenman\nOluştur",
+    "@create_workout": {},
+    
+    "add_at_least_one_exercise": "Lütfen antrenman planına en az bir egzersiz ekle",
+    "@add_at_least_one_exercise": {},
+    
+    "edit_client": "Danışanı Düzenle",
+    "@edit_client": {},
+    
+    "choose_avatar": "Avatar Seç",
+    "@choose_avatar": {},
+    
+    "enter_email_address": "Danışanın e-posta adresini gir",
+    "@enter_email_address": {},
+    
+    "please_enter_email": "Lütfen e-posta adresi gir",
+    "@please_enter_email": {},
+    
+    "invalid_email": "Lütfen geçerli bir e-posta adresi gir",
+    "@invalid_email": {},
+    
+    "injuries_surgeries": "Sakatlıklar & Ameliyatlar",
+    "@injuries_surgeries": {},
+    
+    "time_availability": "Zaman Müsaitliği",
+    "@time_availability": {},
+    
+    "not_specified": "Belirtilmemiş",
+    "@not_specified": {},
+    
+    "exercise_images": "Egzersiz Görselleri",
+    "@exercise_images": {},
+    
+    "search_images": "Görsel ara...",
+    "@search_images": {},
+    
+    "no_images_found": "Görsel bulunamadı",
+    "@no_images_found": {},
+    
+    "no_images_match": "Aramanızla eşleşen görsel yok",
+    "@no_images_match": {},
+    
+    "failed_fetch_images": "Görseller yüklenirken hata oluştu: {error}",
+    "@failed_fetch_images": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "edit_session": "Seansı Düzenle",
+    "@edit_session": {},
+    
+    "session_notes": "Seans Notları",
+    "@session_notes": {},
+    
+    "session_notes_hint": "Özel talimatlar veya notlar ekle...",
+    "@session_notes_hint": {},
+    
+    "duration": "Süre",
+    "@duration": {},
+    
+    "minutes": "{count} dakika",
+    "@minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "retry": "Tekrar Dene",
+    "@retry": {},
+    
+    "unnamed_exercise": "İsimsiz Egzersiz",
+    "@unnamed_exercise": {},
+    
+    "exercises": "Egzersizler",
+    "@exercises": {},
+    
+    "add": "Ekle",
+    "@add": {},
+    
+    "search_exercises": "Egzersiz ara...",
+    "@search_exercises": {},
+    
+    "no_exercises_yet": "Henüz egzersiz yok",
+    "@no_exercises_yet": {},
+    
+    "add_first_exercise": "İlk egzersizini ekle",
+    "@add_first_exercise": {},
+    
+    "equipment_title": "Ekipman",
+    "@equipment_title": {},
+    
+    "sets_title": "Setler",
+    "@sets_title": {},
+    
+    "instructions_title": "Talimatlar",
+    "@instructions_title": {},
+    
+    "used_times": "{count} kez kullanıldı",
+    "@used_times": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "failed_update_bookmark": "Favori güncellenemedi",
+    "@failed_update_bookmark": {},
+    
+    "exercise_videos": "Egzersiz Videoları",
+    "@exercise_videos": {},
+    
+    "search_videos": "Video ara...",
+    "@search_videos": {},
+    
+    "no_videos_found": "Video bulunamadı",
+    "@no_videos_found": {},
+    
+    "no_videos_match": "Aramanızla eşleşen video yok",
+    "@no_videos_match": {},
+    
+    "failed_fetch_videos": "Videolar yüklenirken hata oluştu: {error}",
+    "@failed_fetch_videos": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "join_message": "CoachTrack'e katıl!\n\nKatılmak için buraya tıkla:\n{link}\n\nUygulama henüz yüklü değil mi? Buradan indir:\nAndroid: {androidLink}\niOS: {iosLink}",
+    "@join_message": {
+        "placeholders": {
+            "link": {
+                "type": "String"
+            },
+            "androidLink": {
+                "type": "String"
+            },
+            "iosLink": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "meal_used_times": "{count} kez kullanıldı",
+    "@meal_used_times": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "recurring_weeks": "Tekrar Eden Hafta Sayısı",
+    "@recurring_weeks": {},
+    
+    "session_scheduled": "Seans başarıyla planlandı!",
+    "@session_scheduled": {},
+    
+    "success": "Başarılı",
+    "@success": {},
+    
+    "sessions": "Seanslar",
+    "@sessions": {},
+    
+    "no_sessions_scheduled": "Planlanmış seans yok",
+    "@no_sessions_scheduled": {},
+    
+    "participants": "katılımcı",
+    "@participants": {},
+    
+    "more": "daha",
+    "@more": {},
+    
+    "todays_sessions": "Bugünün Seansları",
+    "@todays_sessions": {},
+    
+    "no_sessions_today": "Bugün için planlanmış seans yok",
+    "@no_sessions_today": {},
+    
+    "sessions_appear_here": "Bugüne ait tüm seansların burada görünecek",
+    "@sessions_appear_here": {},
+
+    "unknown": "Bilinmiyor",
+    "@unknown": {},
+
+    "generate_invite_link": "Davet Linki Oluştur",
+    "@generate_invite_link": {},
+
+    "share_invite_link": "Davet Linkini Paylaş",
+    "@share_invite_link": {},
+
+    "generate_link_description": "{type} için davet linki oluşturmak için buraya tıkla",
+    "@generate_link_description": {
+        "placeholders": {
+            "type": {
+                "type": "String",
+                "example": "Müşteri"
+            }
+        }
+    },
+    "app_link_label": "Uygulama Linki:",
+    "@app_link_label": {},
+    "web_link_label": "Web Linki:",
+    "@web_link_label": {},
+    "generate_link": "Link Oluştur",
+    "@generate_link": {},
+    "user_data_not_available": "Kullanıcı verileri mevcut değil",
+    "@user_data_not_available": {},
+    "continue_button": "Devam Et",
+    "@continue_button": {},
+    "complete_button": "Tamamla",
+    "@complete_button": {},
+    "basic_profile": "Temel Profil",
+    "@basic_profile": {},
+    "enter_full_name": "Tam adınızı girin",
+    "@enter_full_name": {},
+    "enter_email": "E-postanızı girin",
+    "@enter_email": {},
+    "enter_phone": "Telefon numaranızı girin",
+    "@enter_phone": {},
+    "enter_location": "Şehir, İlçe, Ülke",
+    "@enter_location": {},
+    "professional_experience": "Profesyonel Deneyim",
+    "@professional_experience": {},
+    "how_can_clients_reach": "Danışanlarınıza nasıl ulaşılabilir?",
+    "@how_can_clients_reach": {},
+    "education_certifications": "Eğitim & Sertifikalar",
+    "@education_certifications": {},
+    "added_education_certifications": "Eklenen Eğitim & Sertifikalar",
+    "@added_education_certifications": {},
+    "how_can_clients_reach_subtitle": "Danışanlarınıza nasıl ulaşılabilir?",
+    "@how_can_clients_reach_subtitle": {},
+    "tell_about_yourself_subtitle": "Kendinizi tanımlayın",
+    "@tell_about_yourself_subtitle": {},
+    "profile_photo_required": "Profil fotoğrafı gereklidir",
+    "@profile_photo_required": {},
+    "select_photo": "Fotoğraf Seç",
+    "@select_photo": {},
+    "education_category_required": "Eğitim kategorisi gereklidir",
+    "@education_category_required": {},
+    "education_item_required": "Eğitim öğesi gereklidir",
+    "@education_item_required": {},
+    "job_title_required": "İş unvanı gereklidir",
+    "@job_title_required": {},
+    "organization_required": "Organizasyon gereklidir",
+    "@organization_required": {},
+    "start_date_required": "Başlangıç tarihi gereklidir",
+    "@start_date_required": {},
+    "specialization_required": "En az bir uzmanlık gereklidir",
+    "@specialization_required": {},
+    "availability_required": "En az bir müsaitlik slotu gereklidir",
+    "@availability_required": {},
+    "set_up_your_business_information": "İş bilgilerinizi ayarlayın",
+    "@set_up_your_business_information": {},
+    "package_rates": "Paket fiyatları",
+    "@package_rates": {},
+    "hourly_rate": "Saatlik oran",
+    "@hourly_rate": {},
+    "your_standard_hourly_rate": "Standart saatlik oranınız",
+    "@your_standard_hourly_rate": {},
+    "describe_your_package_options_and_rates": "Paket seçeneklerinizi ve fiyatlarını açıklayın",
+    "@describe_your_package_options_and_rates": {},
+    "business_profile": "İş profili",
+    "@business_profile": {},
+    "package_name": "Paket Adı",
+    "@package_name": {},
+    "package_description": "Paket Açıklaması",
+    "@package_description": {},
+    "package_rate": "Paket Oranı",
+    "@package_rate": {},
+    "package_duration": "Paket Süresi",
+    "@package_duration": {},
+    "enter_your_email": "E-postanızı girin",
+    "@enter_your_email": {},
+    "enter_your_phone": "Telefon numaranızı girin",
+    "@enter_your_phone": {},
+    "enter_your_location": "Konumunuzu girin",
+    "@enter_your_location": {},
+    "enter_your_full_name": "Tam adınızı girin",
+    "@enter_your_full_name": {},
+    "profile_background_photo": "Arka plan fotoğrafı",
+    "@profile_background_photo": {},
+    "save_button": "Kaydet",
+    "@save_button": {},
+    "edit_background_photo": "Arka plan fotoğrafını düzenle",
+    "@edit_background_photo": {},
+    "remove_background_photo": "Arka plan fotoğrafını kaldır",
+    "@remove_background_photo": {},
+    "years": "yıl",
+    "@years": {},
+    "areas": "alanlar",
+    "@areas": {},
+    "positions": "pozisyonlar",
+    "@positions": {},
+    "certificates": "sertifikalar",
+    "@certificates": {},
+    "experience_title": "Deneyim",
+    "@experience_title": {},
+    "work_history_title": "İş geçmişi",
+    "@work_history_title": {},
+    "education_title": "Eğitim",
+    "@education_title": {},
+    "not_available": "Mevcut değil",
+    "@not_available": {},
+    "failed_save_image": "Resim kaydedilemedi",
+    "@failed_save_image": {},
+    "settings": "Ayarlar",
+    "@settings": {},
+    "account_section": "Hesap",
+    "@account_section": {},
+    "security_section": "Güvenlik",
+    "@security_section": {},
+    "business_section": "İş",
+    "@business_section": {},
+    "notifications_section": "Bildirimler",
+    "@notifications_section": {},
+    "app_settings_section": "Uygulama Ayarları",
+    "@app_settings_section": {},
+    "support_section": "Destek",
+    "@support_section": {},
+    "about_us_section": "Hakkımızda",
+    "@about_us_section": {},
+    "sign_out_section": "Çıkış Yap",
+    "@sign_out_section": {},
+    "danger_zone_section": "Riskli Bölge",
+    "@danger_zone_section": {},
+    "specializations_subtitle": "Uzmanlıklarınızı ayarlayın",
+    "@specializations_subtitle": {},
+    "certifications_subtitle": "Profesyonel sertifikalarınızı yönetin",
+    "@certifications_subtitle": {},
+    "experience_subtitle": "Müsaitliklerinizi ayarlayın",
+    "@experience_subtitle": {},
+    "password_subtitle": "Şifrenizi değiştirin",
+    "@password_subtitle": {},
+    "working_hours_subtitle": "Varsayılan süre, aralık süresi",
+    "@working_hours_subtitle": {},
+    "pricing_subtitle": "Oranlarınızı ve paketlerinizi ayarlayın",
+    "@pricing_subtitle": {},
+    "payment_settings_subtitle": "Müşteri sözleşmelerini yönetin",
+    "@payment_settings_subtitle": {},
+    "push_notifications_subtitle": "Seans hatırlatmaları, müşteri mesajları",
+    "@push_notifications_subtitle": {},
+    "email_notifications_subtitle": "Haftalık raporlar, müşteri güncellemeleri",
+    "@email_notifications_subtitle": {},
+    "language_subtitle": "Uygulama dilini değiştirin",
+    "@language_subtitle": {},
+    "unit_preferences_subtitle": "Görüntüle/Gizle ölçümler",
+    "@unit_preferences_subtitle": {},
+    "logout_failed": "Çıkış Yapılamadı",
+    "@logout_failed": {},
+    "pricing_title": "Fiyatlandırma",
+    "@pricing_title": {},
+    "push_notifications_title": "Push Bildirimleri",
+    "@push_notifications_title": {},
+    "email_notifications_title": "E-posta Bildirimleri",
+    "@email_notifications_title": {},
+    "unit_preferences_title": "Ölçü Birimleri",
+    "@unit_preferences_title": {},
+    "dark_mode_title": "Koyu Mod",
+    "@dark_mode_title": {},
+    "help_center_title": "Yardım Merkezi",
+    "@help_center_title": {},
+    "privacy_policy_title": "Gizlilik Politikası",
+    "@privacy_policy_title": {},
+    "terms_of_service_title": "Hizmet Şartları",
+    "@terms_of_service_title": {},
+    "feedback_title": "Geri Bildirim",
+    "@feedback_title": {},
+    "faqs_title": "SSS",
+    "@faqs_title": {},
+    "contact_us_title": "Bizimle İletişime Geçin",
+    "@contact_us_title": {},
+    "sign_out_title": "Çıkış Yap",
+    "@sign_out_title": {},
+    "delete_account_title": "Hesabımı Sil",
+    "@delete_account_title": {},
+    "my_schedule": "Programım",
+    "@my_schedule": {},
+    "add_slot": "Slot Ekle",
+    "@add_slot": {},
+    "no_slots": "Slot yok",
+    "@no_slots": {},
+    "group_session_indicator": "G",
+    "@group_session_indicator": {},
+    "initial_session_indicator": "I",
+    "@initial_session_indicator": {},
+    "follow_up_session_indicator": "F",
+    "@follow_up_session_indicator": {},
+    "week_date_range": "{startDate} - {endDate}",
+    "@week_date_range": {
+        "placeholders": {
+            "startDate": {
+                "type": "String",
+                "example": "Mar 1"
+            },
+            "endDate": {
+                "type": "String",
+                "example": "Mar 7"
+            }
+        }
+    },
+    "overview_tab": "Genel Bakış",
+    "@overview_tab": {},
+    "schedule_tab": "Program",
+    "@schedule_tab": {},
+    "additional_notes_tab": "Ek Notlar",
+    "@additional_notes_tab": {},
+    "todays_focus": "BUGÜNÜN FOKÜSU",
+    "@todays_focus": {},
+    "day_label": "Gün",
+    "@day_label": {},
+    "no_notes_available_message": "Not mevcut",
+    "@no_notes_available_message": {},
+    "template_label": "Şablon",
+    "@template_label": {},
+    "type_label": "Tip",
+    "@type_label": {},
+    "warm_up_label": "Hazırlık",
+    "@warm_up_label": {},
+    "cool_down_label": "Soğuma",
+    "@cool_down_label": {},
+    "progression_notes_label": "İlerleme Notları",
+    "@progression_notes_label": {},
+    "deload_week_label": "Deload Haftası",
+    "@deload_week_label": {},
+    "additional_notes_label": "Ek Notlar",
+    "@additional_notes_label": {},
+    "templates_title": "Şablonlar",
+    "@templates_title": {},
+    "create_template": "Oluştur",
+    "@create_template": {},
+    "search_templates": "Şablonları arayın...",
+    "@search_templates": {},
+    "no_templates": "Henüz şablon yok",
+    "@no_templates": {},
+    "goal_section": "Hedef",
+    "@goal_section": {},
+    "duration_section": "Süre",
+    "@duration_section": {},
+    "difficulty_section": "Zorluk",
+    "@difficulty_section": {},
+    "switching_to_client": "Müşteri profiline geçiliyor...",
+    "@switching_to_client": {},
+    
+    "pro_member": "Pro Üye",
+    "@pro_member": {},
+    "switch_to_client": "Müşteriye geç",
+    "@switch_to_client": {},
+    "upcoming_sessions_title": "Gelecek Seanslar",
+    "@upcoming_sessions_title": {},
+    "no_upcoming_sessions_empty": "Gelecek seans yok",
+    "@no_upcoming_sessions_empty": {},
+    "group_session_count": "Grup Seansı ({count})",
+    "@group_session_count": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+
+    "group_schedule_session_type": "Grup",
+    "@group_schedule_session_type": {},
+
+    "select_time": "Zaman Seç",
+    "@select_time": {},
+
+    "requests_to_join": "Katılım İstekleri",
+    "@requests_to_join": {},
+
+    "session_requests": "Seans İstekleri",
+    "@session_requests": {},
+
+    "group_participants": "Grup Katılımcıları",
+    "@group_participants": {},
+    
+    "birthday_consent_title": "Doğum Günü",
+    "@birthday_consent_title": {},
+    
+    "birthday_consent_desc": "Eğitmenin doğum gününü görmesine izin ver",
+    "@birthday_consent_desc": {},
+    
+    "email_consent_title": "E-posta",
+    "@email_consent_title": {},
+    
+    "email_consent_desc": "Eğitmenin e-posta adresini görmesine izin ver",
+    "@email_consent_desc": {},
+    
+    "phone_consent_title": "Telefon",
+    "@phone_consent_title": {},
+    
+    "phone_consent_desc": "Eğitmenin telefon numarasını görmesine izin ver",
+    "@phone_consent_desc": {},
+    
+    "location_consent_title": "Konum",
+    "@location_consent_title": {},
+    
+    "location_consent_desc": "Eğitmenin konumunu görmesine izin ver",
+    "@location_consent_desc": {},
+    
+    "social_media_consent_title": "Sosyal Medya",
+    "@social_media_consent_title": {},
+    
+    "social_media_consent_desc": "Eğitmenin sosyal medya hesaplarını görmesine izin ver",
+    "@social_media_consent_desc": {},
+    
+    "measurements_consent_title": "Ölçümler",
+    "@measurements_consent_title": {},
+    
+    "measurements_consent_desc": "Eğitmenin ölçümlerini görmesine izin ver",
+    "@measurements_consent_desc": {},
+    
+    "progress_photos_consent_title": "İlerleme Fotoğrafları",
+    "@progress_photos_consent_title": {},
+    
+    "progress_photos_consent_desc": "Eğitmenin ilerleme fotoğraflarını görmesine izin ver",
+    "@progress_photos_consent_desc": {},
+    
+    "generate_invitation_link": "Davet Linki Oluştur",
+    "@generate_invitation_link": {},
+    
+    "or_add_manually": "veya manuel ekle",
+    "@or_add_manually": {},
+    
+    "share_invitation": "Daveti Paylaş",
+    "@share_invitation": {},
+    
+    "share_link_message": "Linki paylaş",
+    "@share_link_message": {},
+    
+    "whatsapp": "WhatsApp",
+    "@whatsapp": {},
+    
+    "share": "Paylaş",
+    "@share": {},
+    
+    "meal_schedule": "Öğün Programı",
+    "@meal_schedule": {},
+    
+    "plan_overview": "Plan Özeti",
+    "@plan_overview": {},
+    
+    "no_plan_details": "Plan detayı yok",
+    "@no_plan_details": {},
+    
+    "no_meals_planned": "Planlanan öğün yok",
+    "@no_meals_planned": {},
+    
+    "supplements": "Suplementler",
+    "@supplements": {},
+    
+    "shopping_list": "Alışveriş Listesi",
+    "@shopping_list": {},
+    
+    "use": "Kullan",
+    "@use": {},
+    
+    "macros_distribution": "Makro Dağılımı",
+    "@macros_distribution": {},
+    
+    "meals": "Öğünler",
+    "@meals": {},
+    
+    "search_meals": "Öğün ara...",
+    "@search_meals": {},
+    
+    "no_meals_yet": "Henüz öğün yok",
+    "@no_meals_yet": {},
+    
+    "add_first_meal": "İlk öğünü ekle",
+    "@add_first_meal": {},
+    
+    "calories": "Kalori",
+    "@calories": {},
+    
+    "protein": "Protein",
+    "@protein": {},
+    
+    "carbs": "Karbonhidrat",
+    "@carbs": {},
+    
+    "fats": "Yağ",
+    "@fats": {},
+    
+    "meal_templates": "Öğün Şablonları",
+    "@meal_templates": {},
+    
+    "search_meal_templates": "Öğün şablonu ara...",
+    "@search_meal_templates": {},
+    
+    "create": "Oluştur",
+    "@create": {},
+    
+    "no_meal_templates": "Öğün şablonu yok",
+    "@no_meal_templates": {},
+    
+    "create_first_template": "İlk şablonu oluştur",
+    "@create_first_template": {},
+    
+    "unnamed_template": "İsimsiz Şablon",
+    "@unnamed_template": {},
+    
+    "type": "Tip",
+    "@type": {},
+    
+    "resources": "Kaynaklar",
+    "@resources": {},
+    
+    "search_resources": "Kaynak ara...",
+    "@search_resources": {},
+    
+    "templates_section": "Şablonlar",
+    "@templates_section": {},
+    
+    "database_section": "Veritabanı",
+    "@database_section": {},
+    
+    "exercise_library_section": "Egzersiz Kütüphanesi",
+    "@exercise_library_section": {},
+    
+    "workout_title": "Egzersiz",
+    "@workout_title": {},
+    
+    "meal_title": "Öğün",
+    "@meal_title": {},
+    
+    "exercises_title": "Egzersiz",
+    "@exercises_title": {},
+    
+    "meals_title": "Öğünler",
+    "@meals_title": {},
+    
+    "videos_title": "Videolar",
+    "@videos_title": {},
+    
+    "images_title": "Görseller",
+    "@images_title": {},
+
+    "age": "Yaş",
+    "@age": {},
+
+
+    "serving_size_meal_card": "Ölçü",
+    "@serving_size_meal_card": {},
+    "preparation": "Hazırlık",
+    "@preparation": {},
+
+    "created_by_trainer": "{trainerName} tarafından oluşturuldu",
+    "@created_by_trainer": {
+        "placeholders": {
+            "trainerName": {
+                "type": "String"
+            }
+        }
+    },
+
+
+    "cancel_request": "İstek İptal Et",
+    "@cancel_request": {},
+
+    "leave_group": "Gruptan Ayrıl",
+    "@leave_group": {},
+
+    "create_group_chat": "Grup Sohbeti Oluştur",
+    "@create_group_chat": {},
+
+    "group_name": "Grup Adı",
+    "@group_name": {},
+
+    "no_participants_yet": "Henüz katılımcı yok",
+    "@no_participants_yet": {},
+
+    
+
+
+
+
+
+    "exercise_images_title": "Görseller",
+    "@exercise_images_title": {},
+
+
+
+    
+    "home": "Ev",
+    "@home": {},
+
+    "add_new_client_button": "Müşteri\nEkle",
+    "@add_new_client_button": {},
+
+    "library": "Kaynak",
+    "@library": {},
+
+    "status_current": "GÜNCEL",
+    "@status_current": {},
+    "status_active": "AKTİF",
+    "@status_active": {},
+    "status_confirmed": "ONAYLANDI",
+    "@status_confirmed": {},
+    "status_pending": "BEKLEMEDE",
+    "@status_pending": {},
+    "status_template": "ŞABLON",
+    "@status_template": {},
+    "status_completed": "TAMAMLANDI",
+    "@status_completed": {},
+    "status_cancelled": "İPTAL EDİLDİ",
+    "@status_cancelled": {},
+    "status_requested": "TALEP EDİLDİ",
+    "@status_requested": {},
+    "status_created": "OLUŞTURULDU",
+    "@status_created": {},
+    "status_available": "MÜSAİT",
+    "@status_available": {},
+
+    "health_goals": "Sağlık Hedefleri",
+    "@health_goals": {},
+
+
+    "what_achieve": "Neyi başarmak istiyorsunuz?",
+    "@what_achieve": {},
+
+    "any_medical_conditions": "Herhangi bir tıbbi durum veya sağlık endişesi?",
+    "@any_medical_conditions": {},
+
+
+    "past_current_injuries": "Geçmiş veya mevcut yaralanmalar, ameliyatlar",
+    "@past_current_injuries": {},
+
+
+    "previous_exercise": "Önceki egzersiz deneyimi",
+    "@previous_exercise": {},
+
+
+    "special_diets": "Özel diyetler, yeme düzenleri, alerjiler",
+    "@special_diets": {},
+
+
+    "preferred_training": "Tercih edilen antrenman günleri ve saatleri",
+    "@preferred_training": {},
+
+
+    "preferred_exercises": "Tercih edilen egzersiz türleri",
+    "@preferred_exercises": {},
+
+    "e_g_weight_loss_muscle_gain_maintenance": "örnek: Kilo kaybı, kas kazancı, koruma",
+    "@e_g_weight_loss_muscle_gain_maintenance": {},
+
+    "e_g_4_weeks": "örnek: 4 hafta",
+    "@e_g_4_weeks": {},
+
+    "e_g_2000_kcal": "örnek: 2000 kcal",
+    "@e_g_2000_kcal": {},
+
+    "e_g_mediterranean_keto_vegan": "örnek: Akdeniz, Keto, Vegan",
+    "@e_g_mediterranean_keto_vegan": {},
+
+    "e_g_allergies_intolerances_preferences": "örnek: Allerjiler, intoleranslar, tercihler",
+    "@e_g_allergies_intolerances_preferences": {},
+
+
+    "workout_type": "Antrenman Tipi",
+    "@workout_type": {},
+
+    "e_g_strength_hiit_cardio": "örnek: Güç Antrenmanı, HIIT, Kardiyoloji",
+    "@e_g_strength_hiit_cardio": {},
+    
+    "equipment_needed": "Ekipman Gereksinimi",
+    "@equipment_needed": {},
+
+    "select_or_enter_equipment_needed": "Seç veya girilen ekipman gereksinimi",
+    "@select_or_enter_equipment_needed": {},
+
+    "e_g_6_week_strength_plan": "örnek: 6 haftalık güç antrenmanı",
+    "@e_g_6_week_strength_plan": {},
+
+    "session_category": "Seans Kategorisi",
+    "@session_category": {},
+
+    "schedule_session_title": "Seans Planla",
+    "@schedule_session_title": {},
+
+    "type_client_name": "Müşteri adını giriniz",
+    "@type_client_name": {},
+
+    "select_clients": "Müşteriler seç",
+    "@select_clients": {},
+
+    "select_clients_for_group_session": "Grup seans için müşteriler seç",
+    "@select_clients_for_group_session": {},
+
+    "clients_selected": "müşteri seçildi",
+    "@clients_selected": {},
+
+    "or_add_client_manually": "veya manuel olarak müşteri ekle",
+    "@or_add_client_manually": {},
+
+    "create_available_time_slots_description": "Müşterilerin uygulama aracılığıyla rezerve edebileceği mevcut zaman dilimlerini oluşturun.",
+    "@create_available_time_slots_description": {},
+
+    "session_type": "Seans Tipi",
+    "@session_type": {},
+
+    "follow_up": "Takip Seansı",
+    "@follow_up": {},
+
+    "initial": "İlk Seans",
+    "@initial": {},
+
+    "session_mode": "Seans Modu",
+    "@session_mode": {},
+
+    "add_photo": "Fotoğraf Ekle",
+    "@add_photo": {},
+
+    "select_a_client": "Bir müşteri seçin",
+    "@select_a_client": {},
+
+    "no_messages_found": "Mesaj bulunamadı",
+    "@no_messages_found": {},
+
+    "group_chat": "Grup Sohbeti",
+    "@group_chat": {},
+
+    "workout_plan_title": "Antrenman Planları",
+    "@workout_plan_title": {},
+
+    "meal_plan_title": "Beslenme Planları",
+    "@meal_plan_title": {},
+
+    "exercises_title_resources": "Egzersizler",
+    "@exercises_title_resources": {},
+    
+    
+
+    "one_x_training": "1:X Antrenmanı",
+    "@one_x_training": {},
+
+    "assessment": "Değerlendirme",
+    "@assessment": {},
+
+    "progress_review": "İlerleme Değerlendirmesi",
+    "@progress_review": {},
+
+    "consultation": "Danışma",
+    "@consultation": {},
+
+    "other_category": "Diğer",
+    "@other_category": {},
+
+    "any": "Herhangi bir",
+    "@any": {},
+
+    "one_one_training": "1:1 Antrenman",
+    "@one_one_training": {},
+
+    "date": "Tarih",
+    "@date": {},
+
+    "time": "Zaman",
+    "@time": {},
+
+    "mode": "Mod",
+    "@mode": {},
+
+    "are_you_sure_you_want_to_cancel_this_session": "Bu seansı iptal etmek istediğinize emin misiniz?",
+    "@are_you_sure_you_want_to_cancel_this_session": {},
+
+
+    "failed_to_cancel_session_please_try_again": "Seans iptal edilemedi. Lütfen tekrar deneyiniz.",
+    "@failed_to_cancel_session_please_try_again": {},
+
+    "session_cancelled_successfully": "Seans başarıyla iptal edildi",
+    "@session_cancelled_successfully": {},
+
+    "strength_training_program": "Güç Antrenmanı Programı",
+    "@strength_training_program": {},
+
+    "weight_loss_program": "Kilo Verme Programı",
+    "@weight_loss_program": {},
+
+    "muscle_building_program": "Kas Kütle Programı",
+    "@muscle_building_program": {},
+
+    "hiit_program": "HIIT Programı",
+    "@hiit_program": {},
+
+    "endurance_training_program": "Dayanıklılık Antrenmanı Programı",
+    "@endurance_training_program": {},
+
+    "functional_fitness_program": "İşlevsel Fitness Programı",
+    "@functional_fitness_program": {},
+
+    "body_transformation_program": "Vücut Dönüşüm Programı",
+    "@body_transformation_program": {},
+
+    "athletic_performance_program": "Spor Performans Programı",
+    "@athletic_performance_program": {},
+
+    "rehabilitation_program": "Rehabilitasyon Programı",
+    "@rehabilitation_program": {},
+
+    "mobility_flexibility_program": "Mobility & Flexibility Programı",
+    "@mobility_flexibility_program": {},
+
+
+
+    "build_muscle_mass": "Kas Kütle",
+    "@build_muscle_mass": {},
+
+    "lose_body_fat": "Kilo Verme",
+    "@lose_body_fat": {},
+
+    "increase_strength": "Güç Artırma",
+    "@increase_strength": {},
+
+    "improve_endurance": "Dayanıklılık Artırma",
+    "@improve_endurance": {},
+
+    "enhance_flexibility": "Esneklik Artırma",
+    "@enhance_flexibility": {},
+
+    "athletic_performance": "Spor Performans",
+    "@athletic_performance": {},
+
+    "general_fitness": "Genel Fitness",
+    "@general_fitness": {},
+
+    "body_recomposition": "Vücut Dönüşümü",
+    "@body_recomposition": {},
+
+    "injury_recovery": "Yaralanma İyileştirme",
+    "@injury_recovery": {},
+
+    "sports_specific_training": "Spor Özel Antrenman",
+    "@sports_specific_training": {},
+
+    "edit": "Düzenle",
+    "@edit": {},
+
+    "minutes_session_details": "dakika",
+    "@minutes_session_details": {},
+
+    "status_booked": "REZERVE",
+    "@status_booked": {},
+
+    "status_manual": "MANUEL",
+    "@status_manual": {},
+
+    "group_message": "GRUP MESAJI",
+    "@group_message": {},
+
+    "message": "MESAJ",
+    "@message": {},
+
+    "status_withdrawn": "İPTAL EDİLDİ",
+    "@status_withdrawn": {},
+
+    "status_recurring": "REZERVE",
+    "@status_recurring": {},
+    
+    "status_rejected": "REDEDİLDİ",
+    "@status_rejected": {},
+
+
+
+
+    "four_weeks": "4 Hafta",
+    "@four_weeks": {},
+
+    "six_weeks": "6 Hafta",
+    "@six_weeks": {},
+
+    "eight_weeks": "8 Hafta",
+    "@eight_weeks": {},
+
+    "twelve_weeks": "12 Hafta",
+    "@twelve_weeks": {},
+
+    "sixteen_weeks": "16 Hafta",
+    "@sixteen_weeks": {},
+
+    "three_months": "3 Ay",
+    "@three_months": {},
+
+    "six_months": "6 Ay",
+    "@six_months": {},
+
+    "two_sessions_per_week": "Haftada 2 Seans",
+    "@two_sessions_per_week": {},
+
+    "three_sessions_per_week": "Haftada 3 Seans",
+    "@three_sessions_per_week": {},
+
+    "four_sessions_per_week": "Haftada 4 Seans",
+    "@four_sessions_per_week": {},
+
+    "five_sessions_per_week": "Haftada 5 Seans",
+    "@five_sessions_per_week": {},
+    
+
+
+    "upper_body": "Üst Vücut",
+    "@upper_body": {},
+
+    "lower_body": "Alt Vücut",
+    "@lower_body": {},
+
+    "full_body": "Full Body",
+    "@full_body": {},
+
+    "push_day": "İtiş Günü",
+    "@push_day": {},
+
+    "pull_day": "Çekiş Günü",
+    "@pull_day": {},
+
+    "legs_day": "Bacak",
+    "@legs_day": {},
+
+    "core_abs": "Core & Abs",
+    "@core_abs": {},
+
+    "back_shoulders": "Sırt & Omuz",
+    "@back_shoulders": {},
+
+    "chest_triceps": "Göğüs & Triceps",
+    "@chest_triceps": {},
+
+    "back_biceps": "Sırt & Biceps",
+    "@back_biceps": {},
+
+    "shoulders_arms": "Omuz & Kol",
+    "@shoulders_arms": {},
+
+    "cardio_hiit": "Cardio & HIIT",
+    "@cardio_hiit": {},
+
+
+
+    "strength_training_program": "Güç Antrenmanı Programı",
+    "@strength_training_program": {},
+
+    "hypertrophy_training": "Hipertrifikasyon Antrenmanı",
+    "@hypertrophy_training": {},
+
+    "circuit_training": "Circuit Antrenmanı",
+    "@circuit_training": {},
+
+    "hiit": "HIIT Antrenmanı",
+    "@hiit": {},
+
+    "endurance_training": "Dayanıklılık Antrenmanı",
+    "@endurance_training": {},
+
+    "crossfit_style": "CrossFit Stili",
+    "@crossfit_style": {},
+
+    "bodyweight_training": "Vücut Ağırlığı Antrenmanı",
+    "@bodyweight_training": {},
+
+    "powerlifting": "Kuvvet Antrenmanı",
+    "@powerlifting": {},
+
+    "olympic_weightlifting": "Olimpik Ağırlık Kaldırma",
+    "@olympic_weightlifting": {},
+
+    "functional_training": "İşlevsel Antrenman",
+    "@functional_training": {},
+
+    "mobility_work": "Mobility Çalışması",
+    "@mobility_work": {},
+
+    "mixed_training_styles": "Karışık Antrenman Stilleri",
+    "@mixed_training_styles": {},
+
+
+
+
+    "bodyweight": "Vücut Ağırlığı",
+    "@bodyweight": {},
+
+    "barbell": "Barbell",
+    "@barbell": {},
+
+    "dumbbell": "Dumbbell",
+    "@dumbbell": {},
+
+    "kettlebell": "Kettlebell",
+    "@kettlebell": {},
+
+    "machine": "Makine",
+    "@machine": {},
+
+    "cable": "Kablo",
+    "@cable": {},
+
+    "resistance_band": "Kuvvet Bandı",
+    "@resistance_band": {},
+
+    "medicine_ball": "Pilates Topu",
+    "@medicine_ball": {},
+
+    "trx_suspension": "TRX Süspansiyon",
+    "@trx_suspension": {},
+
+    
+
+    "cardio_phase": "Cardio Fazı",
+    "@cardio_phase": {},
+
+    "mobility_phase": "Mobility Fazı",
+    "@mobility_phase": {},
+
+    "recovery_phase": "İyileşme Fazı",
+    "@recovery_phase": {},
+
+    "hiit_phase": "HIIT Fazı",
+    "@hiit_phase": {},
+
+    "core_work_phase": "Bel Bölgesi Fazı",
+    "@core_work_phase": {},
+
+    "stretching_phase": "Stretching Fazı",
+    "@stretching_phase": {},
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+
+
+    "health": "Sağlık",
+    "@health": {},
+
+    "lifestyle": "Yaşam Tarzı",
+    "@lifestyle": {},
+
+    "set_weight_goal": "Kilo Hedefi Belirle",
+    "@set_weight_goal": {},
+
+    "current_weight": "Mevcut Kilo",
+    "@current_weight": {},
+
+    "loss": "Vermek",
+    "@loss": {},
+
+    "weight_to": "Hedef",
+    "@weight_to": {},
+
+    "target_weight": "Hedef Kilo",
+    "@target_weight": {},
+
+    "weight_goal_set_success": "Kilo hedefi başarıyla belirlendi!",
+    "@weight_goal_set_success": {},
+
+    "weight_goal_set_error": "Kilo hedefi belirlenirken hata oluştu. Lütfen tekrar deneyin.",
+    "@weight_goal_set_error": {},
+
+    "gain": "Almak",
+    "@gain": {},
+
+    "copied_to_clipboard": "Kopyalandı",
+    "@copied_to_clipboard": {},
+
+    "follow_us": "Bizi Takip Edin",
+    "@follow_us": {},
+
+    "weight_loss_validation_error": "Kayıp miktarı mevcut kilodan büyük veya eşit olamaz",
+    "@weight_loss_validation_error": {},
+
+    "new_goal": "Yeni Hedef",
+    "@new_goal": {},
+
+    "log_weight": "Kilo Kayıt Et",
+    "@log_weight": {},
+
+    "weight_updated_successfully": "Kilo başarıyla güncellendi",
+    "@weight_updated_successfully": {},
+
+    "weight_update_failed": "Kilo güncellenirken hata oluştu",
+    "@weight_update_failed": {},
+
+    "start_weight": "Başlangıç Kilo",
+    "@start_weight": {},
+
+    "active_clients_web": "Aktif Müşteriler",
+    "@active_clients_web": {},
+
+    "available_slots_web": "Mevcut Slotlar",
+    "@available_slots_web": {},
+    
+
+    "clients_currently_training_with_you": "Sizinle son zamanlarda antrenman yapan müşteriler",
+    "@clients_currently_training_with_you": {},
+
+    "personalized_nutrition_plans_in_progress": "Özel beslenme planları devam ediyor",
+    "@personalized_nutrition_plans_in_progress": {},
+
+    "training_programs_being_followed": "Takip edilen antrenman programları",
+    "@training_programs_being_followed": {},
+
+    "slots_available_for_booking": "Mevcut Slotlar için rezerve edilebilir",
+    "@slots_available_for_booking": {},
+
+    "weight_loss_goal": "Kilo Verme Hedefi",
+    "@weight_loss_goal": {},
+
+    "weight_gain_goal": "Kilo Alma Hedefi",
+    "@weight_gain_goal": {},
+
+    "no_weight_goal_set": "Kilo hedefi belirlenmedi",
+    "@no_weight_goal_set": {},
+
+    "monday_first_letter": "P",
+    "@monday_first_letter": {},
+
+    "tuesday_first_letter": "S",
+    "@tuesday_first_letter": {},
+
+    "wednesday_first_letter": "Ç",
+    "@wednesday_first_letter": {},
+
+    "thursday_first_letter": "P",
+    "@thursday_first_letter": {},
+
+    "friday_first_letter": "C",
+    "@friday_first_letter": {},
+
+    "saturday_first_letter": "C",
+    "@saturday_first_letter": {},
+
+    "sunday_first_letter": "P",
+    "@sunday_first_letter": {},
+
+    "add_meal_type": "{mealType} Ekle",
+    "@add_meal_type": {
+        "placeholders": {
+            "mealType": {
+                "type": "String",
+                "example": "Kahvaltı"
+            }
+        }
+    },
+
+    "weight_loss": "Kilo Verme",
+    "@weight_loss": {},
+
+    "muscle_gain": "Kas Kütle",
+    "@muscle_gain": {},
+
+    "improve_strength": "Güç Artırma",
+    "@improve_strength": {},
+
+    "increase_flexibility": "Esneklik Artırma",
+    "@increase_flexibility": {},
+
+    "better_endurance": "Dayanıklılık Artırma",
+    "@better_endurance": {},
+
+
+    "sports_performance": "Spor Performansı",
+    "@sports_performance": {},
+
+
+    "maintain_health": "Sağlık Koruma",
+    "@maintain_health": {},
+
+    "improve_posture": "Postur Artırma",
+    "@improve_posture": {},
+
+    "better_balance": "Daha İyi Denge",
+    "@better_balance": {},
+
+
+    "high_blood_pressure": "Yüksek Tansiyon",
+    "@high_blood_pressure": {},
+
+    "heart_disease": "Kalp Hastalıkları",
+    "@heart_disease": {},
+
+    "diabetes": "Diyabet",
+    "@diabetes": {},
+
+    "asthma": "Astma",
+    "@asthma": {},
+
+    "arthritis": "Artrit",
+    "@arthritis": {},
+
+    "back_problems": "Sırt Hastalıkları",
+    "@back_problems": {},
+
+    "joint_issues": "Bağırsak Hastalıkları",
+    "@joint_issues": {},
+
+    "respiratory_conditions": "Solunum Hastalıkları",
+    "@respiratory_conditions": {},
+
+    "chronic_pain": "Kronik Ağrı",
+    "@chronic_pain": {},
+
+    "anxiety_depression": "Anksiyete/Depresyon",
+    "@anxiety_depression": {},
+
+    "thyroid_conditions": "Tiroid Hastalıkları",
+    "@thyroid_conditions": {},
+
+    "digestive_issues": "İnce Organ Hastalıkları",
+    "@digestive_issues": {},
+
+    "allergies": "Allergiler",
+    "@allergies": {},
+
+    "sleep_disorders": "Uyku Hastalıkları",
+    "@sleep_disorders": {},
+
+    "other_medical_conditions": "Diğer Hastalıklar",
+    "@other_medical_conditions": {},
+
+
+    "acl_surgery": "ACL Cerrahi",
+    "@acl_surgery": {},
+
+    "knee_replacement": "Diz Cerrahi",
+    "@knee_replacement": {},
+
+    "hip_replacement": "Kas Cerrahi",
+    "@hip_replacement": {},
+
+    "shoulder_surgery": "Omuz Cerrahi",
+    "@shoulder_surgery": {},
+
+    "back_surgery": "Sırt Cerrahi",
+    "@back_surgery": {},
+
+    "meniscus_repair": "Menisküs Tamiri",
+    "@meniscus_repair": {},
+
+    "rotator_cuff_injury": "Rotator Cuff Yaralanması",
+    "@rotator_cuff_injury": {},
+
+    "tennis_elbow": "Tenis Elleri",
+    "@tennis_elbow": {},
+
+    "plantar_fasciitis": "Plantar Fasciitis",
+    "@plantar_fasciitis": {},
+
+    "herniated_disc": "Herniasli Dil",
+    "@herniated_disc": {},
+
+    "sprained_ankle": "Kırık Ankle",
+    "@sprained_ankle": {},
+
+    "carpal_tunnel": "Carpal Tünel",
+    "@carpal_tunnel": {},
+
+    "sports_injury": "Spor Yaralanması",
+    "@sports_injury": {},
+
+    "fracture_recovery": "Kırık İyileşmesi",
+    "@fracture_recovery": {},
+
+    "other_injury_surgery": "Diğer Yaralanma/Cerrahi",
+    "@other_injury_surgery": {},
+
+
+
+
+
+
+    "vegetarian": "Vejeteryan",
+    "@vegetarian": {},
+
+    "vegan": "Vegan",
+    "@vegan": {},
+
+    "gluten_free": "Glutensiz",
+    "@gluten_free": {},
+
+    "dairy_free": "Dairy Free",
+    "@dairy_free": {},
+
+    "keto_diet": "Keto Diet",
+    "@keto_diet": {},
+
+    "paleo_diet": "Paleo Diet",
+    "@paleo_diet": {},
+
+    "mediterranean_diet": "Mediterranean Diet",
+    "@mediterranean_diet": {},
+
+    "low_carb": "Düşük Karbonhidrat",
+    "@low_carb": {},
+
+    "high_protein": "Yüksek Protein",
+    "@high_protein": {},
+
+    "food_allergies": "Beslenme Alergileri",
+    "@food_allergies": {},
+
+    "intermittent_fasting": "Kırık Beslenme",
+    "@intermittent_fasting": {},
+
+    "meal_prepping": "Öğün Hazırlığı",
+    "@meal_prepping": {},
+
+    "calorie_tracking": "Kalori Takip",
+    "@calorie_tracking": {},
+
+    "no_dietary_restrictions": "Beslenme Sınırlaması Yok",
+    "@no_dietary_restrictions": {},
+
+    "other_dietary_habits": "Diğer Beslenme Alışkanlıkları",
+    "@other_dietary_habits": {},
+
+
+
+    "weight_training": "Kuvvet Antrenmanı",
+    "@weight_training": {},
+
+    "cardio_running": "Cardio/Koşu",
+    "@cardio_running": {},
+
+    "hiit_workouts": "HIIT Antrenmanları",
+    "@hiit_workouts": {},
+
+    "yoga": "Yoga",
+    "@yoga": {},
+
+    "pilates": "Pilates",
+    "@pilates": {},
+
+    "swimming": "Yüzme",
+    "@swimming": {},
+
+    "cycling": "Bisiklet",
+    "@cycling": {},
+
+    "boxing": "Kickbox",
+    "@boxing": {},
+
+    "martial_arts": "Martial Arts",
+    "@martial_arts": {},
+
+    "group_classes": "Grup Antrenmanları",
+    "@group_classes": {},
+
+    "outdoor_activities": "Outdoor Antrenmanları",
+    "@outdoor_activities": {},
+
+    "bodyweight_exercises": "Vücut Ağırlığı Antrenmanları",
+    "@bodyweight_exercises": {},
+
+    "resistance_bands": "Kuvvet Bandı",
+    "@resistance_bands": {},
+
+    "crossfit_style": "CrossFit Stili",
+    "@crossfit_style": {},
+
+    "other_exercise_types": "Diğer Antrenman Tipleri",
+    "@other_exercise_types": {},
+
+
+    "done": "Tamamlandı",
+    "@done": {},
+
+
+
+    "general": "Genel",
+    "@general": {},
+
+    "weight_loss_coaching": "Kilo Verme Yönetimi",
+    "@weight_loss_coaching": {},
+
+    "strength_training": "Kuvvet Antrenmanı",
+    "@strength_training": {},
+
+    "cardiovascular_endurance": "Kardiyovasküler Dayanıklılık",
+    "@cardiovascular_endurance": {},
+
+    "core_stability_training": "Kas Stabilitesi Antrenmanı",
+    "@core_stability_training": {},
+
+    "functional_fitness_training": "İşlevsel Fitness Antrenmanı",
+    "@functional_fitness_training": {},
+
+    "general_fitness_for_beginners": "Genel Fitness Başlangıç",
+    "@general_fitness_for_beginners": {},
+
+    "body_recomposition": "Beden Yeniden Yapılandırma",
+    "@body_recomposition": {},
+
+    "metabolic_conditioning": "Metabolik Koşullama",
+    "@metabolic_conditioning": {},
+
+    "low_impact_fitness": "Düşük Etki Antrenmanı",
+    "@low_impact_fitness": {},
+
+    "circuit_training": "Devre Antrenmanı",
+    "@circuit_training": {},
+
+    "high_intensity_interval_training": "Yüksek Yoğunluklu Aralık Antrenmanı",
+    "@high_intensity_interval_training": {},
+
+    "crossfit_coaching": "CrossFit Yönetimi",
+    "@crossfit_coaching": {},
+
+    "powerlifting": "Kuvvet Antrenmanı",
+    "@powerlifting": {},
+
+    "olympic_lifting": "Olimpiyat Lifting",
+    "@olympic_lifting": {},
+
+    "strongman_training": "Güç Antrenmanı",
+    "@strongman_training": {},
+
+    "kettlebell_training": "Kettlebell Antrenmanı",
+    "@kettlebell_training": {},
+
+    "suspension_training": "Sabitlilik Antrenmanı",
+    "@suspension_training": {},
+
+    "plyometrics_and_explosive_movements": "Plyometrics ve Patlama Hareketleri",
+    "@plyometrics_and_explosive_movements": {},
+
+    "hybrid_training": "Hidrolik Antrenmanı",
+    "@hybrid_training": {},
+
+    "agility_and_speed_training": "Hız ve Agility Antrenmanı",
+    "@agility_and_speed_training": {},
+
+    "advanced": "Gelişmiş",
+    "@advanced": {},
+
+    "sports": "Spor",
+    "@sports": {},
+
+    "recovery": "İyileşme",
+    "@recovery": {},
+
+    "transformation": "Dönüşüm",
+    "@transformation": {},
+
+    "mind_body": "Zihin & Beden",
+    "@mind_body": {},
+
+    "lifestyle": "Yaşam Tarzı",
+    "@lifestyle": {},
+
+    "diet_and_nutrition": "Beslenme & Beslenme",
+    "@diet_and_nutrition": {},
+
+    "specialty": "Özel",
+    "@specialty": {},
+
+    "technology": "Teknoloji",
+    "@technology": {},
+
+    "sports_specific_conditioning": "Spor Özel Koşullama",
+    "@sports_specific_conditioning": {},
+
+    "marathon_training": "Marathon Antrenmanı",
+    "@marathon_training": {},
+
+    "triathlon_training": "Triathlon Antrenmanı",
+    "@triathlon_training": {},
+
+    "cycling_and_spin_training": "Bisiklet & Spin Antrenmanı",
+    "@cycling_and_spin_training": {},
+
+    "swimming_and_aquatic_training": "Yüzme & Su Antrenmanı",
+    "@swimming_and_aquatic_training": {},
+
+    "golf_fitness": "Golf Antrenmanı",
+    "@golf_fitness": {},
+
+    "tennis_fitness": "Tenis Antrenmanı",
+    "@tennis_fitness": {},
+
+    "soccer_conditioning": "Futbol Antrenmanı",
+    "@soccer_conditioning": {},
+
+    "basketball_training": "Basketbol Antrenmanı",
+    "@basketball_training": {},
+
+    "martial_arts_fitness": "Spor Antrenmanı",
+    "@martial_arts_fitness": {},
+
+    "pre_and_post_natal_fitness": "Doğum Öncesi & Doğumdan Sonraki Antrenman",
+    "@pre_and_post_natal_fitness": {},
+
+    "senior_fitness": "Yaşlı Antrenmanı",
+    "@senior_fitness": {},
+
+    "youth_fitness": "Genç Antrenmanı",
+    "@youth_fitness": {},
+
+    "post_rehabilitation_training": "İyileşme Sonrası Antrenman",
+    "@post_rehabilitation_training": {},
+
+    "joint_pain_management": "Bağırsak Ağrısı Yönetimi",
+    "@joint_pain_management": {},
+
+    "chronic_disease_management": "Kronik Hastalık Yönetimi",
+    "@chronic_disease_management": {},
+
+    "injury_prevention": "Yaralanma Önleme",
+    "@injury_prevention": {},
+
+    "mobility_and_flexibility_training": "Mobility and Flexibility Antrenmanı",
+    "@mobility_and_flexibility_training": {},
+
+    "stress_management_programs": "Stress Yönetimi",
+    "@stress_management_programs": {},
+
+    "restorative_fitness": "İyileşme Antrenmanı",
+    "@restorative_fitness": {},
+
+    "bodybuilding": "Kuvvet Antrenmanı",
+    "@bodybuilding": {},
+
+    "physique_and_aesthetic_coaching": "Fizik & Görsel Yönetimi",
+    "@physique_and_aesthetic_coaching": {},
+
+    "bikini_competition_preparation": "Bikini Yarışma Hazırlığı",
+    "@bikini_competition_preparation": {},
+
+    "muscle_gain_programs": "Kas Kütle Antrenmanı",
+    "@muscle_gain_programs": {},
+
+    "lean_bulk_planning": "Lean Bulk Planlama",
+    "@lean_bulk_planning": {},
+
+    "contest_preparation_coaching": "Yarışma Hazırlığı",
+    "@contest_preparation_coaching": {},
+
+    "weight_gain_assistance": "Kilo Alma Desteği",
+    "@weight_gain_assistance": {},
+
+    "advanced_sculpting_programs": "Gelişmiş Görsel Yönetimi",
+    "@advanced_sculpting_programs": {},
+
+    "maintenance_coaching": "Koruma Yönetimi",
+    "@maintenance_coaching": {},
+
+    "body_dysmorphia_awareness_training": "Beden Dysmorfiyası Yönetimi",
+    "@body_dysmorphia_awareness_training": {},
+
+    "yoga": "Yoga",
+    "@yoga": {},
+
+    "pilates": "Pilates",
+    "@pilates": {},
+
+    "tai_chi_fitness": "Tai Chi Antrenmanı",
+    "@tai_chi_fitness": {},
+
+    "mindfulness_based_fitness": "Zihinsel Yönetim",
+    "@mindfulness_based_fitness": {},
+
+    "meditation_integration": "Meditation Entegrasyonu",
+    "@meditation_integration": {},
+
+    "breathing_techniques": "Solunum Teknikleri",
+    "@breathing_techniques": {},
+
+    "body_mind_centering": "Beden & Zihin Merkezleşmesi",
+    "@body_mind_centering": {},
+
+    "qigong_for_fitness": "Qigong Antrenmanı",
+    "@qigong_for_fitness": {},
+
+    "barre_workouts": "Barre Antrenmanları",
+    "@barre_workouts": {},
+
+    "dance_fitness": "Dans Antrenmanı",
+    "@dance_fitness": {},
+
+    "corporate_fitness_programs": "Kurumsal Antrenmanlar",
+    "@corporate_fitness_programs": {},
+
+    "family_fitness": "Aile Antrenmanları",
+    "@family_fitness": {},
+
+    "outdoor_adventure_fitness": "Dışarı Antrenmanlar",
+    "@outdoor_adventure_fitness": {},
+
+    "hiking_and_trail_fitness": "Hiking & Yol Antrenmanları",
+    "@hiking_and_trail_fitness": {},
+
+    "fitness_for_gamers": "Oyuncu Antrenmanları",
+    "@fitness_for_gamers": {},
+
+    "military_and_tactical_fitness": "Askeri & Savaş Antrenmanları",
+    "@military_and_tactical_fitness": {},
+
+    "emergency_services_fitness": "Acil Servis Antrenmanları",
+    "@emergency_services_fitness": {},
+
+    "fitness_for_travelers": "Seyahat Antrenmanları",
+    "@fitness_for_travelers": {},
+
+    "minimalist_fitness_bodyweight": "Minimalist Fitness Vücut Ağırlığı",
+    "@minimalist_fitness_bodyweight": {},
+
+    "home_workouts": "Ev Antrenmanları",
+    "@home_workouts": {},
+
+    "nutrition_planning": "Beslenme Planlama",
+    "@nutrition_planning": {},
+
+    "plant_based_nutrition_coaching": "Bitkisel Beslenme Yönetimi",
+    "@plant_based_nutrition_coaching": {},
+
+    "ketogenic_diet_support": "Ketogenik Beslenme Desteği",
+    "@ketogenic_diet_support": {},
+
+    "paleo_diet_fitness_programs": "Paleo Beslenme Antrenmanları",
+    "@paleo_diet_fitness_programs": {},
+
+    "intermittent_fasting_guidance": "Kırık Beslenme Yönetimi",
+    "@intermittent_fasting_guidance": {},
+
+    "sports_nutrition_coaching": "Spor Beslenme Yönetimi",
+    "@sports_nutrition_coaching": {},
+
+    "weight_loss_meal_planning": "Kilo Verme Öğün Planlama",
+    "@weight_loss_meal_planning": {},
+
+    "lean_mass_nutrition": "Lean Kütle Beslenmesi",
+    "@lean_mass_nutrition": {},
+
+    "food_intolerance_management": "Beslenme Alışkanlıkları Yönetimi",
+    "@food_intolerance_management": {},
+
+    "gut_health_and_fitness": "Bağırsak Sağlığı & Antrenman",
+    "@gut_health_and_fitness": {},
+
+    "lgbtq_inclusive_fitness": "LGBTQ+ İçeren Antrenman",
+    "@lgbtq_inclusive_fitness": {},
+
+    "adaptive_fitness_for_disabilities": "Adaptif Antrenmanlar",
+    "@adaptive_fitness_for_disabilities": {},
+
+    "neurodivergent_fitness_programs": "Zihinsel Diverjans Antrenmanlar",
+    "@neurodivergent_fitness_programs": {},
+
+    "fitness_for_cancer_survivors": "Kanser Üstünlüğü Antrenmanlar",
+    "@fitness_for_cancer_survivors": {},
+
+    "arthritis_friendly_training": "Bağırsak Ağrısı Yönetimi",
+    "@arthritis_friendly_training": {},
+
+    "fibromyalgia_specific_workouts": "Fibromyalgia Özel Antrenmanlar",
+    "@fibromyalgia_specific_workouts": {},
+
+    "cardiac_rehabilitation_programs": "Kalptakım Programları",
+    "@cardiac_rehabilitation_programs": {},
+
+    "diabetes_specific_fitness": "Diyabet Özel Antrenmanlar",
+    "@diabetes_specific_fitness": {},
+
+    "autoimmune_disorder_friendly_fitness": "Otomatik Hastalık Yönetimi",
+    "@autoimmune_disorder_friendly_fitness": {},
+
+    "hormonal_balance_training": "Hormonal Denge Antrenmanı",
+    "@hormonal_balance_training": {},
+
+    "wearable_tech_integration": "Wearable Teknoloji Entegrasyonu",
+    "@wearable_tech_integration": {},
+
+    "online_personal_training": "Online Kişisel Antrenman",
+    "@online_personal_training": {},
+
+    "app_based_fitness_guidance": "Uygulama Tabanlı Antrenman Yönetimi",
+    "@app_based_fitness_guidance": {},
+
+    "virtual_reality_fitness_programs": "Sanal Gerçeklik Antrenmanları",
+    "@virtual_reality_fitness_programs": {},
+
+    "fitness_gamification_coaching": "Antrenman Gamifikasyonu",
+    "@fitness_gamification_coaching": {},
+
+    "ai_driven_workouts": "AI Tabanlı Antrenmanlar",
+    "@ai_driven_workouts": {},
+
+    "biofeedback_coaching": "Biyolojik Geri Besleme",
+    "@biofeedback_coaching": {},
+
+    "genetic_fitness_planning": "Genetik Antrenman Planlama",
+    "@genetic_fitness_planning": {},
+
+    "data_driven_fitness_programs": "Veri Tabanlı Antrenmanlar",
+    "@data_driven_fitness_programs": {},
+
+    "fitness_equipment_mastery": "Antrenman Ekipmanı Yönetimi",
+    "@fitness_equipment_mastery": {},
+
+    "load_more": "Daha Fazla Yükle",
+    "@load_more": {},
+
+    "loading": "Yükleniyor...",
+    "@loading": {},
+
+    "login": "Giriş Yap",
+    "@login": {},
+
+    "sign_up": "Üye Ol",
+    "@sign_up": {},
+
+    "get_started_free": "Ücretsiz Başla",
+    "@get_started_free": {},
+
+
+
+
+
+
+    "formal_education": "Resmi Eğitim",
+    "@formal_education": {},
+
+    "specialized_education": "Özel Eğitim",
+    "@specialized_education": {},
+
+    "certifications": "Sertifikalar",
+    "@certifications": {},
+
+    "aquatic_exercise_association_certification": "Su Antrenmanı Derneği Sertifikası",
+    "@aquatic_exercise_association_certification": {},
+
+    "tactical_strength_and_conditioning_certification": "Savaş Antrenmanı Sertifikası",
+    "@tactical_strength_and_conditioning_certification": {},
+
+    "behavior_change_specialist_certification": "Davranış Değişimi Uzmanı Sertifikası",
+    "@behavior_change_specialist_certification": {},
+
+    "mobility_and_movement_specialist_certification": "Mobility and Movement Specialist Sertifikası",
+    "@mobility_and_movement_specialist_certification": {},
+
+    "advanced_biomechanics_certification": "Gelişmiş Biomekanik Sertifikası",
+    "@advanced_biomechanics_certification": {},
+
+    "martial_arts_and_self_defense_trainer_certification": "Spor Antrenmanı & Kendi Kendini Koruma Sertifikası",
+    "@martial_arts_and_self_defense_trainer_certification": {},
+
+    "cpr_aed_certification": "CPR/AED Sertifikası",
+    "@cpr_aed_certification": {},
+
+    "first_aid_certification": "Acil Yardım Sertifikası",
+    "@first_aid_certification": {},
+
+    "injury_prevention_and_management": "Yaralanma Önleme & Yönetimi",
+    "@injury_prevention_and_management": {},
+
+    "advanced_program_design": "Gelişmiş Program Tasarımı",
+    "@advanced_program_design": {},
+
+    "nutrition_for_athletes": "Sporcu Beslenmesi",
+    "@nutrition_for_athletes": {},
+
+    "mental_health_and_fitness_integration": "Zihinsel Sağlık & Fitness Entegrasyonu",
+    "@mental_health_and_fitness_integration": {},
+
+    "sports_psychology_basics": "Spor Psikolojisi Temelleri",
+    "@sports_psychology_basics": {},
+
+    "functional_movement_screen_fms_certification": "İşlevsel Hareket Ekranı (FMS) Sertifikası",
+    "@functional_movement_screen_fms_certification": {},
+
+    "advanced_recovery_techniques": "Gelişmiş Kurtarma Teknikleri",
+    "@advanced_recovery_techniques": {},
+
+
+
+
+    "connection_invitation": "Bağlantı Davet",
+    "@connection_invitation": {},
+
+    "connection_created_successfully": "Bağlantı başarıyla oluşturuldu",
+    "@connection_created_successfully": {},
+
+    "error_accepting_invitation": "Bağlantı kabul edilirken hata oluştu",
+    "@error_accepting_invitation": {},
+
+    "professionals_cannot_accept_client_invitations": "Profesyoneller istemci davetlerini kabul edemez",
+    "@professionals_cannot_accept_client_invitations": {},
+
+    "invalid_invitation_link": "Geçersiz davet bağlantısı",
+    "@invalid_invitation_link": {},
+
+    "error_processing_invitation": "Davet işlenirken hata oluştu. Lütfen tekrar deneyiniz.",
+    "@error_processing_invitation": {},
+
+    "thank_you_for_your_feedback": "Geri bildiriminiz için teşekkürler!",
+    "@thank_you_for_your_feedback": {},
+
+    "error_submitting_feedback": "Geri bildirim gönderirken hata oluştu: {error}",
+    "@error_submitting_feedback": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Hata mesajı"
+            }
+        }
+    },
+
+    "support_ticket": "Destek Bilet",
+    "@support_ticket": {},
+
+    "error_setting_up_profile": "Profil kurulumunda hata: {error}",
+    "@error_setting_up_profile": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Hata mesajı"
+            }
+        }
+    },
+    
+    "group_session_accepted": "Grup oturumu kabul edildi",
+    "@group_session_accepted": {},
+
+    "group_session_rejected": "Grup oturumu reddedildi",
+    "@group_session_rejected": {},
+
+    "unable_to_process_your_request": "İsteğinizi işlemekte hata: {error}",
+    "@unable_to_process_your_request": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Hata mesajı"
+            }
+        }
+    },
+
+    "session": "Oturum",
+    "@session": {},
+
+    "meal_plan_accepted": "Öğün planı kabul edildi",
+    "@meal_plan_accepted": {},
+
+    "meal_plan_declined": "Öğün planı reddedildi",
+    "@meal_plan_declined": {},
+
+    "workout_plan_accepted": "Antrenman planı kabul edildi",
+    "@workout_plan_accepted": {},
+
+    "workout_plan_declined": "Antrenman planı reddedildi",
+    "@workout_plan_declined": {},
+
+    "failed_to_save_image": "Resim kaydedilirken hata",
+    "@failed_to_save_image": {},
+
+    "failed_to_remove_image": "Resim kaldırılırken hata",
+    "@failed_to_remove_image": {},
+
+    "failed_to_book_session": "Oturum rezervasyonunda hata",
+    "@failed_to_book_session": {},
+
+    "request_withdrawn_successfully": "İstek çekildi",
+    "@request_withdrawn_successfully": {},
+
+    "session_request_sent_successfully": "Oturum isteği gönderildi",
+    "@session_request_sent_successfully": {},
+
+    "failed_to_cancel_session": "Oturum iptal edilirken hata",
+    "@failed_to_cancel_session": {},
+
+    "workout_plan_set_as_current_successfully": "Antrenman planı şu anki olarak ayarlandı",
+    "@workout_plan_set_as_current_successfully": {},
+
+    "workout_completed_successfully": "Antrenman başarıyla tamamlandı",
+    "@workout_completed_successfully": {},
+
+    "failed_to_save_workout_data": "Antrenman verileri kaydedilirken hata",
+    "@failed_to_save_workout_data": {},
+
+    "failed_to_complete_workout": "Antrenman tamamlanırken hata",
+    "@failed_to_complete_workout": {},
+
+    "direct_message": "Doğrudan Mesaj",
+    "@direct_message": {},
+
+    "invalid_recipient": "Geçersiz alıcı",
+    "@invalid_recipient": {},
+
+
+    "error_sending_message": "Mesaj gönderirken hata: {error}",
+    "@error_sending_message": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Error message"
+            }
+        }
+    },
+
+    "invitation_link": "Davet Linki",
+    "@invitation_link": {},
+
+    "workout_plan_created_successfully": "Antrenman planı başarıyla oluşturuldu",
+    "@workout_plan_created_successfully": {},
+
+    "accept": "Kabul Et",
+    "@accept": {},
+
+    "decline": "Reddet",
+    "@decline": {},
+
+    "at_least_two_participants_are_required_to_start_a_group_chat": "En az iki katılımcı gereklidir",
+    "@at_least_two_participants_are_required_to_start_a_group_chat": {},
+
+    "invitation": "Davet",
+    "@invitation": {},
+
+    "background_image": "Arka Plan Resmi",
+    "@background_image": {},
+
+    "video": "Video",
+    "@video": {},
+
+    "weight_goal": "Kilo Hedefi",
+    "@weight_goal": {},
+
+    "please_enter_a_link": "Lütfen bir link girin",
+    "@please_enter_a_link": {},
+
+    "please_select_a_platform_first": "Lütfen önce bir platform seçin",
+    "@please_select_a_platform_first": {},
+
+
+
+    "failed_to_delete_session_please_try_again": "Oturum silinirken hata",
+    "@failed_to_delete_session_please_try_again": {},
+
+    "request_accepted_successfully": "İstek kabul edildi",
+    "@request_accepted_successfully": {},
+
+    "failed_to_accept_request_please_try_again": "İstek kabul edilirken hata",
+    "@failed_to_accept_request_please_try_again": {},
+
+    "request_declined_successfully": "İstek reddedildi",
+    "@request_declined_successfully": {},
+
+    "failed_to_decline_request_please_try_again": "İstek reddedilirken hata",
+    "@failed_to_decline_request_please_try_again": {},
+
+    "session_deleted_successfully": "Oturum silindi",
+    "@session_deleted_successfully": {},
+
+    "client_profile_not_found": "Müşteri profili bulunamadı",
+    "@client_profile_not_found": {},
+
+    "failed_to_switch_to_client_profile": "Müşteri profiline geçilirken hata",
+    "@failed_to_switch_to_client_profile": {},
+
+    "no_client_profile_associated_with_this_account": "Bu hesapla ilişkili müşteri profili yok",
+    "@no_client_profile_associated_with_this_account": {},
+
+
+    "no_messages_yet": "Henüz mesaj yok",
+    "@no_messages_yet": {},
+
+    "type_a_message": "Bir mesaj yaz...",
+    "@type_a_message": {},
+
+    "invalid_chat_data": "Geçersiz sohbet verisi",
+    "@invalid_chat_data": {},
+
+    "client_added_successfully": "Müşteri başarıyla eklendi",
+    "@client_added_successfully": {},
+
+    "error_adding_client": "Müşteri ekleme hatası: {error}",
+    "@error_adding_client": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Hata mesajı"
+            }
+        }
+    },
+
+    "add_meal_snackbar_title": "Yemek Ekle",
+    "@add_meal_snackbar_title": {},
+
+
+    "please_add_at_least_one_phase_to_day": "Lütfen en az bir faz ekleyin",
+    "@please_add_at_least_one_phase_to_day": {
+        "placeholders": {
+            "days": {
+                "type": "String",
+                "example": "1, 2, 3"
+            }
+        }
+    },
+
+    "please_add_at_least_one_exercise_to_day": "Lütfen en az bir egzersiz ekleyin",
+    "@please_add_at_least_one_exercise_to_day": {
+        "placeholders": {
+            "days": {
+                "type": "String",
+                "example": "1, 2, 3"
+            }
+        }
+    },
+
+    "exercise": "Egzersiz",
+    "@exercise": {},
+
+    "missing_information": "Eksik Bilgi",
+    "@missing_information": {},
+
+    "please_add_at_least_one_client_to_the_group": "Lütfen en az bir müşteri ekleyin",
+    "@please_add_at_least_one_client_to_the_group": {},
+
+    "please_select_date_and_time": "Lütfen tarih ve saati seçin",
+    "@please_select_date_and_time": {},
+
+    "user_data_is_not_complete": "Kullanıcı verileri tam değildir",
+    "@user_data_is_not_complete": {},
+
+    "number_of_weeks_must_be_between_1_and_24": "Hafta sayısı 1 ile 24 arasında olmalıdır",
+    "@number_of_weeks_must_be_between_1_and_24": {},
+
+    "please_add_at_least_one_exercise_to_your_workout_plan": "Lütfen en az bir egzersiz ekleyin",
+    "@please_add_at_least_one_exercise_to_your_workout_plan": {},
+
+
+    "please_select_a_client": "Lütfen bir müşteri seçin",
+    "@please_select_a_client": {},
+
+    "please_enter_client_name": "Lütfen müşteri adını girin",
+    "@please_enter_client_name": {},
+
+    "please_enter_template_name": "Lütfen şablon adını girin",
+    "@please_enter_template_name": {},
+
+
+    "unable_to_update_plan_status": "Antrenman planı durumu güncellenirken hata: {error}",
+    "@unable_to_update_plan_status": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Hata mesajı"
+            }
+        }
+    },
+    "high_school_diploma": "Lise Diploması",
+    "@high_school_diploma": {},
+
+    "associate_degree": "Özel Lisans",
+    "@associate_degree": {},
+
+    "bachelor_degree": "Lisans",
+    "@bachelor_degree": {},
+
+    "master_degree": "Yüksek Lisans",
+    "@master_degree": {},
+
+    "phd": "Doktora",
+    "@phd": {},
+
+    "certified_personal_trainer": "Kişisel Antrenör Sertifikası",
+    "@certified_personal_trainer": {},
+
+    "certified_strength_and_conditioning_specialist": "Kuvvet & Koşullama Uzmanı Sertifikası",
+    "@certified_strength_and_conditioning_specialist": {},
+
+    "certified_functional_strength_coach": "İşlevsel Kuvvet Antrenörü Sertifikası",
+    "@certified_functional_strength_coach": {},
+
+    "corrective_exercise_specialist": "Düzeltici Egzersiz Uzmanı Sertifikası",
+    "@corrective_exercise_specialist": {},
+
+    "performance_enhancement_specialist": "Performans Geliştirme Uzmanı Sertifikası",
+    "@performance_enhancement_specialist": {},
+
+    "certified_nutrition_specialist": "Beslenme Uzmanı Sertifikası",
+    "@certified_nutrition_specialist": {},
+
+    "precision_nutrition_certification": "Precision Beslenme Sertifikası",
+    "@precision_nutrition_certification": {},
+
+    "certified_pilates_instructor": "Pilates Antrenörü Sertifikası",
+    "@certified_pilates_instructor": {},
+
+    "certified_yoga_instructor": "Yoga Antrenörü Sertifikası",
+    "@certified_yoga_instructor": {},
+
+    "crossfit_level_1_trainer": "CrossFit Level 1 Antrenörü Sertifikası",
+    "@crossfit_level_1_trainer": {},
+
+    "trx_suspension_training_certification": "TRX Yükseklik Sertifikası",
+    "@trx_suspension_training_certification": {},
+
+    "kettlebell_instructor_certification": "Kettlebell Antrenörü Sertifikası",
+    "@kettlebell_instructor_certification": {},
+
+    "sports_massage_therapy_certification": "Spor Masajı Sertifikası",
+    "@sports_massage_therapy_certification": {},
+
+    "senior_fitness_specialist_certification": "Yaşlılık Antrenmanı Uzmanı Sertifikası",
+    "@senior_fitness_specialist_certification": {},
+
+    "pre_and_post_natal_fitness_certification": "Gebe & Doğumdan Sonra Antrenman Sertifikası",
+    "@pre_and_post_natal_fitness_certification": {},
+
+    "youth_fitness_specialist_certification": "Genç Antrenman Uzmanı Sertifikası",
+    "@youth_fitness_specialist_certification": {},
+
+    "group_fitness_instructor_certification": "Grup Antrenman Öğretmeni Sertifikası",
+    "@group_fitness_instructor_certification": {},
+
+
+
+
+    "health_maintenance": "Sağlık Koruma",
+    "@health_maintenance": {},
+    
+    "endurance_building": "Dayanıklılık Yapma",
+    "@endurance_building": {},
+
+    "flexibility_mobility": "Esneklik & Mobilite",
+    "@flexibility_mobility": {},
+    
+    "stress_reduction": "Stres Azaltma",
+    "@stress_reduction": {},
+
+
+
+
+
+
+    "monday_date": "Pzt",
+    "@monday_date": {},
+    
+    "tuesday_date": "Sal",
+    "@tuesday_date": {},
+    
+    "wednesday_date": "Çar",
+    "@wednesday_date": {},
+    
+    "thursday_date": "Per",
+    "@thursday_date": {},
+    
+    "friday_date": "Cum",
+    "@friday_date": {},
+    
+    "saturday_date": "Cts",
+    "@saturday_date": {},
+    
+    "sunday_date": "Paz", 
+    "@sunday_date": {},
+
+    "january_date": "Oca",
+    "@january_date": {},
+    
+    "february_date": "Şub",
+    "@february_date": {},
+    
+    "march_date": "Mar",
+    "@march_date": {},
+    
+    "april_date": "Nis",
+    "@april_date": {},
+    
+    "may_date": "May",
+    "@may_date": {},
+    
+    "june_date": "Haz",
+    "@june_date": {},
+    
+    "july_date": "Tem",
+    "@july_date": {},
+    
+    "august_date": "Ağu",
+    "@august_date": {},
+    
+    "september_date": "Eyl",
+    "@september_date": {},
+    
+    "october_date": "Eki",
+    "@october_date": {},
+    
+    "november_date": "Kas",
+    "@november_date": {},
+    
+    "december_date": "Ara",
+    "@december_date": {},
+
+
+
+    "january": "Ocak",
+    "@january": {},
+
+    "february": "Şubat",
+    "@february": {},
+
+    "march": "Mart",
+    "@march": {},
+
+    "april": "Nisan",
+    "@april": {},
+
+    "may": "Mayıs",
+    "@may": {},
+
+    "june": "Haziran",
+    "@june": {},
+
+    "july": "Temmuz",
+    "@july": {},
+
+    "august": "Ağustos",
+    "@august": {},
+
+    "september": "Eylül",
+    "@september": {},
+
+    "october": "Ekim",
+    "@october": {},
+
+    "november": "Kasım",
+    "@november": {},
+
+    "december": "Aralık",
+    "@december": {},
+
+
+
+    "weight_loss_meal_plan": "Kilo Verme Öğün Planı",
+    "@weight_loss_meal_plan": {},
+
+    "muscle_building_meal_plan": "Kas Kütle Öğün Planı",
+    "@muscle_building_meal_plan": {},
+
+    "maintenance_meal_plan": "Koruma Öğün Planı",
+    "@maintenance_meal_plan": {},
+
+    "keto_diet_plan": "Keto Beslenme Planı",
+    "@keto_diet_plan": {},
+
+    "vegetarian_meal_plan": "Vejeteryan Öğün Planı",
+    "@vegetarian_meal_plan": {},
+
+    "vegan_meal_plan": "Vegan Öğün Planı",
+    "@vegan_meal_plan": {},
+
+    "mediterranean_diet_plan": "Mediterranean Beslenme Planı",
+    "@mediterranean_diet_plan": {},
+
+    "low_carb_meal_plan": "Düşük Karbonhidrat Öğün Planı",
+    "@low_carb_meal_plan": {},
+
+    "bulking_meal_plan": "Kas Kütle Öğün Planı",
+    "@bulking_meal_plan": {},
+
+    "cutting_meal_plan": "Kesme Öğün Planı",
+    "@cutting_meal_plan": {},
+
+
+    "maintenance": "Koruma",
+    "@maintenance": {},
+
+    "improved_energy": "İyileştirilmiş Enerji",
+    "@improved_energy": {},
+
+    "better_health": "Daha İyi Sağlık",
+    "@better_health": {},
+
+    "balanced_nutrition": "Dengeli Beslenme",
+    "@balanced_nutrition": {},
+
+    "specific_diet_adherence": "Özel Beslenme Takibi",
+    "@specific_diet_adherence": {},
+
+    "healthy_lifestyle": "Sağlıklı Yaşam Tarzı",
+    "@healthy_lifestyle": {},
+
+
+
+    "one_week": "1 Hafta",
+    "@one_week": {},
+
+    "two_weeks": "2 Hafta",
+    "@two_weeks": {},
+    
+    "ongoing": "Devam Eden",
+    "@ongoing": {},
+
+    "balanced_diet": "Dengeli Beslenme",
+    "@balanced_diet": {},
+
+
+    "ketogenic_diet": "Ketogenik Beslenme",
+    "@ketogenic_diet": {},
+
+    "low_carb_diet": "Düşük Karbonhidrat Beslenme",
+    "@low_carb_diet": {},
+    
+
+    "high_protein_diet": "Yüksek Protein Beslenme",
+    "@high_protein_diet": {},
+
+    "plant_based": "Bitkisel Beslenme",
+    "@plant_based": {},
+
+    "no_plan_details_available": "Plan detayları mevcut değil",
+    "@no_plan_details_available": {},
+
+    "today_s_focus": "BUGÜNÜN ODAKLANMA ALANI",
+    "@today_s_focus": {},
+
+    "camera": "Kamera",
+    "@camera": {},
+
+    "photo_library": "Fotoğraf Kütüphanesi",
+    "@photo_library": {},
+
+    "remove_photo": "Fotoğrafı Kaldır",
+    "@remove_photo": {},
+
+    "select_country_code": "Ülke Kodu Seç",
+    "@select_country_code": {},
+
+
+
+
+
+
+
+
+
+
+    "individual_message_tap_not_allowed": "Bireysel mesaj tıklaması izin verilmiyor",
+    "@individual_message_tap_not_allowed": {},
+
+    "users_are_not_allowed_to_send_messages_to_themselves": "Kullanıcılar kendi mesajlarına göndemez",
+    "@users_are_not_allowed_to_send_messages_to_themselves": {},
+
+    "no_availability_set": "Mevcut saatler belirtilmedi",
+    "@no_availability_set": {},
+
+    "no_weight_data_available": "Kilo verileri mevcut değil",
+    "@no_weight_data_available": {},
+
+    "no_measurement_data_available": "Ölçüm verileri mevcut değil",
+    "@no_measurement_data_available": {},
+
+    "no_progress_photos_available": "İlerleme fotoğrafları mevcut değil",
+    "@no_progress_photos_available": {},
+    
+
+    "social_media_links": "Sosyal Medya Linkleri",
+    "@social_media_links": {},
+
+    "please_first_select_a_platform_and_then_enter_your_link": "Lütfen önce bir platform seçin ve ardından linkinizi girin",
+    "@please_first_select_a_platform_and_then_enter_your_link": {},
+
+    "select_platform_first": "Önce platform seçin",
+    "@select_platform_first": {},
+
+    "app_users": "Uygulama Kullanıcıları",
+    "@app_users": {},
+
+    "manual_clients": "Elle Oluşturulan Müşteriler",
+    "@manual_clients": {},
+
+    "e_g_breakfast_lunch_etc": "örnek: Kahvaltı, Öğle Yemeği, vs.",
+    "@e_g_breakfast_lunch_etc": {},
+
+    "exercises_you_use_in_your_workout_plans_will_appear_here_for_quick_access": "Antrenman planlarınızda kullandığınız egzersizler burada hızlı erişim için görünecektir",
+    "@exercises_you_use_in_your_workout_plans_will_appear_here_for_quick_access": {},
+
+    "meals_you_create_in_your_meal_plans_will_appear_here_for_quick_access": "Öğünlerinizde oluşturduğunuz öğünler burada hızlı erişim için görünecektir",
+    "@meals_you_create_in_your_meal_plans_will_appear_here_for_quick_access": {},   
+
+    "language_title": "Dil",
+    "@language_title": {},
+    
+    "selected_language": "Seçili Dil",
+    "@selected_language": {},
+
+    "failed_to_upload_image": "Resim yüklenirken hata",
+    "@failed_to_upload_image": {},
+
+    "failed_to_create_group_chat": "Grup sohbeti oluşturulurken hata",
+    "@failed_to_create_group_chat": {},
+
+    "please_enter_group_name": "Grup adı girin",
+    "@please_enter_group_name": {},
+    
+    "all_languages": "Tüm Diller",
+    "@all_languages": {},
+    
+    "no_language_selected": "Dil seçilmedi",
+    "@no_language_selected": {},
+
+    "assessment_form": "Değerlendirme Formu",
+    "@assessment_form": {},
+
+    "assessment_form_subtitle": "Müşteri değerlendirme formlarını görüntüleyin ve düzenleyin",
+    "@assessment_form_subtitle": {},
+    "physical_assessment": "Fiziksel Değerlendirme",
+  "@physical_assessment": {},
+  "current_physical_activity": "Şu anki Fiziksel Etkinlik Seviyesi",
+  "@current_physical_activity": {},
+  "physical_activity_subtitle": "Egzersiz türlerini ve sürelerini içeren",
+  "@physical_activity_subtitle": {},
+  "physical_activity_placeholder": "Müşteri şu anki fiziksel aktivitelerini açıklayacak...",
+  "@physical_activity_placeholder": {},
+  "activity_frequency": "Ne kadar sık egzersiz yapıyorsunuz?",
+  "@activity_frequency": {},
+  "rarely": "Nadir veya hiç",
+  "@rarely": {},
+  "times_per_week": "haftada kaç kere",
+  "@times_per_week": {},
+  "health_assessment": "Sağlık Değerlendirmesi",
+  "@health_assessment": {},
+  "medical_conditions_placeholder": "Müşteri herhangi bir sağlık durumunu listeleyecek...",
+  "@medical_conditions_placeholder": {},
+  "medications": "Şu anki İlaçlar",
+  "@medications": {},
+  "medications_placeholder": "Müşteri şu anki ilaçlarını listeleyecek...",
+  "@medications_placeholder": {},
+  "lifestyle_assessment": "Yaşam Tarzı Değerlendirmesi",
+  "@lifestyle_assessment": {},
+  "daily_routine": "Günlük Rota",
+  "@daily_routine": {},
+  "daily_routine_placeholder": "Müşteri günlük tipik rotasını açıklayacak...",
+  "@daily_routine_placeholder": {},
+  "stress_levels": "Stres Seviyeleri",
+  "@stress_levels": {},
+  "stress_levels_placeholder": "Müşteri stres seviyelerini ve yönetimini açıklayacak...",
+  "@stress_levels_placeholder": {},
+  "goals_assessment": "Hedef Değerlendirmesi",
+  "@goals_assessment": {},
+  "specific_goals": "Özel Fitness Hedefleri",
+"@specific_goals": {},
+  "specific_goals_subtitle": "Kısa ve uzun vadeli hedefler",
+  "@specific_goals_subtitle": {},
+  "specific_goals_placeholder": "Müşteri fitness hedeflerini açıklayacak...",
+  "@specific_goals_placeholder": {},
+  "preferred_training_style": "Tercih Edilen Antrenman Stili",
+  "@preferred_training_style": {},
+  "high_intensity": "Yüksek Yoğunluklu Antrenman",
+  "@high_intensity": {},
+  "moderate_intensity": "Orta Yoğunluklu Antrenman",
+  "@moderate_intensity": {},
+  "low_intensity": "Düşük Yoğunluklu Antrenman",
+  "@low_intensity": {},
+  "mixed_intensity": "Karışık Yoğunluklu Antrenman",
+  "@mixed_intensity": {},
+  "request_assessment": "Değerlendirme İsteyin",
+  "@request_assessment": {},
+
+  "week": "Hafta",
+  "@week": {},
+
+
+  "exercise_comfort_question": "Bu egzersizleri rahatça yapabilir misiniz?",
+  "@exercise_comfort_question": {},
+  "client_will_fill": "Müşteri bu alanı dolduracak",
+  "@client_will_fill": {},
+
+
+  "assessment_request_sent": "Değerlendirme isteği başarıyla gönderildi",
+  "@assessment_request_sent": {},
+  "error_sending_assessment": "Değerlendirme isteği gönderirken hata",
+  "@error_sending_assessment": {},
+
+  "session_updated_successfully": "Antrenman güncellendi",
+  "@session_updated_successfully": {},
+
+  "failed_to_update_session": "Antrenman güncellenirken hata",
+  "@failed_to_update_session": {},
+
+
+  "you_have_been_invited_by": "{professional} sana davet etti. Kabul etmek ister misin?",
+  "@you_have_been_invited_by": {
+    "placeholders": {
+      "professional": {
+        "type": "String",
+        "example": "John Doe"
+      }
+    }
+  },
+  "not_now": "Şimdi değil",
+  "@not_now": {},
+  "training_invitation": "Antrenman Daveti",
+  "@training_invitation": {},
+
+  "sign_out_confirmation_message": "Çıkış yapmak istediğinize emin misiniz?",
+  "@sign_out_confirmation_message": {},
+
+
+
+  "delete_account_confirmation_title": "Hesabınızı silmek istediğinize emin misiniz?",
+  "@delete_account_confirmation_title": {},
+  "delete_account_confirmation_message": "Bu işlem geri alınamaz ve tüm verileriniz kalıcı olarak silinecektir.",
+  "@delete_account_confirmation_message": {},
+  "delete_account_failed": "Hesabınızı silerken hata",
+  "@delete_account_failed": {},
+
+
+  "switching_to_trainer": "Antrenöre geçiliyor...",
+  "@switching_to_trainer": {},
+
+
+
+
+
+
+  "transform_your_fitness_business": "Fitness İşletmenizi Dönüştürün",
+  "@transform_your_fitness_business": {},
+
+  "streamline_your_coaching_practice": "Fitness İşletmenizi Dönüştürün",
+  "@streamline_your_coaching_practice": {},
+
+  "powerful_features_to_help_you_grow_your_business_and_deliver_better_results": "Güçlü özellikler, işinizi büyütmek ve daha iyi sonuçlar sunmak için size yardımcı olacaktır",
+  "@powerful_features_to_help_you_grow_your_business_and_deliver_better_results": {},
+  
+  "client_management": "Müşteri Yönetimi",
+  "@client_management": {},
+
+  "easily_manage_your_clients_track_their_progress_and_maintain_detailed_profiles": "Müşterilerinizi kolayca yönetin, onların ilerlemeyi izleyin ve ayrıntılı profillerini koruyun.",
+  "@easily_manage_your_clients_track_their_progress_and_maintain_detailed_profiles": {},
+  
+  "smart_scheduling": "Akıllı Planlama",
+  "@smart_scheduling": {},
+
+  "schedule_sessions_manage_availability_and_send_automatic_reminders": "Programları yönetin, mevcutluluğu yönetin ve otomatik hatırlatmalar gönderin.",
+  "@schedule_sessions_manage_availability_and_send_automatic_reminders": {},
+  
+  "workout_planning": "Antrenman Planlama",
+  "@workout_planning": {},
+
+  "create_and_assign_personalized_workout_plans_with_our_intuitive_builder": "Özel antrenman planları oluşturun ve bize göre atayın",
+  "@create_and_assign_personalized_workout_plans_with_our_intuitive_builder": {},
+  
+  "nutrition_tracking": "Beslenme İzleme",
+  "@nutrition_tracking": {},
+
+  "design_meal_plans_and_track_nutritional_progress_for_better_results": "Öğün planları oluşturun ve beslenme ilerlemeyi izleyin",
+  "@design_meal_plans_and_track_nutritional_progress_for_better_results": {},
+  
+  "client_communication": "Müşteri İletişimi",
+  "@client_communication": {},
+
+  "built_in_messaging_system_to_stay_connected_with_your_clients": "Müşterilerinizle bağlantı kurmak için yerleşik mesajlaşma sistemi",
+  "@built_in_messaging_system_to_stay_connected_with_your_clients": {},
+  
+  "progress_tracking": "İlerleme İzleme",
+  "@progress_tracking": {},
+
+  "track_and_visualize_client_progress_with_detailed_analytics_and_reports": "İlerlemeyi ayrıntılı analizler ve raporlarla izleyin",
+  "@track_and_visualize_client_progress_with_detailed_analytics_and_reports": {},
+  
+  "who_is_coachtrack_for": "{coachtrack} kim için?",
+  "@who_is_coachtrack_for": {
+    "placeholders": {
+      "coachtrack": {
+        "type": "String",
+        "example": "CoachTrack"
+      }
+    }
+  },
+
+  "welcome_to_coachtrack": "CoachTrack'a hoşgeldiniz",
+  "@welcome_to_coachtrack": {},
+
+  "your_complete_fitness_management_solution": "Tamamlanmış fitness yönetimi çözümü",
+  "@your_complete_fitness_management_solution": {},
+  
+  "personal_trainers": "Kişisel Antrenörler",
+  "@personal_trainers": {},
+
+  "independent_trainers_looking_to_grow_their_business": "İndependant antrenörler, işini büyütmek istiyorlar",
+  "@independent_trainers_looking_to_grow_their_business": {},
+
+  "gym_based_trainers_managing_multiple_clients": "Gym-tabanlı antrenörler, birden fazla müşteri yönetiyorlar",
+  "@gym_based_trainers_managing_multiple_clients": {},
+  
+  "online_coaches_expanding_their_reach": "Online antrenörler, kapsamını genişletiyorlar",
+  "@online_coaches_expanding_their_reach": {},
+
+  "fitness_coaches": "Fitness Antrenörleri",
+  "@fitness_coaches": {},
+  
+  "crossfit_coaches_tracking_athlete_progress": "Crossfit antrenörler, atletin ilerlemeyi izliyorlar",
+  "@crossfit_coaches_tracking_athlete_progress": {},
+
+  "group_fitness_instructors_managing_classes": "Grup fitness öğretmenleri, sınıfları yönetiyorlar",
+  "@group_fitness_instructors_managing_classes": {},
+  
+  "sports_coaches_working_with_teams": "Spor antrenörleri, takımlarla çalışıyorlar",
+  "@sports_coaches_working_with_teams": {},
+
+  "nutritionists_tracking_client_meal_plans": "Beslenme uzmanları, müşteri öğün planlarını izliyorlar",
+  "@nutritionists_tracking_client_meal_plans": {},
+  
+  "nutrition_coaches": "Beslenme uzmanları",
+  "@nutrition_coaches": {},
+
+  "diet_coaches_monitoring_progress": "Diet antrenörleri, ilerlemeyi izliyorlar",
+  "@diet_coaches_monitoring_progress": {},
+  
+  "wellness_coaches_offering_holistic_programs": "Wellness antrenörleri, holistik programlar sunuyorlar",
+  "@wellness_coaches_offering_holistic_programs": {},
+
+  "what_our_users_say": "Kullanıcılarımız ne diyor",
+  "@what_our_users_say": {},
+
+  "coach_track_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": "CoachTrack, işimi nasıl yönettiğimi değiştirdi. Müşteri izleme ve antrenman planlama özellikleri game-changers.",
+  "@coach_track_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": {},
+  
+  "the_scheduling_system_alone_has_saved_me_hours_each_week_my_clients_love_the_easy_communication_and_progress_tracking": "Programlama sistemi beni haftalık saatler kazandı. Müşterilerim, kolay iletişim ve ilerleme izlemeyi seviyorlar.",
+  "@the_scheduling_system_alone_has_saved_me_hours_each_week_my_clients_love_the_easy_communication_and_progress_tracking": {},
+  
+  "finally_a_platform_that_understands_what_fitness_professionals_need_the_meal_planning_features_are_exactly_what_i_was_looking_for": "Sonunda, fitness profesyonellerin neye ihtiyaç duyduklarını anlayan bir platform. Öğün planlama özellikleri tam olarak benim aradığım şeydi.",
+  "@finally_a_platform_that_understands_what_fitness_professionals_need_the_meal_planning_features_are_exactly_what_i_was_looking_for": {},
+
+  "personal_trainer": "Kişisel Antrenör",
+  "@personal_trainer": {},
+
+  "crossfit_coach": "Crossfit Antrenör",
+  "@crossfit_coach": {},
+  
+  "nutrition_coach": "Beslenme uzmanı",
+  "@nutrition_coach": {},
+  
+  "how_do_i_get_started_with_coachtrack": "CoachTrack'ta nasıl başlarım?",
+  "@how_do_i_get_started_with_coachtrack": {},
+
+  "simply_sign_up_for_a_free_account_complete_your_profile_and_start_adding_clients_our_intuitive_onboarding_process_will_guide_you_through_the_essential_features": "Ücretsiz bir hesap oluşturun, profilinizi tamamlayın ve müşteriler ekleyin. Intuitif kullanım kılavuzu, temel özellikleri size kılavuzluk edecektir.",
+  "@simply_sign_up_for_a_free_account_complete_your_profile_and_start_adding_clients_our_intuitive_onboarding_process_will_guide_you_through_the_essential_features": {},
+  
+  "is_there_a_limit_to_how_many_clients_i_can_manage": "Bir sınır var mı, kaç müşteri yönetebilirim?",
+  "@is_there_a_limit_to_how_many_clients_i_can_manage": {},
+
+  "during_our_initial_launch_period_you_can_manage_unlimited_clients_at_no_cost_we_ll_provide_advance_notice_before_introducing_any_limitations_or_pricing_tiers": "Başlangıç dönemi boyunca, ücretsiz olarak sınırsız müşteri yönetebilirsiniz. Herhangi bir sınırlama veya fiyatlandırma katmanı öncesinde bildirimde bulunacağız.",
+  "@during_our_initial_launch_period_you_can_manage_unlimited_clients_at_no_cost_we_ll_provide_advance_notice_before_introducing_any_limitations_or_pricing_tiers": {},
+  
+  "can_my_clients_access_their_workout_plans_and_progress": "Müşterilerim planlarını ve ilerlemeyi erişebilir mi?",
+  "@can_my_clients_access_their_workout_plans_and_progress": {},
+
+  "yes_clients_can_download_our_mobile_app_to_view_their_workout_plans_track_progress_and_communicate_with_you_directly": "Evet! Müşterilerimiz, antrenman planlarını, ilerlemeyi ve doğrudan ile iletişime geçebilirler.",
+  "@yes_clients_can_download_our_mobile_app_to_view_their_workout_plans_track_progress_and_communicate_with_you_directly": {},
+  
+  "what_platforms_does_coachtrack_support": "CoachTrack'ta hangi platformlar destekleniyor?",
+  "@what_platforms_does_coachtrack_support": {},
+
+  "coachtrack_is_available_on_web_ios_and_android_platforms_allowing_you_to_manage_your_business_from_anywhere": "CoachTrack, web, iOS ve Android platformlarında mevcuttur, işinizi her yerden yönetebilirsiniz.",
+  "@coachtrack_is_available_on_web_ios_and_android_platforms_allowing_you_to_manage_your_business_from_anywhere": {},
+  
+  "how_secure_is_my_data": "Verilerim ne kadar güvenli?",
+  "@how_secure_is_my_data": {},
+
+  "we_take_security_seriously_all_data_is_encrypted_and_stored_securely_using_industry_standard_protocols_and_compliant_with_privacy_regulations": "Güvenliği ciddiye alıyoruz. Tüm veriler, endüstri standartlarını kullanarak ve gizlilik düzenlemeleri ile güvenli bir şekilde şifrelenmiş ve saklanır.",
+  "@we_take_security_seriously_all_data_is_encrypted_and_stored_securely_using_industry_standard_protocols_and_compliant_with_privacy_regulations": {},
+  
+  "frequently_asked_questions": "Sıkça Sorulan Sorular",
+  "@frequently_asked_questions": {},
+
+  "empowering_fitness_professionals_to_deliver_exceptional_coaching_experiences": "Fitness profesyonelleri, özel coaching deneyimleri sunuyor.",
+  "@empowering_fitness_professionals_to_deliver_exceptional_coaching_experiences": {},
+
+  "all_rights_reserved": "Tüm hakları saklıdır.",
+  "@all_rights_reserved": {},
+
+
+  "coachtrack_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": "CoachTrack, işimi nasıl yönettiğimi değiştirdi. Müşteri izleme ve antrenman planlama özellikleri game-changers.",
+  "@coachtrack_has_transformed_how_i_manage_my_fitness_business_the_client_tracking_and_workout_planning_features_are_game_changers": {},
+
+
+
+  "select_your_role": "Rolünüzü seçin",
+  "@select_your_role": {},
+
+  "i_am_a": "Ben...",
+  "@i_am_a": {},
+  
+  "manage_clients_create_workout_plans_and_track_progress": "Müşterileri yönetin, antrenman planları oluşturun ve ilerlemeyi izleyin",
+  "@manage_clients_create_workout_plans_and_track_progress": {},
+
+  "track_workouts_meals_and_your_fitness_journey": "Antrenmanları, yemekleri ve fitness yolculunuzu izleyin",
+  "@track_workouts_meals_and_your_fitness_journey": {},
+
+
+  "terms_and_conditions": "Kullanım Koşulları",
+  "@terms_and_conditions": {},
+
+
+  "invalid_date_time": "Geçersiz tarih ve saat",
+  "@invalid_date_time": {},
+
+  "cannot_schedule_session_in_past": "Geçmişteki bir tarihe saat planlayamazsınız",
+  "@cannot_schedule_session_in_past": {},
+
+  "forgot_password": "Şifrenizi mi unuttunuz?",
+  "@forgot_password": {},
+
+  "enter_your_email_to_reset_password": "Email adresinizi giriniz ve şifrenizi sıfırlamak için talimatlar alın",
+  "@enter_your_email_to_reset_password": {},
+
+  "password_reset_email_sent": "Şifre sıfırlama emaili gönderildi. Lütfen inbox'ınızı kontrol edin.",
+  "@password_reset_email_sent": {},
+
+
+  "reset_password": "Şifreyi Sıfırla",
+  "@reset_password": {},
+
+
+  "assessment_submitted": "Değerlendirme başarıyla gönderildi",
+  "@assessment_submitted": {},
+
+  "error_submitting_assessment": "Değerlendirme gönderirken hata",
+  "@error_submitting_assessment": {},
+
+
+  "has_submitted_assessment": "{clientName} bir değerlendirme gönderdi",
+  "@has_submitted_assessment": {
+    "placeholders": {
+      "clientName": {
+        "type": "String",
+        "example": "John Doe"
+      }
+    }
+  },
+
+
+
+  "create_account": "Hesap Oluştur",
+  "@create_account": {},
+
+  "please_fill_in_the_form_to_continue": "Lütfen formu doldurunuz",
+  "@please_fill_in_the_form_to_continue": {},
+
+  "please_sign_in_to_continue": "Lütfen giriş yapınız",
+  "@please_sign_in_to_continue": {},
+  
+  "enter_your_email_address": "Email adresinizi giriniz",
+  "@enter_your_email_address": {},
+
+  "enter_your_password": "Şifrenizi giriniz",
+  "@enter_your_password": {},
+  
+  "please_enter_your_email": "Lütfen email adresinizi giriniz",
+  "@please_enter_your_email": {},
+
+  "please_enter_a_valid_email": "Lütfen geçerli bir email adresi giriniz",
+  "@please_enter_a_valid_email": {},
+  
+  "please_enter_your_password": "Lütfen şifrenizi giriniz",
+  "@please_enter_your_password": {},
+  
+  "password_must_be_at_least_6_characters": "Şifre en az 6 karakter olmalıdır",
+  "@password_must_be_at_least_6_characters": {},
+  
+  "sign_in": "Giriş Yap",
+  "@sign_in": {},
+
+  "dont_have_an_account_sign_up": "Hesabınız yok mu? Hesap Oluştur",
+  "@dont_have_an_account_sign_up": {},
+
+  "already_have_an_account_sign_in": "Hesabınız var mı? Giriş Yap",
+  "@already_have_an_account_sign_in": {},
+
+
+
+
+
+
+
+
+
+  "workout_details": "Antrenman Detayları",
+  "@workout_details": {},
+
+  "completed_workout": "Tamamlanan Antrenman",
+  "@completed_workout": {},
+
+  "unnamed_phase": "İsimsiz Fase",
+  "@unnamed_phase": {},
+  
+  "none": "Hiçbiri",
+  "@none": {},
+
+  "sets_completed": "Tamamlanan Seriler",
+  "@sets_completed": {},
+
+  "history": "Tarihçe",
+  "@history": {},
+
+  "view_detailed_workout_metrics_and_analytics": "Detaylı antrenman metriklerini ve analizlerini görüntüleyin",
+  "@view_detailed_workout_metrics_and_analytics": {},
+  
+  "measurements_access_not_granted": "Ölçümler erişimi reddedildi",
+  "@measurements_access_not_granted": {},
+
+  "the_client_has_not_granted_access_to_view_their_measurements_data": "Müşteri, ölçümler verilerini görüntülemek için erişim vermedi.",
+  "@the_client_has_not_granted_access_to_view_their_measurements_data": {},
+  
+  "progress_photos_access_not_granted": "İlerleme fotoğrafları erişimi reddedildi",
+  "@progress_photos_access_not_granted": {},
+
+  "the_client_has_not_granted_access_to_view_their_progress_photos": "Müşteri, ilerleme fotoğraflarını görüntülemek için erişim vermedi.",
+  "@the_client_has_not_granted_access_to_view_their_progress_photos": {},
+  
+  "progress_summary": "İlerleme Özeti",
+  "@progress_summary": {},
+  
+  "muscle_mass_title": "Kas Kütlesi",
+  "@muscle_mass_title": {},
+
+  "bmi": "BMI",
+  "@bmi": {},
+
+  "weight_progress": "Kilo İlerlemesi",
+  "@weight_progress": {},
+
+  "recent_achievements": "Sonuçlar",
+  "@recent_achievements": {},
+
+  "total_workouts": "Toplam\nAntrenman",
+  "@total_workouts": {},
+
+  "this_month": "Bu Ay",
+  "@this_month": {},
+
+  "average_duration": "Ortalama\nSüre",
+  "@average_duration": {},
+
+  "recent_workout_durations": "Son Antrenman Süreleri",
+  "@recent_workout_durations": {},
+
+  "exercise_analysis": "Egzersiz Analizi",
+  "@exercise_analysis": {},
+
+  "workout_summary": "Antrenman Özeti",
+  "@workout_summary": {},
+
+  "track_workout_history": "Antrenman Tarihçesini Takip Et",
+  "@track_workout_history": {},
+
+  "workout_history": "Antrenman Tarihçesi",
+  "@workout_history": {},
+
+  "no_workout_history_available": "Antrenman tarihçesi mevcut değil",
+  "@no_workout_history_available": {},
+
+  "workout_history_summary": "Antrenman Tarihçesi Özeti",
+  "@workout_history_summary": {},
+
+
+
+
+
+
+
+  "code": "Kod",
+  "@code": {},
+
+  "invitation_code": "Davet Kodu",
+  "@invitation_code": {},
+  
+  "enter_invitation_code": "Davet Kodu Giriniz",
+  "@enter_invitation_code": {},
+
+  "connection_created": "Bağlantı Oluşturuldu",
+  "@connection_created": {},
+
+  "successfully_connected_with_trainer": "Başarıyla antrenörle bağlantı kuruldu",
+  "@successfully_connected_with_trainer": {},
+
+  "invalid_invitation_code": "Geçersiz davet kodu",
+  "@invalid_invitation_code": {},
+
+  "invitation_code_already_used": "Bu davet kodu zaten kullanıldı",
+  "@invitation_code_already_used": {},
+
+  "cannot_connect_with_yourself": "Kendinizle bağlantı kuramazsınız",
+  "@cannot_connect_with_yourself": {},
+
+  "already_have_connection_with_professional": "Bu profesyonelle zaten bir bağlantınız var",
+  "@already_have_connection_with_professional": {},
+
+  "enter_invitation_code_shared_by_your_trainer": "Antrenörünüz tarafından paylaşılan davet kodunu giriniz:",
+  "@enter_invitation_code_shared_by_your_trainer": {},
+
+  "coachtrack_invitation": "CoachTrack Daveti",
+  "@coachtrack_invitation": {},
+
+  "join_me_on_coachtrack": "CoachTrack'ta benimle birlikte olun!",
+  "@join_me_on_coachtrack": {},
+
+  "click_here_to_join": "Buraya tıklayınız",
+  "@click_here_to_join": {},
+
+  "or_enter_this_invitation_code": "Veya bu davet kodunu giriniz:",
+  "@or_enter_this_invitation_code": {},
+
+  "dont_have_the_app_yet": "Henüz uygulamayı yüklemediniz mi?",
+  "@dont_have_the_app_yet": {},
+
+  "android_store_link": "Android: {androidStoreLink}",
+  "@android_store_link": {
+    "placeholders": {
+      "androidStoreLink": {
+        "type": "String",
+        "example": "https://play.google.com/store/apps/details?id=com.coachtrack.app"
+      }
+    }
+  },
+
+  "ios_store_link": "iOS: {iosStoreLink}",
+  "@ios_store_link": {
+    "placeholders": {
+      "iosStoreLink": {
+        "type": "String",
+        "example": "https://apps.apple.com/app/id1234567890"
+      }
+    }
+  },
+
+
+
+  "cannot_connect_to_yourself": "Kendinizle bağlantı kuramazsınız",
+  "@cannot_connect_to_yourself": {},
+
+  "trainers_cannot_connect_to_other_trainers": "Antrenörler kendileriyle bağlantı kuramazlar",
+  "@trainers_cannot_connect_to_other_trainers": {},
+
+
+
+
+
+  "request": "İstek",
+  "@request": {},
+  "basic_information": "Temel Bilgiler",
+  "@basic_information": {},
+  "health_medical_history": "Sağlık ve Sağlık Tarihi",
+  "@health_medical_history": {},
+  "lifestyle_activity": "Yaşam Tarzı ve Etkinlik Seviyesi",
+  "@lifestyle_activity": {},
+  "fitness_strength": "Fitness ve Güç Değerlendirmesi",
+  "@fitness_strength": {},
+  "training_goals": "Antrenman Hedefleri",
+  "@training_goals": {},
+  "medical_conditions_question": "Herhangi bir sağlık durumunuz var mı?",
+  "@medical_conditions_question": {},
+  "injuries_question": "Geçmişte herhangi bir yaralanma veya cerrahi yapıldı mı?",
+  "@injuries_question": {},
+  "medications_question": "Şu an herhangi bir ilaç alıyor musunuz?",
+  "@medications_question": {},
+  "pain_during_activity": "Fiziksel aktivite sırasında herhangi bir ağrı veya rahatsızlık hissediyor musunuz?",
+  "@pain_during_activity": {},
+  "allergies_question": "Herhangi bir alerji veya beslenme kısıtlamalarınız var mı?",
+  "@allergies_question": {},
+  "if_yes_specify": "Evetse, lütfen belirtin:",
+  "@if_yes_specify": {},
+  "exercise_frequency": "Ne kadar sık egzersiz yapıyorsunuz?",
+  "@exercise_frequency": {},
+  "sleep_hours": "Gece kaç saat uyuyorsunuz?",
+  "@sleep_hours": {},
+  "diet_description": "Beslenme planınızı nasıl açıklayacaksınız?",
+  "@diet_description": {},
+  "processed_foods": "İşlenmiş gıdaların yüksek olduğu",
+  "@processed_foods": {},
+  "low_protein": "Protein yüksek",
+  "@low_protein": {},
+  "sitting_hours": "Gün içinde kaç saat oturuyorsunuz?",
+  "@sitting_hours": {},
+  "daily_steps": "Gün içinde kaç adım atıyorsunuz?",
+  "@daily_steps": {},
+  "water_intake": "Gün içinde kaç litre su içiyorsunuz?",
+  "@water_intake": {},
+  "resting_heart_rate": "Dinlenme kalp hızı (biliniyorsa)",
+  "@resting_heart_rate": {},
+  "fitness_level": "Fiziksel seviyenizi nasıl değerlendirirsiniz?",
+  "@fitness_level": {},
+  "beginner": "Başlangıç",
+  "@beginner": {},
+  "intermediate": "Orta",
+  "@intermediate": {},
+  "can_do_squats": "Kendinize rahatça squats yapabiliyor musunuz?",
+  "@can_do_squats": {},
+  "can_do_pushups": "Kendinize rahatça push-ups yapabiliyor musunuz?",
+  "@can_do_pushups": {},
+  "can_do_plank": "Kendinize rahatça plank yapabiliyor musunuz?",
+  "@can_do_plank": {},
+  "can_do_pullups": "Kendinize rahatça pull-ups yapabiliyor musunuz?",
+  "@can_do_pullups": {},
+  "can_do_running": "Kendinize rahatça running yapabiliyor musunuz?",
+  "@can_do_running": {},
+  "difficult_exercises": "Herhangi bir özel hareket veya egzersizlere zorlanıyor musunuz?",
+  "@difficult_exercises": {},
+  "motivation": "Antrenman için ne motive ediyor?",
+  "@motivation": {},
+  "strength": "Güç",
+  "@strength": {},
+  "aesthetics": "Görünüm",
+  "@aesthetics": {},
+  "short_term_goals": "Kısa vadeli (3 ay) hedefleriniz neler?",
+  "@short_term_goals": {},
+  "long_term_goals": "Uzun vadeli (6-12 ay) hedefleriniz neler?",
+  "@long_term_goals": {},
+  "additional_comments": "Herhangi başka bir açıklama veya endişe var mı?",
+  "@additional_comments": {},
+  "preferred_training_location": "Tercih edilen antrenman konumu (gym, ev, park, vs.)?",
+  "@preferred_training_location": {}
+    
+
+}
